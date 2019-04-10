@@ -98,14 +98,14 @@ Nao vai ser de brincadeira, ele vai ser campeao"
 
 ### Singapore
 
-![Marina Bay](/img/nomad/singapore.jpg)
+![Marina Bay](/img/nomad/singapore.JPG)
 
 "We'll run where lights won't chase us  
 Hide where love can save us  
 I will never let you go"    
 (Spectrum - Zedd)
 
-![Singapore GP](/img/nomad/singapore-gp.jpg)
+![Singapore GP](/img/nomad/singapore-gp.JPG)
 
 "I don't wanna say goodbye"    
 (Mr Taxi - Girls Generation (Steve Aoki Remix))
