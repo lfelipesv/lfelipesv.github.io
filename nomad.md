@@ -312,7 +312,7 @@ Cause I'll be right beside you"
 
 ### Thailand
 
-![Thailand](/img/nomad/thailand-2.jpg)
+![Thailand](/img/nomad/thailand-2.jpeg)
 
 "Tao natural quanto a luz do dia  
 Mas que preguica boa  
