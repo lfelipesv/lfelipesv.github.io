@@ -337,6 +337,15 @@ O mundo tinha menos luz
 antes de conhece-la"  
 (Perigo - Medulla)
 
+### Xi'An - China
+
+![Xi'An](/img/nomad/xian-pagoda.jpg)
+
+"The challenge of a lifetime  
+Stands before us now  
+Beyond the game"  
+(Beyond the Game - WCG (Steve Aoki Remix))
+
 ### Formiga - Minas Gerais - Brazil
 
 ![Minas Gerais](/img/nomad/vidasimples.jpg)
