@@ -19,3 +19,9 @@ I am currently a PhD student at the Korea Advanced Institute of Science and Tech
 #### Current Projects
  
 **AI World Cup**: Robot Soccer competition. Software Developer. Author and Maintainer of the Python examples and support.
+**WCG AI Masters**: Design and development of the online platform.
+**Robot Hand Project**: Research in Reinforcement Learning algorithms for Robot Control.
+
+#### Publications
+ 
+**[1]**: Seo, Minah & Vecchietti, Luiz & Lee, Sangkeum & Har, Dongsoo. (2019). Rewards Prediction Based Credit Assignment for Reinforcement Learning with Sparse Binary Rewards. IEEE Access. PP. 1-1. 10.1109/ACCESS.2019.2936863. 
