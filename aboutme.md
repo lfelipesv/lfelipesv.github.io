@@ -18,9 +18,9 @@ I am currently a PhD student at the Korea Advanced Institute of Science and Tech
 
 #### Current Projects
  
-**AI World Cup**: Robot Soccer competition. Software Developer. Author and Maintainer of the Python examples and support.
-**WCG AI Masters**: Design and development of the online platform.
-**Robot Hand Project**: Research in Reinforcement Learning algorithms for Robot Control.
+**AI World Cup**: Robot Soccer competition. Software Developer. Author and Maintainer of the Python examples and support.  
+**WCG AI Masters**: Design and development of the online platform.  
+**Robot Hand Project**: Research in Reinforcement Learning algorithms for Robot Control.  
 
 #### Publications
  
