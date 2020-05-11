@@ -24,6 +24,6 @@ I am currently a PhD student at the Korea Advanced Institute of Science and Tech
 
 #### Publications
  
-**[1]**: Seo, Minah & Vecchietti, Luiz & Lee, Sangkeum & Har, Dongsoo. (2019). Rewards Prediction Based Credit Assignment for Reinforcement Learning with Sparse Binary Rewards. IEEE Access. PP. 1-1. 10.1109/ACCESS.2019.2936863.
-**[2]**: Vecchietti, Luiz & Seo, Minah & Har, Dongsoo. (2020). Sampling Rate Decay in Hindsight Experience Replay for Robot Control. IEEE Transactions on Cybernetics.
+**[1]**: Seo, Minah & Vecchietti, Luiz & Lee, Sangkeum & Har, Dongsoo. (2019). Rewards Prediction Based Credit Assignment for Reinforcement Learning with Sparse Binary Rewards. IEEE Access. PP. 1-1. 10.1109/ACCESS.2019.2936863.  
+**[2]**: Vecchietti, Luiz & Seo, Minah & Har, Dongsoo. (2020). Sampling Rate Decay in Hindsight Experience Replay for Robot Control. IEEE Transactions on Cybernetics.  
 **[3]**: Lee, Sangkeum & Vecchietti, Luiz et al. (2020). Power Management by LSTM Network for Nanogrids. IEEE Access.
