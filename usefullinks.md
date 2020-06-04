@@ -20,6 +20,11 @@ subtitle:
 1. [MFCCs Tutorial](http://practicalcryptography.com/miscellaneous/machine-learning/guide-mel-frequency-cepstral-coefficients-mfccs/)
 2. [WER Calculation](https://martin-thoma.com/word-error-rate-calculation/)
 
+#### Brazilian Portuguese Datasets
+
+1. [Igor's Github](https://igormq.github.io/datasets/)
+2. [Edresson's Github](https://github.com/Edresson/TTS-Portuguese-Corpus)
+
 #### Neural Networks Tutorials, Blogs and Tools
 
 1. [Chris Olah's Blog](http://colah.github.io/)
