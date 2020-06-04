@@ -11,7 +11,9 @@ The dataset recorded in that day at the studio, after edited by me, is named as 
 
 One sample sentence is presented next.
 
-![Mp3 sample sentence](/img/thls-sounds/THLS_PTBR_1000_FRA_0010.wav)
+<audio controls>
+  <source src="/img/thls-sounds/THLS_PTBR_1000_FRA_0010.wav" type="audio/wav">
+</audio></html>
 
 The associated waveform correspondent to the sample sentence is shown in the next figure.
 
