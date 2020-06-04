@@ -11,15 +11,15 @@ The dataset recorded in that day at the studio, after edited by me, is named as 
 
 One sample sentence is presented next.
 
-![Mp3 sample sentence](/sounds/THLS_PTBR_1000_FRA_0010.wav)
+![Mp3 sample sentence](/img/thls-sounds/THLS_PTBR_1000_FRA_0010.wav)
 
 The associated waveform correspondent to the sample sentence is shown in the next figure.
 
-![Waveform](/img/waveform.png)
+![Waveform](/img/thls-post/waveform.png)
 
 The associated spectogram correspondent to the sample sentence is shown in the next figure.
 
-![Spectogram](/img/spectogram.png)
+![Spectogram](/img/thls-post/spectogram.png)
 
 I hope the dataset is useful for your application. Please cite the Gitlab link if you use it for your research. 
 
