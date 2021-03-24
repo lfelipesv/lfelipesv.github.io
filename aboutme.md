@@ -11,7 +11,7 @@ I am currently a Post-doc researcher at the Korea Advanced Institute of Science 
 #### Timeline
 
 **2017-2021**: _Korea Advanced Institute of Science and Technology_: PhD degree in Green Transportation (Thesis: Performance Enhancement in Multigoal Reinforcement Learning using Hindsight Experience Replay). Adviser: Dongsoo Har  
-**2015-2017**: _Federal University of Rio de Janeiro_: Master's Degree in Electrical Engineering. (Dissertation: Comparison between rule-based and data-driven natural language processing algorithms for Brazilian Portuguese speech synthesis) Adviser: [Fernando Gil Vianna Resende Junior](http://pee.ufrj.br/prof/?ID=gil)  
+**2015-2017**: _Federal University of Rio de Janeiro_: Master's Degree in Electrical Engineering. (Dissertation: Comparison between rule-based and data-driven natural language processing algorithms for Brazilian Portuguese speech synthesis). Adviser: [Fernando Gil Vianna Resende Junior](http://pee.ufrj.br/prof/?ID=gil)  
 **Summer 2013**: _Hyundai Motor Company Internship_: Eco Vehicle Control System Development Team  
 **2013**: _Korea Advanced Institute of Science and Technology_: Exchange Student at the Electrical Engineering department  
 **2009-2015**: _Federal University of Rio de Janeiro_: Bachelor's Degree in Electronic and Computer Engineering
@@ -19,7 +19,9 @@ I am currently a Post-doc researcher at the Korea Advanced Institute of Science 
 #### Current Projects
  
 **AI World Cup**: Robot Soccer competition. Software Developer. Author and Maintainer of the Python examples and support.
+
 **WCG AI Masters**: Design and development of the online platform.
+
 **Robot Hand Project**: Research in Reinforcement Learning algorithms for Robot Control.
 
 #### Publications
