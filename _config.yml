@@ -26,14 +26,15 @@ navbar-links:
   About Me: "aboutme"
   My Resources:
     - Data Analysis Insights: "https://lfelipesv.github.io/felipeinsights/"
-    - Natural Language Processing: "nlp"
-    #- Reinforcement Learning: "reinforcementlearning"
-    - Speech Synthesis: "speechsynthesis"
-    - Computer Architecture Series: "computerarchitecture"
-    #- Deep Learning: "deeplearning"
+    # - Natural Language Processing: "nlp"
+    # - Reinforcement Learning: "reinforcementlearning"
+    # - Speech Synthesis: "speechsynthesis"
+    # - Computer Architecture Series: "computerarchitecture"
+    # - Deep Learning: "deeplearning"
   Projects:
     - Sertanejator: "http://www.sertanejator.com.br/"
     - AI World Cup: "http://github.com/aiwc/test_world"
+    - AI Soccer: "https://github.com/aisoccer/aisoccer-3d/releases"
   Nomad: "nomad"
   Useful Links: "usefullinks"
 
