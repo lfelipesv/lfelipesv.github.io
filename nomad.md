@@ -346,6 +346,15 @@ Stands before us now
 Beyond the game"  
 (Beyond the Game - WCG (Steve Aoki Remix))
 
+### Pohang - South Korea
+
+![Pohang](/img/nomad/pohang.jpg)
+
+"Questa città mi sta ammazzando
+Non ce la faccio, ma per davvero
+Adesso mollo e faccio il matto, sai"  
+(Un'altra ancora - Fast Animals and Slow Kids)
+
 ### Formiga - Minas Gerais - Brazil
 
 ![Minas Gerais](/img/nomad/vidasimples.jpg)
