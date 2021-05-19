@@ -24,6 +24,8 @@ I am currently a Post-doc researcher at the Korea Advanced Institute of Science 
 
 **Robot Hand Project**: Research in Reinforcement Learning algorithms for Robot Control.
 
+**EBS ESOF Platform**: Design, curriculum design and back end development. Web platform to teach robotics and deep reinforcement learning using Webots and Google Blockly.
+
 #### Publications
  
 **[1]**: Seo, Minah & Vecchietti, Luiz Felipe & Lee, Sangkeum & Har, Dongsoo. (2019). Rewards Prediction Based Credit Assignment for Reinforcement Learning with Sparse Binary Rewards. IEEE Access. PP. 1-1. 10.1109/ACCESS.2019.2936863. 
@@ -45,3 +47,10 @@ I am currently a Post-doc researcher at the Korea Advanced Institute of Science 
 **[9]**: Lee, Sangkeum & Har, Dongsoo & Vecchietti, Luiz Felipe et al. "Optimal Link Scheduling Based on Attributes of Nodes in 6TiSCH Wireless Networks." 한국정보기술학회논문지 18.1 (2020): 77-92.
 
 **[10]**: Hong, Chansol & Jeong, Inbae & Vecchietti, Luiz Felipe et al. "AI World Cup: Robot Soccer-Based Competitions." IEEE Transactions on Games (2021).
+
+**[11]**: Kim, Taeyoung & Vecchietti, Luiz Felipe et al. "Two-stage training algorithm for AI robot soccer." https://arxiv.org/abs/2104.05931 (2021).
+
+#### Reviewer
+
+- IEEE Transactions on Cybernetics
+- IEEE Sensors

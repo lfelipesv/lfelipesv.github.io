@@ -26,6 +26,7 @@ navbar-links:
   About Me: "aboutme"
   My Resources:
     - Data Analysis Insights: "https://lfelipesv.github.io/felipeinsights/"
+    - Football Tactical Analysis: "tacticalanalysis"
     # - Natural Language Processing: "nlp"
     # - Reinforcement Learning: "reinforcementlearning"
     # - Speech Synthesis: "speechsynthesis"
@@ -35,6 +36,9 @@ navbar-links:
     - Sertanejator: "http://www.sertanejator.com.br/"
     - AI World Cup: "http://github.com/aiwc/test_world"
     - AI Soccer: "https://github.com/aisoccer/aisoccer-3d/releases"
+    - EBS ESOF: "http://esof.aisoccer.co.kr/"
+    - Daejeon FC Brasil: "https://twitter.com/DaejeonFCBR"
+    - Libertadores da K League Podcast: "https://open.spotify.com/show/1iq6f7KRUHPQCyKLiCIYs4"
   Nomad: "nomad"
   Useful Links: "usefullinks"
 
