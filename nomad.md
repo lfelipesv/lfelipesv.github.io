@@ -350,9 +350,9 @@ Beyond the game"
 
 ![Pohang](/img/nomad/pohang.jpg)
 
-"Questa città mi sta ammazzando
-Non ce la faccio, ma per davvero
-Adesso mollo e faccio il matto, sai"  
+"Questa città mi sta ammazzando  
+Non ce la faccio, ma per davvero  
+Adesso mollo e faccio il matto, sai"    
 (Un'altra ancora - Fast Animals and Slow Kids)
 
 ### Formiga - Minas Gerais - Brazil
