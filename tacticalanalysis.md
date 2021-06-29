@@ -22,3 +22,5 @@ subtitle:
 #### Articles
 
 1. [Opportunities to Daejeon Hana Citizen (Dec/2020)](http://www.kleagueunited.com/2020/12/guest-column-opportunities-for-daejeon.html)
+2. [X-Ray Analysis: Ulsan Hyundai [Part One] (Jun/2021)](http://www.kleagueunited.com/2021/06/x-ray-analysis-ulsan-hyundai-part-one.html)
+3. [X-Ray Analysis: Ulsan Hyundai [Part Two] (Jun/2021)](http://www.kleagueunited.com/2021/06/x-ray-analysis-ulsan-hyundai-part-two.html)

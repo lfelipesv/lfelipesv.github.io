@@ -33,10 +33,10 @@ navbar-links:
     # - Computer Architecture Series: "computerarchitecture"
     # - Deep Learning: "deeplearning"
   Projects:
-    - Sertanejator: "http://www.sertanejator.com.br/"
+    # - Sertanejator: "http://www.sertanejator.com.br/"
     - AI World Cup: "http://github.com/aiwc/test_world"
     - AI Soccer: "https://github.com/aisoccer/aisoccer-3d/releases"
-    - EBS ESOF: "http://esof.aisoccer.co.kr/"
+    - EBS ESOF: "https://esof.aisoccer.co.kr/"
     - Daejeon FC Brasil: "https://twitter.com/DaejeonFCBR"
     - Libertadores da K League Podcast: "https://open.spotify.com/show/1iq6f7KRUHPQCyKLiCIYs4"
   Nomad: "nomad"
