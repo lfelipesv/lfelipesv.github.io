@@ -6,17 +6,26 @@ subtitle:
 
 #### Bio
 
-I am currently a Post-doc researcher at the Korea Advanced Institute of Science and Technology, South Korea. My current research involves Deep Learning, Reinforcement Learning, Robotics and Artificial Intelligence. I have previous research experiences in Speech Synthesis (corpus building and segmentation, statistical parametric speech synthesis, speaker adaptation) and Natural Language Processing (using recurrent neural networks). My personal interests include traveling, sports, music (classical guitar, cavaquinho) and reading.
+I am currently a Senior Researcher at the Data Science Group, Institute for Basic Science, South Korea. My current research involves Deep Learning, Reinforcement Learning, and Bioinformatics. I have previous research experiences in Deep Reinforcement Learning applied to Robotics (continuous control, development of simulated environments), Speech Synthesis (corpus building and segmentation, statistical parametric speech synthesis), and Natural Language Processing (using recurrent neural networks). My personal interests include traveling, sports, music (classical guitar, cavaquinho) and reading.
 
-#### Timeline
+#### Positions
 
-**2017-2021**: _Korea Advanced Institute of Science and Technology_: PhD degree in Green Transportation (Thesis: Performance Enhancement in Multigoal Reinforcement Learning using Hindsight Experience Replay). Adviser: Dongsoo Har  
+**2021.10-Present**: _Data Science Group, Institute for Basic Science_: Senior Researcher
+**2021.3-2021.9**: _Mechanical Engineering Research Institute, KAIST_: Postdoctoral Researcher
+
+#### Education
+
+**2017-2021**: _Korea Advanced Institute of Science and Technology (KAIST)_: PhD degree in Green Transportation (Thesis: Performance Enhancement in Multigoal Reinforcement Learning using Hindsight Experience Replay). Adviser: Dongsoo Har  
 **2015-2017**: _Federal University of Rio de Janeiro_: Master's Degree in Electrical Engineering. (Dissertation: Comparison between rule-based and data-driven natural language processing algorithms for Brazilian Portuguese speech synthesis). Adviser: [Fernando Gil Vianna Resende Junior](http://pee.ufrj.br/prof/?ID=gil)  
 **Summer 2013**: _Hyundai Motor Company Internship_: Eco Vehicle Control System Development Team  
-**2013**: _Korea Advanced Institute of Science and Technology_: Exchange Student at the Electrical Engineering department  
+**2013**: _Korea Advanced Institute of Science and Technology (KAIST)_: Exchange Student at the Electrical Engineering department  
 **2009-2015**: _Federal University of Rio de Janeiro_: Bachelor's Degree in Electronic and Computer Engineering
 
 #### Current Projects
+ 
+**Protein/Antibody Design**: Research on Protein/Antibody design methods using Deep Learning for the development of new therapeutics/vaccines.
+
+#### Past Projects
  
 **AI World Cup**: Robot Soccer competition. Software Developer. Author and Maintainer of the Python examples and support.
 
@@ -50,7 +59,11 @@ I am currently a Post-doc researcher at the Korea Advanced Institute of Science 
 
 **[11]**: Kim, Taeyoung & Vecchietti, Luiz Felipe et al. "Two-stage training algorithm for AI robot soccer." https://arxiv.org/abs/2104.05931 (2021).
 
+**[12]**: Lee, Sangkeum & Jin, Hojun & Vecchietti, Luiz Felipe et al. "Cooperative decentralized peer-to-peer electricity trading of nanogrid clusters based on predictions of load demand and PV power generation using a gated recurrent unit model." IET Renewable Power Generation, vol. 15, pp. 3505-3523 (2021).
+
 #### Reviewer
 
 - IEEE Transactions on Cybernetics
 - IEEE Sensors
+- IEEE Transactions on Games
+- ICML LatinX Workshop 2021
