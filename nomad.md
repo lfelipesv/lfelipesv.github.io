@@ -355,6 +355,24 @@ Non ce la faccio, ma per davvero
 Adesso mollo e faccio il matto, sai"    
 (Un'altra ancora - Fast Animals and Slow Kids)
 
+### Leblon - Rio de Janeiro - Brazil
+
+![Leblon](/img/nomad/leblon-riodejaneiro.jpg)
+
+"Bom te ver  
+Mesmo que isso nao va mudar..."    
+(Bom te ver - Medulla)
+
+### Jukdo Beach - South Korea
+
+![Jukdo](/img/nomad/jukdobeach.jpg)
+
+"Close your brown eyes
+And lay down next to me
+Close your eyes, lay down
+'Cos there goes the fear"    
+(There goes the fear - Doves)
+
 ### Formiga - Minas Gerais - Brazil
 
 ![Minas Gerais](/img/nomad/vidasimples.jpg)
