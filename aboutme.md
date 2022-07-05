@@ -10,7 +10,7 @@ I am currently a Senior Researcher at the Data Science Group, Institute for Basi
 
 #### Positions
 
-**2021.10-Present**: _Data Science Group, Institute for Basic Science, South Korea_: Senior Researcher
+**2021.10-Present**: _Data Science Group, Institute for Basic Science, South Korea_: Senior Researcher  
 **2021.3-2021.9**: _Mechanical Engineering Research Institute, KAIST, South Korea_: Postdoctoral Researcher
 
 #### Education
@@ -70,3 +70,5 @@ I am currently a Senior Researcher at the Data Science Group, Institute for Basi
 - IEEE Transactions on Games
 - ICML LatinX Workshop 2021
 - AAAI ICWSM 2022
+
+**[Curriculum Vitae in PDF](https://lfelipesv.github.io/assets/CV_Luiz_Felipe_Vecchietti.pdf)**
