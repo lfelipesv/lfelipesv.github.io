@@ -6,12 +6,12 @@ subtitle:
 
 #### Bio
 
-I am currently a Senior Researcher at the Data Science Group, Institute for Basic Science, South Korea. My current research involves Deep Learning, Reinforcement Learning, and Bioinformatics. I have previous research experiences in Deep Reinforcement Learning applied to Robotics (continuous control, development of simulated environments), Speech Synthesis (corpus building and segmentation, statistical parametric speech synthesis), and Natural Language Processing (using recurrent neural networks). My personal interests include traveling, sports, music (classical guitar, cavaquinho) and reading.
+I am currently a Senior Researcher at the Data Science Group, Institute for Basic Science, South Korea. I am currently working towards applying AI-based methods for Protein and Antibody Design applied to drug discovery. I am also interested in improving exploration and credit assignment in single-agent and multi-agent reinforcement learning. My main research interests involves Deep Learning, Reinforcement Learning, and Bioinformatics. I have previous research experiences in Deep Reinforcement Learning applied to Robotics (continuous control, development of simulated environments, multi-agent systems), Speech Synthesis (corpus building and segmentation, statistical parametric speech synthesis), and Natural Language Processing (using sequence-to-sequence models and transformers). My personal interests include traveling, sports (football, kickboxing, skate, surfskate), music (classical guitar, cavaquinho) and reading (fantasy, science fiction, mountaineering).
 
 #### Positions
 
-**2021.10-Present**: _Data Science Group, Institute for Basic Science_: Senior Researcher
-**2021.3-2021.9**: _Mechanical Engineering Research Institute, KAIST_: Postdoctoral Researcher
+**2021.10-Present**: _Data Science Group, Institute for Basic Science, South Korea_: Senior Researcher
+**2021.3-2021.9**: _Mechanical Engineering Research Institute, KAIST, South Korea_: Postdoctoral Researcher
 
 #### Education
 
@@ -23,7 +23,7 @@ I am currently a Senior Researcher at the Data Science Group, Institute for Basi
 
 #### Current Projects
  
-**Protein/Antibody Design**: Research on Protein/Antibody design methods using Deep Learning for the development of new therapeutics/vaccines.
+**Development of AI-based method for drug discovery**: Research on Protein/Antibody design methods using Deep Learning for the development of new therapeutics/vaccines.
 
 #### Past Projects
  
@@ -61,9 +61,12 @@ I am currently a Senior Researcher at the Data Science Group, Institute for Basi
 
 **[12]**: Lee, Sangkeum & Jin, Hojun & Vecchietti, Luiz Felipe et al. "Cooperative decentralized peer-to-peer electricity trading of nanogrid clusters based on predictions of load demand and PV power generation using a gated recurrent unit model." IET Renewable Power Generation, vol. 15, pp. 3505-3523 (2021).
 
+**[13]**: Lee, Minji & Rzayev, Anar & Jung, Hyunkyu & Vecchietti, Luiz Felipe et al. "Structure-based representation for protein functionality prediction using machine learning." in Proceedings of the Korea Computer Congress (KCC), (2022).
+
 #### Reviewer
 
 - IEEE Transactions on Cybernetics
 - IEEE Sensors
 - IEEE Transactions on Games
 - ICML LatinX Workshop 2021
+- AAAI ICWSM 2022
