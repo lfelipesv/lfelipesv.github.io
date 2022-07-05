@@ -5,7 +5,7 @@ title: Álbum review 1 - Camões - Flôres
 
 Iniciando um projeto que parecia que nunca iria sair do papel. Nessa série farei reviews de álbums que me trazem algum sentimento, alguma coisa diferente que me faz querer sentar, escrever, dividir... Nesse primeiro review, vou interiorizar o álbum Flôres de 2018 do artista brasileiro Camões.
 
-![Camões - Flôres](/img/albums-reviews/1-camoes-flores.jpg)
+![Camões - Flôres](/img/album-reviews/1-camoes-flores.jpg)
 
 1. Só na cena: Como um visionário, em 2018 Camões começa seu álbum falando que "segue em quarentena". A música de abertura do álbum não é refinada, e têm como único objetivo teletransportar o ouvinte pra praça General Osório, pro Rio de Janeiro, pra dinâmica da vida do carioca, pra dinâmica do artista, no fim das contas o que importa é só ser reconhecido na própria vizinhança, ser o "bam bam bam" de Ipanema.
 2. Nova Aurora: De repente vêm um combo que é um renascimento, uma redefinição de identidade musical do artista. Parece que de repente, tudo vai ser dividido antes e depois das músicas Nova Aurora e Cumbia da Gota. É uma essência de Brasil, é a identidade de brasilidade. Uma festa em que você perde a definição do tempo, sem luxo, uma festa em Nova Aurora que têm tudo que uma festa tem que ter... mas até a manhã seguinte quando a realidade bate a porta, e mais um dia de trabalho se espera...
