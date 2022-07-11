@@ -12,12 +12,6 @@ In this page I list useful resources that I encountered during my research recen
 2. [Anaconda](https://www.anaconda.com/products/distribution)
 3. [Visual Studio Code](https://code.visualstudio.com/)
 
-#### AI-based Drug Discovery
-
-1. [Solab resources](https://site.solab.org/resources)
-2. [ColabFold (Protein Structure Prediction)](https://colab.research.google.com/github/sokrypton/ColabFold/blob/main/AlphaFold2.ipynb#scrollTo=kOblAo-xetgx)
-3. [ProteinMPNN (Protein Sequence Design)](https://huggingface.co/spaces/simonduerr/ProteinMPNN)
-
 ### Deep Learning
 
 #### Neural Networks Tutorials, Blogs and Tools
@@ -25,6 +19,12 @@ In this page I list useful resources that I encountered during my research recen
 1. [Chris Olah's Blog](http://colah.github.io/)
 2. [Andrej Karpathy's Blog](http://karpathy.github.io/)
 3. [Jürgen Schmidhuber's AI Blog](https://people.idsia.ch/~juergen/blog.html)
+
+#### AI-based Drug Discovery
+
+1. [Solab resources](https://site.solab.org/resources)
+2. [ColabFold (Protein Structure Prediction)](https://colab.research.google.com/github/sokrypton/ColabFold/blob/main/AlphaFold2.ipynb#scrollTo=kOblAo-xetgx)
+3. [ProteinMPNN (Protein Sequence Design)](https://huggingface.co/spaces/simonduerr/ProteinMPNN)
 
 ### Deep Reinforcement Learning and Robotics
 
