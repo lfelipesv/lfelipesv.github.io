@@ -373,6 +373,43 @@ Close your eyes, lay down
 'Cos there goes the fear"    
 (There goes the fear - Doves)
 
+### Kyoto - Japan
+
+![Kyoto-2022](/img/nomad/kyoto-2022.jpg)
+
+"Cause everytime we touch  
+I get this feeling  
+And every time we kiss  
+I reach for the sky"    
+(Everytime we touch - Cascada)
+
+### Lisbon - Portugal
+
+![Lisbon](/img/nomad/lisbon-portugal.jpg)
+
+"E eu só sei que nada soube tão bem  
+Só sei que esqueci tudo o que sei    
+Deixei à porta, olhei à volta e voou"    
+(Passo a Passo - Nena)
+
+### Guimaraes - Portugal
+
+![Guimaraes](/img/nomad/guimaraes-portugal.jpg)
+
+"Vai ser isso mesmo, vai?  
+Isso mesmo até quando?  
+Fé cega, radicalismo, sério?"    
+(Distopia - Planet Hemp)
+
+### Paris - France
+
+![Paris](/img/nomad/paris-france.jpg)
+
+"Wait for the dust to settle down around us  
+And stick to what we know  
+I think the air is finally safe to breath again"    
+(Dreaming - Smallpools)
+
 ### Formiga - Minas Gerais - Brazil
 
 ![Minas Gerais](/img/nomad/vidasimples.jpg)
