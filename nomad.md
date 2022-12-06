@@ -410,6 +410,15 @@ And stick to what we know
 I think the air is finally safe to breath again"    
 (Dreaming - Smallpools)
 
+### New Orleans - USA
+
+![New Orleans](/img/nomad/neworleans.jpg)
+
+"Don't stop believin'  
+Hold on to that feeling  
+Streetlights, people"    
+(Don't Stop Believing - Journey)
+
 ### Formiga - Minas Gerais - Brazil
 
 ![Minas Gerais](/img/nomad/vidasimples.jpg)
