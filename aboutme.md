@@ -6,12 +6,9 @@ subtitle:
 
 #### Bio
 
-I am currently a **Senior Researcher** at the **Data Science Group, Institute for Basic Science, South Korea**. 
-
-My main research goal is to **develop** and **apply** deep learning methods for science understanding. In the **development** of novel deep learning methods I am particular interested in **Deep Reinforcement Learning** and **Graph Neural Networks**. In **Deep Reinforcement Learning** my research involves improving sampling efficiency and performing by developing new credit assignment and exploration methods. In **Graph Neural Networks** my research involves the development of methods that can be applied to Protein and Antibody design in drug discovery.
-
-I have previous research experiences in Deep Reinforcement Learning applied to **Robotics** (continuous control, development of simulated environments, multi-agent systems), **Speech Synthesis** (corpus building and segmentation, statistical parametric speech synthesis), and **Natural Language Processing** (using sequence-to-sequence models combined with LSTMs and Transformers).
-
+I am currently a **Senior Researcher** at the **Data Science Group, Institute for Basic Science, South Korea**.  
+My main research goal is to **develop** and **apply** deep learning methods for science understanding. In the **development** of novel deep learning methods I am particular interested in **Deep Reinforcement Learning** and **Graph Neural Networks**. My research in **Deep Reinforcement Learning** involves improving sampling efficiency and performing by developing new credit assignment and exploration methods. My research in **Graph Neural Networks** involves the development of methods that can be applied to Protein and Antibody design in drug discovery.  
+I have previous research experiences in Deep Reinforcement Learning applied to **Robotics** (continuous control, development of simulated environments, multi-agent systems), **Speech Synthesis** (corpus building and segmentation, statistical parametric speech synthesis), and **Natural Language Processing** (using sequence-to-sequence models combined with LSTMs and Transformers).  
 My personal interests include traveling, sports (football, kickboxing, skate, surfskate), music (classical guitar, cavaquinho) and reading (fantasy, science fiction, mountaineering).
 
 **[Curriculum Vitae in PDF](https://lfelipesv.github.io/assets/CV_Luiz_Felipe_Vecchietti.pdf)**  
@@ -25,7 +22,7 @@ My personal interests include traveling, sports (football, kickboxing, skate, su
 
 #### Positions
 
-**2021.10-Present**: _Data Science Group, Institute for Basic Science, South Korea_: Senior Researcher. Adviser: [Meeyoung Cha](https://scholar.google.com/citations?user=iFlnVCoAAAAJ&hl=en-US&oi=ao)
+**2021.10-Present**: _Data Science Group, Institute for Basic Science, South Korea_: Senior Researcher. Adviser: [Meeyoung Cha](https://scholar.google.com/citations?user=iFlnVCoAAAAJ&hl=en-US&oi=ao)  
 **2021.3-2021.9**: _Mechanical Engineering Research Institute, KAIST, South Korea_: Postdoctoral Researcher. Adviser: Dongsoo Har
 
 #### Education
@@ -45,15 +42,21 @@ My personal interests include traveling, sports (football, kickboxing, skate, su
 
 #### Past Projects
  
-**AI World Cup**: Robot Soccer competition. Software Developer. Author and Maintainer of the Python examples and support.
+**AI World Cup**: Robot Soccer competition. Software Developer. Author and Maintainer of the Python examples and support.  
+*Selected Media Coverage*: [Korea Herald](https://www.koreaherald.com/view.php?ud=20171129000740), [AI Times](https://www.aitimes.kr/news/articleView.html?idxno=14596)  
 
-**WCG AI Masters**: Design and development of the online platform.
+**WCG AI Masters**: Design and development of the online platform.  
+*Selected Media Coverage*: [Press Release](https://en.prnasia.com/releases/apac/wcg-2019-xi-an-announces-new-horizons-games-246978.shtml), [Youtube](https://www.youtube.com/watch?v=4iUIe44NWiw)
 
-**Robot Hand Project**: Research in Reinforcement Learning algorithms for Robot Control.
+**Robot Hand Project**: Research in Reinforcement Learning algorithms for Robot Control.  
+*Selected Media Coverage*: [KAIST Breakthroughs 2020](https://breakthroughs.kaist.ac.kr/wp/?x=0&y=0&s=predicting+key+actions)  
 
-**EBS ESOF Platform**: Design, curriculum design and back end development. Web platform to teach robotics and deep reinforcement learning using Webots and Google Blockly.
+**EBS ESOF Platform**: Design, curriculum design and back end development. Web platform to teach robotics and deep reinforcement learning using Webots and Google Blockly.  
+*Selected Media Coverage*: [EBS Platform](https://www.ebssw.kr/coding/aiSoccerView.do)  
 
 #### Publications
+
+### Test
  
 **[1]**: Seo, Minah & Vecchietti, Luiz Felipe & Lee, Sangkeum & Har, Dongsoo. (2019). Rewards Prediction Based Credit Assignment for Reinforcement Learning with Sparse Binary Rewards. IEEE Access. PP. 1-1. 10.1109/ACCESS.2019.2936863. 
 
