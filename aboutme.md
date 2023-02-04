@@ -17,7 +17,7 @@ My personal interests include traveling, sports (football, kickboxing, skate, sn
 **[Curriculum Vitae in PDF](https://lfelipesv.github.io/assets/CV_Luiz_Felipe_Vecchietti.pdf)**  
 *Please feel free to contact me at lfelipesv at gmail.com*
 
-### Interests
+### Research Interests  
 
 * Deep Reinforcement Learning *(Credit Assignment, Exploration, Multi-agent Systems)*
 * Graph Neural Networks *(Equivariance, Graph Structure Optimization)*
@@ -31,9 +31,9 @@ My personal interests include traveling, sports (football, kickboxing, skate, sn
 ### Education
 
 **2017-2021**: _Korea Advanced Institute of Science and Technology (KAIST)_: PhD degree in Green Transportation (Thesis: Performance Enhancement in Multigoal Reinforcement Learning using Hindsight Experience Replay). Adviser: Dongsoo Har  
-**2015-2017**: _Federal University of Rio de Janeiro_: Master's Degree in Electrical Engineering. (Dissertation: Comparison between rule-based and data-driven natural language processing algorithms for Brazilian Portuguese speech synthesis). Adviser: [Fernando Gil Vianna Resende Junior](http://pee.ufrj.br/prof/?ID=gil)  
+**2015-2017**: _Federal University of Rio de Janeiro (UFRJ)_: Master's Degree in Electrical Engineering. (Dissertation: Comparison between rule-based and data-driven natural language processing algorithms for Brazilian Portuguese speech synthesis). Adviser: [Fernando Gil Vianna Resende Junior](http://pee.ufrj.br/prof/?ID=gil)  
 **2013**: _Korea Advanced Institute of Science and Technology (KAIST)_: Exchange Student at the Electrical Engineering department  
-**2009-2015**: _Federal University of Rio de Janeiro_: Bachelor's Degree in Electronic and Computer Engineering
+**2009-2015**: _Federal University of Rio de Janeiro (UFRJ)_: Bachelor's Degree in Electronic and Computer Engineering
 
 ### Internships
 
@@ -84,7 +84,7 @@ My personal interests include traveling, sports (football, kickboxing, skate, sn
 
 **[P10]**: Hong, Chansol & Jeong, Inbae & **Vecchietti, Luiz Felipe** et al. "AI World Cup: Robot Soccer-Based Competitions." IEEE Transactions on Games (2021).
 
-**[P11]**: Kim<sup>†</sup>, Taeyoung & **Vecchietti, Luiz Felipe** et al. "Two-stage training algorithm for AI robot soccer." https://arxiv.org/abs/2104.05931 (2021).
+**[P11]**: Kim<sup>†</sup>, Taeyoung & **Vecchietti, Luiz Felipe** et al. "Two-stage training algorithm for AI robot soccer." PeerJ Computer Science (2021).
 
 **[P12]**: Lee, Sangkeum & Jin, Hojun & **Vecchietti, Luiz Felipe** et al. "Cooperative decentralized peer-to-peer electricity trading of nanogrid clusters based on predictions of load demand and PV power generation using a gated recurrent unit model." IET Renewable Power Generation, vol. 15, pp. 3505-3523 (2021).
 
@@ -135,7 +135,7 @@ I am very thankful for the support and trust given from my advisors throughout m
 
 #### Current  
 
-**Sangmin Lee**, 2023-Now  
+- **Sangmin Lee**, 2023-Now  
 CS Undergraduate at KAIST  
 *Topic*: Target-conditioned Antibody Design using Large Language Models  
 
