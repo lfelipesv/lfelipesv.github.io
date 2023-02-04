@@ -8,11 +8,11 @@ subtitle:
 
 I am currently a **Senior Researcher** at the **Data Science Group, Institute for Basic Science, South Korea**.  
 
-My main research goal is to **develop** and **apply** deep learning methods for science understanding. In the **development** of novel deep learning methods I am particular interested in **Deep Reinforcement Learning** and **Graph Neural Networks**. My research in **Deep Reinforcement Learning** involves improving sampling efficiency and performing by developing new credit assignment and exploration methods. My research in **Graph Neural Networks** involves the development of methods that can be applied to Protein and Antibody design in drug discovery.  
+My main research goal is to **develop** and **apply** deep learning methods for science understanding. In the **development** of novel deep learning methods I am particular interested in **Deep Reinforcement Learning** and **Graph Neural Networks**. My research in **Deep Reinforcement Learning** involves improving sampling efficiency and performance by developing new credit assignment and exploration methods. My research in **Graph Neural Networks** involves the development of methods that can be applied to Target-conditioned Protein and Antibody design in drug discovery.  
 
 I have previous research experiences in Deep Reinforcement Learning applied to **Robotics** (continuous control, development of simulated environments, multi-agent systems), **Speech Synthesis** (corpus building and segmentation, statistical parametric speech synthesis), and **Natural Language Processing** (using sequence-to-sequence models combined with LSTMs and Transformers).  
 
-My personal interests include traveling, sports (football, kickboxing, skate, surfskate), music (classical guitar, cavaquinho) and reading (fantasy, science fiction, mountaineering).
+My personal interests include traveling, sports (football, kickboxing, skate, snowboard, surf, surfskate), music (classical guitar, cavaquinho) and reading (fantasy, science fiction, mountaineering).
 
 **[Curriculum Vitae in PDF](https://lfelipesv.github.io/assets/CV_Luiz_Felipe_Vecchietti.pdf)**  
 *Please feel free to contact me at lfelipesv at gmail.com*
@@ -21,7 +21,7 @@ My personal interests include traveling, sports (football, kickboxing, skate, su
 
 * Deep Reinforcement Learning *(Credit Assignment, Exploration, Multi-agent Systems)*
 * Graph Neural Networks *(Equivariance, Graph Structure Optimization)*
-* Applied Deep Learning *(Drug Discovery, Text Analysis, Renewable Energy)*  
+* Applied Deep Learning *(Drug Discovery, Text Analysis, Renewable Energy / Climate)*  
 
 ### Positions
 
@@ -101,7 +101,7 @@ My personal interests include traveling, sports (football, kickboxing, skate, su
 
 **[W5]**: Rajendran<sup>†</sup>, Praveen Kumar & Mishra, Sumit & **Vecchietti, Luiz Felipe** et al. "RelMobNet: End-to-end relative camera pose estimation using a robust two-stage training." presented at the ECCV IWDSC Workshop, (2022).
 
-### Academic Services
+### Academic Services  
 
 #### Reviewer
 
@@ -115,7 +115,8 @@ My personal interests include traveling, sports (football, kickboxing, skate, su
 ### Invited Talks
 
 **[I1]: Target-conditioned Protein and Antibody Design for Drug Discovery**  
-IBS Winter School on AI-Boosted Basic Science, Institute for Basic Science, Dec 2022.
+IBS Winter School on AI-Boosted Basic Science, Institute for Basic Science, Dec 2022.  
+*Co-delivered with Prof. Ho Min Kim (KAIST)*
 
 **[I2]: Identifying the key actions that lead an agent to accomplish a task in model-based reinforcement learning**  
 School of AI Convergence, Chonnam National University, Nov 2021.
@@ -126,4 +127,74 @@ Cho Chun Shik Graduate School of Mobility, KAIST, Oct 2021.
 **[I4]: Identifying the key actions that lead an agent to accomplish a task in model-based reinforcement learning**  
 Data Science Group, Institute for Basic Science, Apr 2021.
 
-### Mentored Students
+### Mentored Students  
+
+It is a great pleasure to work with very talented and hardworking students.  
+
+I am very thankful for the support and trust given from my advisors throughout my career: Prof. Fernando Gil Vianna Resende Junior (MsC), Prof. Dongsoo Har (PhD), and currently Prof. Ho Min Kim, and Prof. Meeyoung Cha.  
+
+#### Current  
+
+**Sangmin Lee**, 2023-Now  
+CS Undergraduate at KAIST  
+*Topic*: Target-conditioned Antibody Design using Large Language Models  
+
+- **Begench Hangeldiyev**, 2022-Now  
+Chemical Engineering Undergraduate at KAIST    
+*Topic*: Antibody Sequence Design with Graph-Based Methods  
+Published his first paper on antibody design with deep learning at KSC 2023.  
+
+- **Hyunkyu Jung**, 2021-Now  
+CS Master's Candidate at KAIST  
+*Topic*: Protein-Protein Interactions using Equivariant Point Cloud Transformers  
+
+#### Alumni  
+
+- **Minji Lee**, 2022  
+CS Undergraduate at KAIST  
+*Topic*: Protein Optimization using Deep Reinforcement Learning  
+Published two first-author papers on protein functionality prediction and protein engineering using deep learning at KCC and NeurIPS MLSB Workshop 2022. Submitted a first-author paper on protein engineering to ICML 2023.  
+
+- **Anar Rzayev**, 2022  
+CS Undergraduate at KAIST  
+*Topic*: Antibody Structure Representation Learning  
+
+- **Lucas Santiago Peixoto**, 2022  
+Computer Engineering Undergraduate at Federal University of Rio de Janeiro (UFRJ)  
+*Topic*: Sentence-level Text Analysis using Transformers  
+Worked and successfully defended his undergraduate thesis on NLP.  
+*Co-advisor in undergraduate thesis with Prof. Fernando Gil Vianna Resende Junior*  
+
+- **Matheus Tymburiba Elian**, 2021-2022  
+Industrial Design PhD Candidate at University of Tsukuba    
+*Topic*: Gender-Ambiguous Voice Agents for Voice User Interfaces  
+Submitted a first-author paper on gender-ambiguous voice agents to CHI 2023.  
+
+- **Kien Hoang**, 2021-2022  *(now MsC Candidate at EPFL)*  
+Mathematics Undergraduate at KAIST    
+*Topic*: Graph structure optimization with Deep Reinforcement Learning  
+
+- **Sumit Mishra**, 2020-2022  *(now PhD Candidate at KAIST)*
+Robotics Master's Candidate at KAIST    
+*Topic*: Intelligent Transportation Systems using Deep Learning  
+Submitted a first-author paper on ITS to IEEE Transactions on Intelligent Transportation Systems.  
+
+- **Praveen Kumar Rajendran**, 2020-2022  
+Future Vehicle Program Master's Candidate at KAIST    
+*Topic*: Camera Pose Estimation using End-to-End Deep Learning  
+Published a first-author paper on pose estimation with deep learning at ECCV IWDSC Workshop 2022. Submitted a first author paper to CVPR 2023.  
+
+- **Taeyoung Kim**, 2019-2021  *(now PhD Candidate at KAIST)*  
+Green Transportation Master's Candidate at KAIST    
+*Topic*: Deep Reinforcement Learning, Cooperative-Competitive Multi-agent Systems  
+Published a first-author review paper on sensor networks using deep learning at IEEE Sensors Journal. Published a first-author paper on deep reinforcement learning in multi-agent environments at PeerJ Computer Science.  
+
+- **Kyujin Choi**, 2019-2020  *(now ML Engineer at KT)*  
+Green Transportation Master's Candidate at KAIST  
+*Topic*: Deep Reinforcement Learning, Cooperative-Competitive Multi-agent Systems  
+Published a co-first author paper on deep reinforcement learning in multi-agent environments at PeerJ Computer Science.
+
+- **Minah Seo**, 2018-2019  *(now ML Engineer at KT)*  
+Green Transportation Master's Candidate at KAIST  
+*Topic*: Credit Assignment in Deep Reinforcement Learning  
+Published a first-author paper on efficient credit assignment in RL at IEEE Access.
