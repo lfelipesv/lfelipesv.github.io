@@ -4,29 +4,30 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (https://username.github.io) then use these settings:
-url: "https://lfelipesv.github.io"
-baseurl: ""
+# url: "https://lfelipesv.github.io"
+# baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
-#url: "http://username.github.io/projectname"
-#baseurl: "/projectname"
+url: "http://username.github.io/aboutme"
+baseurl: "/aboutme"
 
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Felipe Vecchietti blog
+title: Luiz Felipe Vecchietti
 
 # Short description of your site
-description: Sharing thoughts, codes and experiences...
+description: 
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  My Resources:
-    - Data Analysis Insights: "https://lfelipesv.github.io/felipeinsights/"
-    - Football Tactical Analysis: "tacticalanalysis"
+  Blog: "https://lfelipesv.github.io"
+  # My Resources:
+  #   - Data Analysis Insights: "https://lfelipesv.github.io/felipeinsights/"
+  #   - Football Tactical Analysis: "tacticalanalysis"
     # - Natural Language Processing: "nlp"
     # - Reinforcement Learning: "reinforcementlearning"
     # - Speech Synthesis: "speechsynthesis"
@@ -37,10 +38,11 @@ navbar-links:
     - AI World Cup: "http://github.com/aiwc/test_world"
     - AI Soccer: "https://github.com/aisoccer/aisoccer-3d/releases"
     # - EBS ESOF: "https://esof.aisoccer.co.kr/"
-    - Daejeon FC Brasil: "https://twitter.com/DaejeonFCBR"
-    - Libertadores da K League Podcast: "https://open.spotify.com/show/1iq6f7KRUHPQCyKLiCIYs4"
+    # - Daejeon FC Brasil: "https://twitter.com/DaejeonFCBR"
+    # - Libertadores da K League Podcast: "https://open.spotify.com/show/1iq6f7KRUHPQCyKLiCIYs4"
   Nomad: "nomad"
-  Useful Links: "usefullinks"
+  News: "news"
+  # Useful Links: "usefullinks"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -84,7 +86,7 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
 #  rss: true
-  email: "lfelipesv@kaist.ac.kr"
+  email: "lfelipesv@gmail.com"
 #  facebook: daattali
   github: lfelipesv
 #  twitter: daattali
@@ -112,7 +114,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "lfelipesv.github.io"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "lfelipesv.github.io/aboutme"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
