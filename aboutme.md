@@ -20,7 +20,7 @@ My personal interests include traveling, sports (football, kickboxing, skate, sn
 ### Research Interests  
 
 * Deep Reinforcement Learning *(Credit Assignment, Exploration, Multi-agent Systems)*
-* Graph Neural Networks *(Equivariance, Graph Structure Optimization)*
+* Graph Neural Networks *(Generative Models, Equivariance, Graph Structure Optimization)*
 * Applied Deep Learning *(Drug Discovery, Text Analysis, Renewable Energy / Climate)*  
 
 ### Positions
@@ -54,7 +54,7 @@ My personal interests include traveling, sports (football, kickboxing, skate, sn
 **Robot Hand Project**: Research in Reinforcement Learning algorithms for Robot Control.  
 *Selected Media Coverage*: [KAIST Breakthroughs 2020](https://breakthroughs.kaist.ac.kr/wp/?x=0&y=0&s=predicting+key+actions)  
 
-**EBS ESOF Platform**: Design, curriculum design and back end development. Web platform to teach robotics and deep reinforcement learning using Webots and Google Blockly.  
+**EBS ESOF Platform**: System modeling, curriculum design and back end development. Web platform to teach robotics and deep reinforcement learning using Webots and Google Blockly.  
 *Online Platform*: [EBS Platform](https://www.ebssw.kr/coding/aiSoccerView.do)  
 
 ### Publications
@@ -92,18 +92,18 @@ My personal interests include traveling, sports (football, kickboxing, skate, sn
 
 **[W1]**: Jung<sup>†</sup>, Hyunkyu & **Vecchietti, Luiz Felipe** et al. "Protein Structure Tokenizer for Efficient Learning." presented as a poster in Peptalk, San Diego, USA (2023).
 
-**[W2]**: Hangeldiyev<sup>†</sup>, Begench & Rzayev, Anar & Armanuly, Azamat & Jung, Hyunkyu & **Vecchietti, Luiz Felipe** et al. "Antibody Sequence Design With Graph-Based Deep Learning Methods." in Proceedings of the Korea Software Congress (KSC), (2022).
+**[W2]**: Hangeldiyev<sup>†</sup>, Begench & Rzayev, Anar & Armanuly, Azamat & Jung, Hyunkyu & **Vecchietti, Luiz Felipe** et al. "Antibody Sequence Design With Graph-Based Deep Learning Methods." presented at the Korea Software Congress (KSC), (2022).
 
-**[W3]**: Lee<sup>†</sup>, Minji & **Vecchietti<sup>*</sup>, Luiz Felipe** et al. "Protein Sequence Design in a Latent Space via Model-based Reinforcement Learning." in NeurIPS Machine Learning in Structural Biology (MLSB) Workshop, (2022).  
-*<sup>*</sup> denotes co-first author.*
+**[W3]**: Lee<sup>1</sup><sup>†</sup>, Minji & **Vecchietti<sup>1</sup>, Luiz Felipe** et al. "Protein Sequence Design in a Latent Space via Model-based Reinforcement Learning." presented at the NeurIPS Machine Learning in Structural Biology (MLSB) Workshop, (2022).  
+*<sup>1</sup> denotes co-first authors.*
 
-**[W4]**: Lee<sup>†</sup>, Minji & Rzayev, Anar & Jung, Hyunkyu & **Vecchietti, Luiz Felipe** et al. "Structure-based representation for protein functionality prediction using machine learning." in Proceedings of the Korea Computer Congress (KCC), (2022).
+**[W4]**: Lee<sup>†</sup>, Minji & Rzayev, Anar & Jung, Hyunkyu & **Vecchietti, Luiz Felipe** et al. "Structure-based representation for protein functionality prediction using machine learning." presented at the Korea Computer Congress (KCC), (2022).
 
 **[W5]**: Rajendran<sup>†</sup>, Praveen Kumar & Mishra, Sumit & **Vecchietti, Luiz Felipe** et al. "RelMobNet: End-to-end relative camera pose estimation using a robust two-stage training." presented at the ECCV IWDSC Workshop, (2022).
 
 ### Academic Services  
 
-#### Reviewer
+#### Reviewer  
 
 - IEEE Transactions on Cybernetics
 - IEEE Sensors
@@ -112,7 +112,7 @@ My personal interests include traveling, sports (football, kickboxing, skate, sn
 - ICML LatinX Workshop 2021
 - AAAI ICWSM 2022
 
-### Invited Talks
+### Invited Talks  
 
 **[I1]: Target-conditioned Protein and Antibody Design for Drug Discovery**  
 IBS Winter School on AI-Boosted Basic Science, Institute for Basic Science, Dec 2022.  
@@ -174,7 +174,7 @@ Submitted a first-author paper on gender-ambiguous voice agents to CHI 2023.
 Mathematics Undergraduate at KAIST    
 *Topic*: Graph structure optimization with Deep Reinforcement Learning  
 
-- **Sumit Mishra**, 2020-2022  *(now PhD Candidate at KAIST)*
+- **Sumit Mishra**, 2020-2022  *(now PhD Candidate at KAIST)*  
 Robotics Master's Candidate at KAIST    
 *Topic*: Intelligent Transportation Systems using Deep Learning  
 Submitted a first-author paper on ITS to IEEE Transactions on Intelligent Transportation Systems.  
