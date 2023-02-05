@@ -15,7 +15,7 @@ I have previous research experiences in Deep Reinforcement Learning applied to *
 My personal interests include traveling, sports (football, kickboxing, skate, snowboard, surf, surfskate), music (classical guitar, cavaquinho) and reading (fantasy, science fiction, mountaineering).
 
 **[Curriculum Vitae in PDF](https://lfelipesv.github.io/assets/CV_Luiz_Felipe_Vecchietti.pdf)**  
-*Please feel free to contact me at lfelipesv at gmail.com*
+*Please feel free to contact me at lfelipesv at gmail.com*  
 
 ### Research Interests  
 
