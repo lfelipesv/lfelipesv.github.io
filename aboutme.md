@@ -108,7 +108,7 @@ My personal interests include traveling, sports (football, kickboxing, skate, sn
 - IEEE Transactions on Cybernetics
 - IEEE Sensors
 - IEEE Transactions on Games
-- Frontiers of AI and Robotics
+- Frontiers in Robotics and AI
 - ICML LatinX Workshop 2021
 - AAAI ICWSM 2022
 
