@@ -20,7 +20,7 @@ My personal interests include traveling, sports (football, kickboxing, skate, sn
 ### Research Interests  
 
 * Deep Reinforcement Learning *(Credit Assignment, Exploration, Multi-agent Systems)*
-* Graph Neural Networks *(Generative Models, Equivariance, Graph Structure Optimization)*
+* Graph Neural Networks *(Generative Models, Equivariance, Structure Optimization)*
 * Applied Deep Learning *(Drug Discovery, Text Analysis, Renewable Energy / Climate)*  
 
 ### Positions
@@ -137,64 +137,64 @@ I am very thankful for the support and trust given from my advisors throughout m
 
 - **Sangmin Lee**, 2023-Now  
 CS Undergraduate at KAIST  
-*Topic*: Target-conditioned Antibody Design using Large Language Models  
+**Topic:** Target-conditioned Antibody Design using Large Language Models  
 
 - **Begench Hangeldiyev**, 2022-Now  
 Chemical Engineering Undergraduate at KAIST    
-*Topic*: Antibody Sequence Design with Graph-Based Methods  
-Published his first paper on antibody design with deep learning at KSC 2023.  
+**Topic:** Antibody Sequence Design with Graph-Based Methods  
+*Published his first paper on antibody design with deep learning at KSC 2023.*  
 
 - **Hyunkyu Jung**, 2021-Now  
 CS Master's Candidate at KAIST  
-*Topic*: Protein-Protein Interactions using Equivariant Point Cloud Transformers  
+**Topic:** Protein-Protein Interactions using Equivariant Point Cloud Transformers  
 
 #### Alumni  
 
 - **Minji Lee**, 2022  
 CS Undergraduate at KAIST  
-*Topic*: Protein Optimization using Deep Reinforcement Learning  
-Published two first-author papers on protein functionality prediction and protein engineering using deep learning at KCC and NeurIPS MLSB Workshop 2022. Submitted a first-author paper on protein engineering to ICML 2023.  
+**Topic:** Protein Optimization using Deep Reinforcement Learning  
+*Published two first-author papers on protein functionality prediction and protein engineering using deep learning at KCC and NeurIPS MLSB Workshop 2022. Submitted a first-author paper on protein engineering to ICML 2023.*  
 
 - **Anar Rzayev**, 2022  
 CS Undergraduate at KAIST  
-*Topic*: Antibody Structure Representation Learning  
+**Topic:** Antibody Structure Representation Learning  
 
-- **Lucas Santiago Peixoto**, 2022  
+- **Lucas Santiago Peixoto**<sup>0</sup>, 2022  
 Computer Engineering Undergraduate at Federal University of Rio de Janeiro (UFRJ)  
-*Topic*: Sentence-level Text Analysis using Transformers  
-Worked and successfully defended his undergraduate thesis on NLP.  
-*Co-advisor in undergraduate thesis with Prof. Fernando Gil Vianna Resende Junior*  
+**Topic:** Sentence-level Text Analysis using Transformers  
+*Worked and successfully defended his undergraduate thesis on NLP.*  
+<sup>0</sup>*Co-advisor in undergraduate thesis with Prof. Fernando Gil Vianna Resende Junior*  
 
 - **Matheus Tymburiba Elian**, 2021-2022  
 Industrial Design PhD Candidate at University of Tsukuba    
-*Topic*: Gender-Ambiguous Voice Agents for Voice User Interfaces  
-Submitted a first-author paper on gender-ambiguous voice agents to CHI 2023.  
+**Topic:** Gender-Ambiguous Voice Agents for Voice User Interfaces  
+*Submitted a first-author paper on gender-ambiguous voice agents to CHI 2023.*  
 
 - **Kien Hoang**, 2021-2022  *(now MsC Candidate at EPFL)*  
 Mathematics Undergraduate at KAIST    
-*Topic*: Graph structure optimization with Deep Reinforcement Learning  
+**Topic:** Graph structure optimization with Deep Reinforcement Learning  
 
 - **Sumit Mishra**, 2020-2022  *(now PhD Candidate at KAIST)*  
 Robotics Master's Candidate at KAIST    
-*Topic*: Intelligent Transportation Systems using Deep Learning  
-Submitted a first-author paper on ITS to IEEE Transactions on Intelligent Transportation Systems.  
+**Topic:** Intelligent Transportation Systems using Deep Learning  
+*Submitted a first-author paper on ITS to IEEE Transactions on Intelligent Transportation Systems.*  
 
 - **Praveen Kumar Rajendran**, 2020-2022  
 Future Vehicle Program Master's Candidate at KAIST    
-*Topic*: Camera Pose Estimation using End-to-End Deep Learning  
-Published a first-author paper on pose estimation with deep learning at ECCV IWDSC Workshop 2022. Submitted a first author paper to CVPR 2023.  
+**Topic:** Camera Pose Estimation using End-to-End Deep Learning  
+*Published a first-author paper on pose estimation with deep learning at ECCV IWDSC Workshop 2022. Submitted a first author paper to CVPR 2023.*  
 
 - **Taeyoung Kim**, 2019-2021  *(now PhD Candidate at KAIST)*  
 Green Transportation Master's Candidate at KAIST    
-*Topic*: Deep Reinforcement Learning, Cooperative-Competitive Multi-agent Systems  
-Published a first-author review paper on sensor networks using deep learning at IEEE Sensors Journal. Published a first-author paper on deep reinforcement learning in multi-agent environments at PeerJ Computer Science.  
+**Topic:** Deep Reinforcement Learning, Cooperative-Competitive Multi-agent Systems  
+*Published a first-author review paper on sensor networks using deep learning at IEEE Sensors Journal. Published a first-author paper on deep reinforcement learning in multi-agent environments at PeerJ Computer Science.*  
 
 - **Kyujin Choi**, 2019-2020  *(now ML Engineer at KT)*  
 Green Transportation Master's Candidate at KAIST  
-*Topic*: Deep Reinforcement Learning, Cooperative-Competitive Multi-agent Systems  
-Published a co-first author paper on deep reinforcement learning in multi-agent environments at PeerJ Computer Science.
+**Topic:** Deep Reinforcement Learning, Cooperative-Competitive Multi-agent Systems  
+*Published a co-first author paper on deep reinforcement learning in multi-agent environments at PeerJ Computer Science.*
 
 - **Minah Seo**, 2018-2019  *(now ML Engineer at KT)*  
 Green Transportation Master's Candidate at KAIST  
-*Topic*: Credit Assignment in Deep Reinforcement Learning  
-Published a first-author paper on efficient credit assignment in RL at IEEE Access.
+**Topic:** Credit Assignment in Deep Reinforcement Learning  
+*Published a first-author paper on efficient credit assignment in RL at IEEE Access.*
