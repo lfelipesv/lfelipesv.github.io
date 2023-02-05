@@ -419,6 +419,42 @@ Hold on to that feeling
 Streetlights, people"    
 (Don't Stop Believing - Journey)
 
+### Amsterdam - Netherlands
+
+![Amsterdam](/img/nomad/amsterdam-2023.jpg)
+
+"Now that I know that I'm breaking to pieces  
+I'll pull out my heart and I'll feed it to anyone"  
+(Disintegration - The Cure)
+
+### Utrecht - Netherlands
+
+![Utrecht](/img/nomad/utrecht-2023.jpg)
+
+"Ring, ring the bells  
+Wake the town  
+Everyone is sleeping  
+Shout at the crowd  
+Wake them up"    
+(Ring the bells - James)
+
+### Rostock - Germany
+
+![Rostock](/img/nomad/rostock-2023.jpg)
+
+"Catch the sun, before it is gone  
+Here it comes, up in smoke and gone"    
+(Catch the sun - Doves)
+
+### Berlin - Germany
+
+![Berlin](/img/nomad/berlin-2023.jpg)
+
+"Let this be our little secret  
+No one needs to know we're feeling  
+Higher and higher and higher"  
+(Little Secrets - Passion Pit)
+
 ### Formiga - Minas Gerais - Brazil
 
 ![Minas Gerais](/img/nomad/vidasimples.jpg)
