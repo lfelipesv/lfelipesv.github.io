@@ -110,7 +110,8 @@ My personal interests include traveling, sports (football, kickboxing, skate, sn
 - IEEE Transactions on Games
 - Frontiers in Robotics and AI
 - ICML LatinX Workshop 2021
-- AAAI ICWSM 2022
+- AAAI ICWSM 2022  
+- ICLR Reincarnating RL Workshop 2023
 
 ### Invited Talks  
 
@@ -146,9 +147,15 @@ Chemical Engineering Undergraduate at KAIST
 
 - **Hyunkyu Jung**, 2021-Now  
 CS Master's Candidate at KAIST  
-**Topic:** Protein-Protein Interactions using Equivariant Point Cloud Transformers  
+**Topic:** Protein-Protein Interactions using Equivariant Point Cloud Transformers
+*Submitted a first-author paper on protein-protein interactions using deep learning to ICCV 2023.*  
 
 #### Alumni  
+
+- **Maxim Krassimirov Mintchev**, 2022  *(now Research Associate at TU Berlin)*   
+Mechanical Engineering Master's Candidate at Karlsruhe Institute of Technology and KAIST (Double Degree)  
+**Topic:** Recommendation Systems applied to Logistics Applications  
+*Worked and successfully defended his master's thesis on recommendations systems at KIT and KAIST.*  
 
 - **Minji Lee**, 2022  
 CS Undergraduate at KAIST  
@@ -179,7 +186,7 @@ Robotics Master's Candidate at KAIST
 **Topic:** Intelligent Transportation Systems using Deep Learning  
 *Submitted a first-author paper on ITS to IEEE Transactions on Intelligent Transportation Systems.*  
 
-- **Praveen Kumar Rajendran**, 2020-2022  
+- **Praveen Kumar Rajendran**, 2020-2022  *(now Computer Vision Engineer at Neubility)*
 Future Vehicle Program Master's Candidate at KAIST    
 **Topic:** Camera Pose Estimation using End-to-End Deep Learning  
 *Published a first-author paper on pose estimation with deep learning at ECCV IWDSC Workshop 2022. Submitted a first author paper to CVPR 2023.*  
