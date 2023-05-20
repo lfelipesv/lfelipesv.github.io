@@ -88,6 +88,8 @@ My personal interests include traveling, sports (football, kickboxing, skate, sn
 
 **[P12]**: Lee, Sangkeum & Jin, Hojun & **Vecchietti, Luiz Felipe** et al. "Cooperative decentralized peer-to-peer electricity trading of nanogrid clusters based on predictions of load demand and PV power generation using a gated recurrent unit model." IET Renewable Power Generation, vol. 15, pp. 3505-3523 (2021).
 
+**[P13]**: Mishra, Sumit, & Rajeendran, Praveen Kumar & **Vecchietti, Luiz Felipe** et al. "Sensing accident-prone features in urban scenes for proactive driving and accident prevention", IEEE Transactions on Intelligence Transportation Systems (2023).
+
 #### Workshops, Domestic Conferences, Posters, and Extended Abstracts
 
 **[W1]**: Jung<sup>†</sup>, Hyunkyu & **Vecchietti, Luiz Felipe** et al. "Protein Structure Tokenizer for Efficient Learning." presented as a poster in Peptalk, San Diego, USA (2023).

@@ -4,6 +4,11 @@ title: News
 subtitle: 
 ---
 
+* **[2023-05]** Our abstract "PPI-BERT: Pretraining Transformers with Masked Sequence-Structure of Protein Fragments for learning Protein-Protein Interactions" has been accepted for presentation at ICBP 2023.
+* **[2023-05]** Visited Federal University of Rio de Janeiro (UFRJ), Brazil.
+<!-- * **[2023-05]** I presented the talk "Developing and applying deep learning methods to facilitate new scientific discoveries"* at the Max Planck Institute for Security and Privacy, Bochum, Germany. 
+* **[2023-04]** Attended CHI 2023 in Hamburg, Germany. -->
+* **[2023-04]** Our work *"Sensing accident-prone features in urban scenes for proactive driving and accident prevention"* has been accepted to IEEE Transactions on Intelligent Transportation Systems. [KAIST Breakthroughs Spring 2023](https://breakthroughs.kaist.ac.kr/?post_no=2268)
 * **[2023-01]** Our work *"Protein Structure Tokenizer for Efficient Learning"* has been presented as a poster at Peptalk 2023 in San Diego, USA.
 * **[2023-01]** Visited Max Planck Institute, Germany.
 * **[2022-12]** Attended KSC 2022 in Jeju Island, South Korea.
