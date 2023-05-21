@@ -455,6 +455,15 @@ No one needs to know we're feeling
 Higher and higher and higher"  
 (Little Secrets - Passion Pit)
 
+### Hamburg - Germany
+
+![Hamburg](/img/nomad/hamburg-2023.jpg)
+
+"Tomo cuidado para não me afogar  
+Abro a mente para poder te encontrar  
+A sua brisa vindo me faz viajar por lindos lugares"  
+(Samba - Rancore)
+
 ### Formiga - Minas Gerais - Brazil
 
 ![Minas Gerais](/img/nomad/vidasimples.jpg)
