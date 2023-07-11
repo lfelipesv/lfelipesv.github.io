@@ -138,6 +138,10 @@ I am very thankful for the support and trust given from my advisors throughout m
 
 #### Current  
 
+- **Bryan Nathanael Wijaya**, 2023-Now  
+CS Undergraduate at KAIST  
+**Topic:** Protein Sidechain Reconstruction using Deep Learning  
+
 - **Sangmin Lee**, 2023-Now  
 CS Undergraduate at KAIST  
 **Topic:** Target-conditioned Antibody Design using Large Language Models  
