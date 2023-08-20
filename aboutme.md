@@ -117,6 +117,10 @@ My personal interests include traveling, sports (football, kickboxing, skate, sn
 
 ### Invited Talks  
 
+
+**[I1]: Developing and applying deep learning methods for protein design**  
+Graduate School of AI, Gwangju Institute of Science and Technology (GIST), July 2023.  
+
 **[I1]: Target-conditioned Protein and Antibody Design for Drug Discovery**  
 IBS Winter School on AI-Boosted Basic Science, Institute for Basic Science, Dec 2022.  
 *Co-delivered with Prof. Ho Min Kim (KAIST)*
