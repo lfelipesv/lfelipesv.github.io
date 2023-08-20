@@ -310,6 +310,10 @@ And try to be brave
 Cause I'll be right beside you"  
 (Youtopia - Armin van Buuren)
 
+![Changgyeonggung Palace](/img/nomad/changgyeongung-seoul-2023.jpg)
+  
+(Samba pro Rapha - Yamandu Costa)
+
 ### Thailand
 
 ![Thailand](/img/nomad/thailand-2.jpeg)

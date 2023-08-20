@@ -5,6 +5,7 @@ subtitle:
 ---
 
 * **[2023-08]** Attended International Conference on Biological Physics (ICBP) 2023 in Seoul, South Korea.
+* **[2023-07]** I presented the talk *"Developing and applying deep learning methods for protein design"* at the Graduate School of AI - Gwangju Institute of Science and Technology (GIST) in Gwangju, South Korea.
 * **[2023-07]** Attended KIDDS Workshop 2023 in Busan, South Korea.
 * **[2023-05]** Our abstract "PPI-BERT: Pretraining Transformers with Masked Sequence-Structure of Protein Fragments for learning Protein-Protein Interactions" has been accepted for presentation at ICBP 2023.
 * **[2023-05]** Visited Federal University of Rio de Janeiro (UFRJ), Brazil.
