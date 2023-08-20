@@ -121,17 +121,17 @@ My personal interests include traveling, sports (football, kickboxing, skate, sn
 **[I1]: Developing and applying deep learning methods for protein design**  
 Graduate School of AI, Gwangju Institute of Science and Technology (GIST), July 2023.  
 
-**[I1]: Target-conditioned Protein and Antibody Design for Drug Discovery**  
+**[I2]: Target-conditioned Protein and Antibody Design for Drug Discovery**  
 IBS Winter School on AI-Boosted Basic Science, Institute for Basic Science, Dec 2022.  
 *Co-delivered with Prof. Ho Min Kim (KAIST)*
 
-**[I2]: Identifying the key actions that lead an agent to accomplish a task in model-based reinforcement learning**  
+**[I3]: Identifying the key actions that lead an agent to accomplish a task in model-based reinforcement learning**  
 School of AI Convergence, Chonnam National University, Nov 2021.
 
-**[I3]: Performance enhancement in multigoal model-based deep reinforcement learning**  
+**[I4]: Performance enhancement in multigoal model-based deep reinforcement learning**  
 Cho Chun Shik Graduate School of Mobility, KAIST, Oct 2021.
 
-**[I4]: Identifying the key actions that lead an agent to accomplish a task in model-based reinforcement learning**  
+**[I5]: Identifying the key actions that lead an agent to accomplish a task in model-based reinforcement learning**  
 Data Science Group, Institute for Basic Science, Apr 2021.
 
 ### Mentored Students  
