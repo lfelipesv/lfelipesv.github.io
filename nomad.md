@@ -468,6 +468,15 @@ Abro a mente para poder te encontrar
 A sua brisa vindo me faz viajar por lindos lugares"  
 (Samba - Rancore)
 
+### Tokyo - Japan
+
+![Tokyo](/img/nomad/tokyo-2023.jpg)
+
+"Take my hand and reload  
+This is free love  
+That's what we are made of"  
+(Reload - Sebastian Ingrosso)
+
 ### Formiga - Minas Gerais - Brazil
 
 ![Minas Gerais](/img/nomad/vidasimples.jpg)
