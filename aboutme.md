@@ -31,7 +31,7 @@ My personal interests include traveling, sports (football, kickboxing, skate, sn
 
 * Generative AI for Basic Science *(Protein and Antibody Design, Drug Discovery, Climate Change)*
 * Deep Reinforcement Learning *(Credit Assignment, Exploration, Multi-agent Systems, Goal-conditioned RL)*
-* Graph Neural Networks *(Generative Models, Equivariance, Graph Structure Optimization)* 
+* Graph Neural Networks *(Generative Models, Equivariance, Graph Structure Optimization)*  
 
 ### Positions
 
