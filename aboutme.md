@@ -8,7 +8,7 @@ subtitle:
 
 I am currently a **Senior Researcher** at the **Data Science Group, Institute for Basic Science, South Korea**.  
 
-My research aims to develop **Generative AI** methods for **basic science** applications, especially drug discovery (protein and antibody design) and climate change. For this, I am particularly interested in developing novel **reinforcement learning** (RL) algorithms, **graph neural networks** (GNNs), and **diffusion-based** models. Currently, I am working towards Generative AI for protein and antibody design applied to drug discovery in the following topics:
+My research aims to develop **Generative AI** methods for **basic science** applications, especially drug discovery (protein and antibody design) and climate change. For this, I am particularly interested in developing novel **reinforcement learning** (RL) algorithms, **graph neural networks** (GNNs), and **diffusion-based** models. Currently, I am working towards **Generative AI for protein and antibody design** applied to drug discovery in the following topics:
 
 - **Generative AI for Protein/Antibody Design**: protein sequence design via RL, antigen-conditioned antibody design using geometric deep learning, graph neural networks and diffusion models.
 - **Protein Foundation Models that uses both 1D sequence and 3D structure information**: development algorithms and training protein foundation models that incorporate 1D and 3D (multimodal) information.
