@@ -4,6 +4,9 @@ title: About me
 subtitle: 
 ---
 
+**[Curriculum Vitae in PDF](https://lfelipesv.github.io/assets/CV_Luiz_Felipe_Vecchietti.pdf)**  
+*Please feel free to contact me at lfelipesv at gmail.com*  
+
 ### Bio
 
 I am currently a **Senior Researcher** at the **Data Science Group, Institute for Basic Science, South Korea**.  
@@ -23,9 +26,6 @@ My general interests include artificial intelligence, deep reinforcement learnin
 I have previous research experiences in Deep Reinforcement Learning applied to **Robotics** (continuous control, development of simulated environments, multi-agent systems), **Speech Synthesis** (corpus building and segmentation, statistical parametric speech synthesis), and **Natural Language Processing** (using sequence-to-sequence models combined with LSTMs and Transformers).  
 
 My personal interests include traveling, sports (football, kickboxing, skate, snowboard, surf, surfskate), music (classical guitar, cavaquinho) and reading (fantasy, science fiction, mountaineering).
-
-**[Curriculum Vitae in PDF](https://lfelipesv.github.io/assets/CV_Luiz_Felipe_Vecchietti.pdf)**  
-*Please feel free to contact me at lfelipesv at gmail.com*  
 
 ### Research Interests  
 
