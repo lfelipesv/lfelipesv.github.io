@@ -8,7 +8,17 @@ subtitle:
 
 I am currently a **Senior Researcher** at the **Data Science Group, Institute for Basic Science, South Korea**.  
 
-My main research goal is to **develop** and **apply** deep learning methods for science understanding. In the **development** of novel deep learning methods I am particular interested in **Deep Reinforcement Learning** and **Graph Neural Networks**. My research in **Deep Reinforcement Learning** involves improving sampling efficiency and performance by developing new credit assignment and exploration methods. My research in **Graph Neural Networks** involves the development of methods that can be applied to Target-conditioned Protein and Antibody design in drug discovery.  
+My research aims to develop **Generative AI** methods for **basic science** applications, especially drug discovery (protein and antibody design) and climate change. For this, I am particularly interested in developing novel **reinforcement learning** (RL) algorithms, **graph neural networks** (GNNs), and **diffusion-based** models. Currently, I am working towards Generative AI for protein and antibody design applied to drug discovery in the following topics:
+
+- **Generative AI for Protein/Antibody Design**: protein sequence design via RL, antigen-conditioned antibody design using geometric deep learning, graph neural networks and diffusion models.
+- **Protein Foundation Models that uses both 1D sequence and 3D structure information**: development algorithms and training protein foundation models that incorporate 1D and 3D (multimodal) information.
+- **AI-based methods for Protein/Antibody Design**: training of antibody-specific models for structure prediction, inverse folding, and error prediction.
+
+My general interests include artificial intelligence, deep reinforcement learning, and applied deep learning. From these, I am particularly interested in:
+
+- **Deep Reinforcement Learning**: improving sampling efficiency and performance by developing new credit assignment and exploration methods, goal-conditioned RL, graph structure refinement via RL. 
+- **Graph Neural Networks**: development of novel algorithms to be applied to target-conditioned protein design, applying GNNs to error prediction.
+- **Diffusion Models**: application of diffusion-based models for 3D structure generation, development of diffusion algorithms for 3D full atom protein structure generation.  
 
 I have previous research experiences in Deep Reinforcement Learning applied to **Robotics** (continuous control, development of simulated environments, multi-agent systems), **Speech Synthesis** (corpus building and segmentation, statistical parametric speech synthesis), and **Natural Language Processing** (using sequence-to-sequence models combined with LSTMs and Transformers).  
 
@@ -19,9 +29,9 @@ My personal interests include traveling, sports (football, kickboxing, skate, sn
 
 ### Research Interests  
 
-* Deep Reinforcement Learning *(Credit Assignment, Exploration, Multi-agent Systems)*
-* Graph Neural Networks *(Generative Models, Equivariance, Structure Optimization)*
-* Applied Deep Learning *(Drug Discovery, Text Analysis, Renewable Energy / Climate)*  
+* Generative AI for Basic Science *(Protein and Antibody Design, Drug Discovery, Climate Change)*
+* Deep Reinforcement Learning *(Credit Assignment, Exploration, Multi-agent Systems, Goal-conditioned RL)*
+* Graph Neural Networks *(Generative Models, Equivariance, Graph Structure Optimization)* 
 
 ### Positions
 
@@ -113,25 +123,28 @@ My personal interests include traveling, sports (football, kickboxing, skate, sn
 - Frontiers in Robotics and AI
 - ICML LatinX Workshop 2021
 - AAAI ICWSM 2022  
-- ICLR Reincarnating RL Workshop 2023
+- ICLR Reincarnating RL Workshop 2023  
+- NeurIPS Machine Learning in Structural Biology (MLSB) Workshop 2023
 
 ### Invited Talks  
-
 
 **[I1]: Developing and applying deep learning methods for protein design**  
 Graduate School of AI, Gwangju Institute of Science and Technology (GIST), July 2023.  
 
-**[I2]: Target-conditioned Protein and Antibody Design for Drug Discovery**  
+**[I2]: Developing and applying deep learning methods to facilitate new scientific discoveries**  
+Max Planck Institute for Security and Privacy (MPI-SP), May 2023.  
+
+**[I3]: Target-conditioned Protein and Antibody Design for Drug Discovery**  
 IBS Winter School on AI-Boosted Basic Science, Institute for Basic Science, Dec 2022.  
 *Co-delivered with Prof. Ho Min Kim (KAIST)*
 
-**[I3]: Identifying the key actions that lead an agent to accomplish a task in model-based reinforcement learning**  
+**[I4]: Identifying the key actions that lead an agent to accomplish a task in model-based reinforcement learning**  
 School of AI Convergence, Chonnam National University, Nov 2021.
 
-**[I4]: Performance enhancement in multigoal model-based deep reinforcement learning**  
+**[I5]: Performance enhancement in multigoal model-based deep reinforcement learning**  
 Cho Chun Shik Graduate School of Mobility, KAIST, Oct 2021.
 
-**[I5]: Identifying the key actions that lead an agent to accomplish a task in model-based reinforcement learning**  
+**[I6]: Identifying the key actions that lead an agent to accomplish a task in model-based reinforcement learning**  
 Data Science Group, Institute for Basic Science, Apr 2021.
 
 ### Mentored Students  
@@ -144,14 +157,14 @@ I am very thankful for the support and trust given from my advisors throughout m
 
 - **Bryan Nathanael Wijaya**, 2023-Now  
 CS Undergraduate at KAIST  
-**Topic:** Protein Sidechain Reconstruction using Deep Learning  
+**Topic:** Protein Sidechain Reconstruction using Deep Learning, Antigen-conditioned Antibody Design   
 
 - **Sangmin Lee**, 2023-Now  
 CS Undergraduate at KAIST  
-**Topic:** Target-conditioned Antibody Design using Large Language Models  
+**Topic:** AI-based methods for design thermostable proteins  
 
 - **Begench Hangeldiyev**, 2022-Now  
-Chemical Engineering Undergraduate at KAIST    
+Chemical Engineering / CS Undergraduate at KAIST    
 **Topic:** Antibody Sequence Design with Graph-Based Methods  
 *Published his first paper on antibody design with deep learning at KSC 2023.*  
 
