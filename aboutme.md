@@ -185,7 +185,7 @@ CS Undergraduate at KAIST
 **Topic:** Protein Optimization using Deep Reinforcement Learning  
 *Published two first-author papers on protein functionality prediction and protein engineering using deep learning at KCC and NeurIPS MLSB Workshop 2022. Submitted a first-author paper on protein engineering to ICML 2023.*  
 
-- **Anar Rzayev**, 2022  
+- **Anar Rzayev**, 2022  *(now Research Intern at QuantCo)*  
 CS Undergraduate at KAIST  
 **Topic:** Antibody Structure Representation Learning  
 
@@ -195,7 +195,7 @@ Computer Engineering Undergraduate at Federal University of Rio de Janeiro (UFRJ
 *Worked and successfully defended his undergraduate thesis on NLP.*  
 <sup>0</sup>*Co-advisor in undergraduate thesis with Prof. Fernando Gil Vianna Resende Junior*  
 
-- **Matheus Tymburiba Elian**, 2021-2022  
+- **Matheus Tymburiba Elian**, 2021-2022  *(now Faculty at the Federal University of Minas Gerais)*  
 Industrial Design PhD Candidate at University of Tsukuba    
 **Topic:** Gender-Ambiguous Voice Agents for Voice User Interfaces  
 *Submitted a first-author paper on gender-ambiguous voice agents to CHI 2023.*  
