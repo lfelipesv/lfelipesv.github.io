@@ -4,11 +4,15 @@ title: News
 subtitle: 
 ---
 
+* **[2023-12]** Attended NeurIPS 2023 in New Orleans, USA.
+* **[2022-12]** Our work *"Evaluation of Antibody Structure Reconstruction with an SE(3)-Equivariant Graph Neural Network"* has been accepted to KSC 2023.
 * **[2023-08]** Attended International Conference on Biological Physics (ICBP) 2023 in Seoul, South Korea.
 * **[2023-07]** I presented the talk *"Developing and applying deep learning methods for protein design"* at the Graduate School of AI - Gwangju Institute of Science and Technology (GIST) in Gwangju, South Korea.
 * **[2023-07]** Attended KIDDS Workshop 2023 in Busan, South Korea.
 * **[2023-05]** Our abstract "PPI-BERT: Pretraining Transformers with Masked Sequence-Structure of Protein Fragments for learning Protein-Protein Interactions" has been accepted for presentation at ICBP 2023.
 * **[2023-05]** Visited Federal University of Rio de Janeiro (UFRJ), Brazil.
+* **[2023-05]** I presented the talk *"Developing and applying deep learning methods to facilitate new scientific discoveries"* at the Max Planck Institute for Security and Privacy, Bochum, Germany.
+* **[2023-04]** Attended CHI 2023 in Hamburg, Germany.
 * **[2023-04]** Our work *"Sensing accident-prone features in urban scenes for proactive driving and accident prevention"* has been accepted to IEEE Transactions on Intelligent Transportation Systems. [KAIST Breakthroughs Spring 2023](https://breakthroughs.kaist.ac.kr/?post_no=2268)
 * **[2023-01]** Our work *"Protein Structure Tokenizer for Efficient Learning"* has been presented as a poster at Peptalk 2023 in San Diego, USA.
 * **[2023-01]** Visited Max Planck Institute, Germany.

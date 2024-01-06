@@ -102,16 +102,18 @@ My personal interests include traveling, sports (football, kickboxing, skate, sn
 
 #### Workshops, Domestic Conferences, Posters, and Extended Abstracts
 
-**[W1]**: Jung<sup>†</sup>, Hyunkyu & **Vecchietti, Luiz Felipe** et al. "Protein Structure Tokenizer for Efficient Learning." presented as a poster in Peptalk, San Diego, USA (2023).
+**[W1]**: Wijaya<sup>†</sup>, Bryan Nathanael & **Vecchietti, Luiz Felipe** et al. "Evaluation of Antibody Structure Reconstruction with an SE(3)-Equivariant Graph Neural Network." presented at the Korea Software Congress (KSC), Busan, South Korea (2023).
 
-**[W2]**: Hangeldiyev<sup>†</sup>, Begench & Rzayev, Anar & Armanuly, Azamat & Jung, Hyunkyu & **Vecchietti, Luiz Felipe** et al. "Antibody Sequence Design With Graph-Based Deep Learning Methods." presented at the Korea Software Congress (KSC), (2022).
+**[W2]**: Jung<sup>†</sup>, Hyunkyu & **Vecchietti, Luiz Felipe** et al. "Protein Structure Tokenizer for Efficient Learning." presented as a poster in Peptalk, San Diego, USA (2023).
 
-**[W3]**: Lee<sup>1</sup><sup>†</sup>, Minji & **Vecchietti<sup>1</sup>, Luiz Felipe** et al. "Protein Sequence Design in a Latent Space via Model-based Reinforcement Learning." presented at the NeurIPS Machine Learning in Structural Biology (MLSB) Workshop, (2022).  
+**[W3]**: Hangeldiyev<sup>†</sup>, Begench & Rzayev, Anar & Armanuly, Azamat & Jung, Hyunkyu & **Vecchietti, Luiz Felipe** et al. "Antibody Sequence Design With Graph-Based Deep Learning Methods." presented at the Korea Software Congress (KSC), (2022).
+
+**[W4]**: Lee<sup>1</sup><sup>†</sup>, Minji & **Vecchietti<sup>1</sup>, Luiz Felipe** et al. "Protein Sequence Design in a Latent Space via Model-based Reinforcement Learning." presented at the NeurIPS Machine Learning in Structural Biology (MLSB) Workshop, (2022).  
 *<sup>1</sup> denotes co-first authors.*
 
-**[W4]**: Lee<sup>†</sup>, Minji & Rzayev, Anar & Jung, Hyunkyu & **Vecchietti, Luiz Felipe** et al. "Structure-based representation for protein functionality prediction using machine learning." presented at the Korea Computer Congress (KCC), (2022).
+**[W5]**: Lee<sup>†</sup>, Minji & Rzayev, Anar & Jung, Hyunkyu & **Vecchietti, Luiz Felipe** et al. "Structure-based representation for protein functionality prediction using machine learning." presented at the Korea Computer Congress (KCC), (2022).
 
-**[W5]**: Rajendran<sup>†</sup>, Praveen Kumar & Mishra, Sumit & **Vecchietti, Luiz Felipe** et al. "RelMobNet: End-to-end relative camera pose estimation using a robust two-stage training." presented at the ECCV IWDSC Workshop, (2022).
+**[W6]**: Rajendran<sup>†</sup>, Praveen Kumar & Mishra, Sumit & **Vecchietti, Luiz Felipe** et al. "RelMobNet: End-to-end relative camera pose estimation using a robust two-stage training." presented at the ECCV IWDSC Workshop, (2022).
 
 ### Academic Services  
 
@@ -156,7 +158,7 @@ I am very thankful for the support and trust given from my advisors throughout m
 #### Current  
 
 - **Bryan Nathanael Wijaya**, 2023-Now  
-CS Undergraduate at KAIST  
+MsC Candidate at KAIST  
 **Topic:** Protein Sidechain Reconstruction using Deep Learning, Antigen-conditioned Antibody Design   
 
 - **Sangmin Lee**, 2023-Now  
@@ -169,7 +171,7 @@ Chemical Engineering / CS Undergraduate at KAIST
 *Published his first paper on antibody design with deep learning at KSC 2023.*  
 
 - **Hyunkyu Jung**, 2021-Now  
-CS Master's Candidate at KAIST  
+PhD Candidate at KAIST  
 **Topic:** Protein-Protein Interactions using Equivariant Point Cloud Transformers
 *Submitted a first-author paper on protein-protein interactions using deep learning to ICCV 2023.*  
 
