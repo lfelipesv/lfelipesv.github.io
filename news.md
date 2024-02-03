@@ -4,8 +4,9 @@ title: News
 subtitle: 
 ---
 
+* **[2024-01]** Our work *"Projecting Work-Life Trajectories and Retirement Expectations at Age 50: Estimates for Germany"* has been accept to DGD 2024.
 * **[2023-12]** Attended NeurIPS 2023 in New Orleans, USA.
-* **[2022-12]** Our work *"Evaluation of Antibody Structure Reconstruction with an SE(3)-Equivariant Graph Neural Network"* has been accepted to KSC 2023.
+* **[2023-12]** Our work *"Evaluation of Antibody Structure Reconstruction with an SE(3)-Equivariant Graph Neural Network"* has been accepted to KSC 2023 and won an excellence award!
 * **[2023-08]** Attended International Conference on Biological Physics (ICBP) 2023 in Seoul, South Korea.
 * **[2023-07]** I presented the talk *"Developing and applying deep learning methods for protein design"* at the Graduate School of AI - Gwangju Institute of Science and Technology (GIST) in Gwangju, South Korea.
 * **[2023-07]** Attended KIDDS Workshop 2023 in Busan, South Korea.
