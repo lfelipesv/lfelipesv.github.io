@@ -161,10 +161,6 @@ I am very thankful for the support and trust given from my advisors throughout m
 MsC Candidate at KAIST  
 **Topic:** Protein Sidechain Reconstruction using Deep Learning, Antigen-conditioned Antibody Design   
 
-- **Sangmin Lee**, 2023-Now  
-CS Undergraduate at KAIST  
-**Topic:** AI-based methods for design thermostable proteins  
-
 - **Begench Hangeldiyev**, 2022-Now  
 Chemical Engineering / CS Undergraduate at KAIST    
 **Topic:** Antibody Sequence Design with Graph-Based Methods  
@@ -176,6 +172,10 @@ PhD Candidate at KAIST
 *Submitted a first-author paper on protein-protein interactions using deep learning to ICCV 2023.*  
 
 #### Alumni  
+
+- **Sangmin Lee**, 2023 
+CS Undergraduate at KAIST  
+**Topic:** AI-based methods for design thermostable proteins  
 
 - **Maxim Krassimirov Mintchev**, 2022  *(now Research Associate at TU Berlin)*   
 Mechanical Engineering Master's Candidate at Karlsruhe Institute of Technology and KAIST (Double Degree)  
