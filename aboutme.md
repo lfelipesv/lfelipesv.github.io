@@ -72,33 +72,35 @@ My personal interests include traveling, sports (football, kickboxing, skate, sn
 *Please note that the <sup>†</sup> symbol denotes a mentored student.*
 
 #### Peer-Reviewed International Conferences and Journals
+
+**[P1]**: **Vecchietti, Luiz Felipe** & Lee, Minji, et al (2024). Robust Optimization in Protein Fitness Landscapes Using Reinforcement Learning in Latent Space. International Conference on Machine Learning (ICML) 2024.
  
-**[P1]**: Seo<sup>†</sup>, Minah & **Vecchietti, Luiz Felipe** & Lee, Sangkeum & Har, Dongsoo. (2019). Rewards Prediction Based Credit Assignment for Reinforcement Learning with Sparse Binary Rewards. IEEE Access. PP. 1-1. 10.1109/ACCESS.2019.2936863.  
+**[P2]**: Seo<sup>†</sup>, Minah & **Vecchietti, Luiz Felipe** & Lee, Sangkeum & Har, Dongsoo. (2019). Rewards Prediction Based Credit Assignment for Reinforcement Learning with Sparse Binary Rewards. IEEE Access. PP. 1-1. 10.1109/ACCESS.2019.2936863.  
 *Selected as a featured research for the KAIST Breakthroughs Magazine in 2020*   
 
-**[P2]**: **Vecchietti, Luiz Felipe** & Seo, Minah & Har, Dongsoo. (2020). Sampling Rate Decay in Hindsight Experience Replay for Robot Control. IEEE Transactions on Cybernetics.  
+**[P3]**: **Vecchietti, Luiz Felipe** & Seo, Minah & Har, Dongsoo. (2020). Sampling Rate Decay in Hindsight Experience Replay for Robot Control. IEEE Transactions on Cybernetics.  
 
-**[P3]**: **Vecchietti, Luiz Felipe**, et al. "Batch Prioritization in Multigoal Reinforcement Learning." IEEE Access 8 (2020): 137449-137461.
+**[P4]**: **Vecchietti, Luiz Felipe**, et al. "Batch Prioritization in Multigoal Reinforcement Learning." IEEE Access 8 (2020): 137449-137461.
 
-**[P4]**: Lee, Sangkeum & **Vecchietti, Luiz Felipe** et al. (2020). Power Management by LSTM Network for Nanogrids. IEEE Access.
+**[P5]**: Lee, Sangkeum & **Vecchietti, Luiz Felipe** et al. (2020). Power Management by LSTM Network for Nanogrids. IEEE Access.
 
-**[P5]**: Lee, Sangkeum & Jin, Hojun & **Vecchietti, Luiz Felipe** et al. Short-term predictive power management of PV-powered nanogrids. IEEE Access, v. 8, p. 147839-147857, 2020.
+**[P6]**: Lee, Sangkeum & Jin, Hojun & **Vecchietti, Luiz Felipe** et al. Short-term predictive power management of PV-powered nanogrids. IEEE Access, v. 8, p. 147839-147857, 2020.
 
-**[P6]**: Kim<sup>†</sup>, Taeyoung & **Vecchietti, Luiz Felipe** et al. "Machine Learning for Advanced Wireless Sensor Networks: A Review." IEEE Sensors Journal (2020).
+**[P7]**: Kim<sup>†</sup>, Taeyoung & **Vecchietti, Luiz Felipe** et al. "Machine Learning for Advanced Wireless Sensor Networks: A Review." IEEE Sensors Journal (2020).
 
-**[P7]**: Lee, Sangkeum & Jin, Hojun & **Vecchietti, Luiz Felipe** et al. "Power Management of Nanogrid Cluster with P2P Electricity Trading Based on Future Trends of Load Demand and PV Power Production." arXiv preprint arXiv:2009.00863 (2020).
+**[P8]**: Lee, Sangkeum & Jin, Hojun & **Vecchietti, Luiz Felipe** et al. "Power Management of Nanogrid Cluster with P2P Electricity Trading Based on Future Trends of Load Demand and PV Power Production." arXiv preprint arXiv:2009.00863 (2020).
 
-**[P8]**: Kim, Sungkwan & Kim, Inhwan & **Vecchietti, Luiz Felipe** et al. "Pose Estimation Utilizing a Gated Recurrent Unit Network for Visual Localization." Applied Sciences 10.24 (2020): 8876.
+**[P9]**: Kim, Sungkwan & Kim, Inhwan & **Vecchietti, Luiz Felipe** et al. "Pose Estimation Utilizing a Gated Recurrent Unit Network for Visual Localization." Applied Sciences 10.24 (2020): 8876.
 
-**[P9]**: Lee, Sangkeum & Har, Dongsoo & **Vecchietti, Luiz Felipe** et al. "Optimal Link Scheduling Based on Attributes of Nodes in 6TiSCH Wireless Networks." 한국정보기술학회논문지 18.1 (2020): 77-92.
+**[P10]**: Lee, Sangkeum & Har, Dongsoo & **Vecchietti, Luiz Felipe** et al. "Optimal Link Scheduling Based on Attributes of Nodes in 6TiSCH Wireless Networks." 한국정보기술학회논문지 18.1 (2020): 77-92.
 
-**[P10]**: Hong, Chansol & Jeong, Inbae & **Vecchietti, Luiz Felipe** et al. "AI World Cup: Robot Soccer-Based Competitions." IEEE Transactions on Games (2021).
+**[P11]**: Hong, Chansol & Jeong, Inbae & **Vecchietti, Luiz Felipe** et al. "AI World Cup: Robot Soccer-Based Competitions." IEEE Transactions on Games (2021).
 
-**[P11]**: Kim<sup>†</sup>, Taeyoung & **Vecchietti, Luiz Felipe** et al. "Two-stage training algorithm for AI robot soccer." PeerJ Computer Science (2021).
+**[P12]**: Kim<sup>†</sup>, Taeyoung & **Vecchietti, Luiz Felipe** et al. "Two-stage training algorithm for AI robot soccer." PeerJ Computer Science (2021).
 
-**[P12]**: Lee, Sangkeum & Jin, Hojun & **Vecchietti, Luiz Felipe** et al. "Cooperative decentralized peer-to-peer electricity trading of nanogrid clusters based on predictions of load demand and PV power generation using a gated recurrent unit model." IET Renewable Power Generation, vol. 15, pp. 3505-3523 (2021).
+**[P13]**: Lee, Sangkeum & Jin, Hojun & **Vecchietti, Luiz Felipe** et al. "Cooperative decentralized peer-to-peer electricity trading of nanogrid clusters based on predictions of load demand and PV power generation using a gated recurrent unit model." IET Renewable Power Generation, vol. 15, pp. 3505-3523 (2021).
 
-**[P13]**: Mishra, Sumit, & Rajeendran, Praveen Kumar & **Vecchietti, Luiz Felipe** et al. "Sensing accident-prone features in urban scenes for proactive driving and accident prevention", IEEE Transactions on Intelligence Transportation Systems (2023).
+**[P14]**: Mishra, Sumit, & Rajeendran, Praveen Kumar & **Vecchietti, Luiz Felipe** et al. "Sensing accident-prone features in urban scenes for proactive driving and accident prevention", IEEE Transactions on Intelligence Transportation Systems (2023).
 
 #### Workshops, Domestic Conferences, Posters, and Extended Abstracts
 
@@ -119,14 +121,11 @@ My personal interests include traveling, sports (football, kickboxing, skate, sn
 
 #### Reviewer  
 
-- IEEE Transactions on Cybernetics
-- IEEE Sensors
-- IEEE Transactions on Games
-- Frontiers in Robotics and AI
-- ICML LatinX Workshop 2021
-- AAAI ICWSM 2022  
-- ICLR Reincarnating RL Workshop 2023  
-- NeurIPS Machine Learning in Structural Biology (MLSB) Workshop 2023
+**Journals**: IEEE Transactions on Cybernetics, IEEE Transactions on Games, IEEE Sensors, Frontiers in Robotics and AI  
+
+**Conferences**: AAAI ICWSM 2022, NeurIPS 2024  
+
+**Workshops**: ICML LatinX Workshop 2021, ICLR Reincarnating RL Workshop 2023, NeurIPS Machine Learning in Structural Biology (MLSB) Workshop 2023, ICML ML4LMS Workshop 2024  
 
 ### Invited Talks  
 
@@ -171,6 +170,10 @@ PhD Candidate at KAIST
 **Topic:** Protein-Protein Interactions using Equivariant Point Cloud Transformers
 *Submitted a first-author paper on protein-protein interactions using deep learning to ICCV 2023.*  
 
+- **Anar Rzayev**, 2022-Now  
+CS Undergraduate at KAIST  
+**Topic:** Antibody Structure Representation Learning  
+
 #### Alumni  
 
 - **Sangmin Lee**, 2023 
@@ -185,11 +188,7 @@ Mechanical Engineering Master's Candidate at Karlsruhe Institute of Technology a
 - **Minji Lee**, 2022  
 CS Undergraduate at KAIST  
 **Topic:** Protein Optimization using Deep Reinforcement Learning  
-*Published two first-author papers on protein functionality prediction and protein engineering using deep learning at KCC and NeurIPS MLSB Workshop 2022. Submitted a first-author paper on protein engineering to ICML 2023.*  
-
-- **Anar Rzayev**, 2022  *(now Research Intern at QuantCo)*  
-CS Undergraduate at KAIST  
-**Topic:** Antibody Structure Representation Learning  
+*Submitted a first-author paper on protein engineering to ICML 2024. Published two first-author papers on protein functionality prediction and protein engineering using deep learning at KCC and NeurIPS MLSB Workshop 2022.*   
 
 - **Lucas Santiago Peixoto**<sup>0</sup>, 2022  
 Computer Engineering Undergraduate at Federal University of Rio de Janeiro (UFRJ)  
