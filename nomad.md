@@ -472,7 +472,7 @@ A sua brisa vindo me faz viajar por lindos lugares"
 
 ![Koln](/img/nomad/koln-2024.jpg)
 
-"I give in to sin
+"I give in to sin  
 Because you have to make this life livable"  
 (Strangelove - Depeche Mode)
 
@@ -480,7 +480,7 @@ Because you have to make this life livable"
 
 ![Hamburg](/img/nomad/bochum-2024.jpg)
 
-"If I'd ever seen you face before, I know I would remember
+"If I'd ever seen you face before, I know I would remember  
 The future still remains unknown, what we are shown"  
 (Somewhere in Time - 3rd Secret)
 
