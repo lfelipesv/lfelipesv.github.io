@@ -4,7 +4,8 @@ title: News
 subtitle: 
 ---
 
-* **[2024-05]** Our work *"Robust Optimization in Protein Fitness Landscapes Using Reinforcement Learning in Latent Space"* has been accept to ICML 2024!
+* **[2024-07]** Attended ICML 2024 in Vienna, Austria.
+* **[2024-05]** Our work *"Robust Optimization in Protein Fitness Landscapes Using Reinforcement Learning in Latent Space"* has been accept to ICML 2024 as a *Spotlight*!
 * **[2024-04]** Attended the Machine+Behavior conference at the Harnack Haus in Berlin, Germany, and presented our work *"The impacts and risks of Generative AI in Robotics Scenarios"*.
 * **[2024-01]** Our work *"Projecting Work-Life Trajectories and Retirement Expectations at Age 50: Estimates for Germany"* has been accept to DGD 2024.
 * **[2023-12]** Attended NeurIPS 2023 in New Orleans, USA.
