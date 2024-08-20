@@ -493,6 +493,15 @@ This is free love
 That's what we are made of"  
 (Reload - Sebastian Ingrosso)
 
+### Vienna - Austria
+
+![Vienna](/img/nomad/vienna-2024.jpg)
+
+"I've been told if you want to make it in this game  
+You got to have the luck  
+You got to have the look"  
+(The Man Who Would Be King - The Libertines)
+
 ### Formiga - Minas Gerais - Brazil
 
 ![Minas Gerais](/img/nomad/vidasimples.jpg)
