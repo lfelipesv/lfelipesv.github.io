@@ -9,7 +9,7 @@ subtitle:
 
 ### Bio
 
-I am currently a **Senior Researcher** at the **Data Science Group, Institute for Basic Science, South Korea**.  
+I am currently a **Postdoctoral Researcher** at the **Max Planck Institute for Security and Privacy (MPI-SP), Bochum, Germany**.  
 
 My research aims to develop **Generative AI** methods for **basic science** applications, especially drug discovery (protein and antibody design) and climate change. For this, I am particularly interested in developing novel **reinforcement learning** (RL) algorithms, **graph neural networks** (GNNs), and **diffusion-based** models. Currently, I am working towards **Generative AI for protein and antibody design** applied to drug discovery in the following topics:
 
@@ -35,7 +35,8 @@ My personal interests include traveling, sports (football, kickboxing, skate, sn
 
 ### Positions
 
-**2021.10-Present**: _Data Science Group, Institute for Basic Science, South Korea_: Senior Researcher. Adviser: [Meeyoung Cha](https://scholar.google.com/citations?user=iFlnVCoAAAAJ&hl=en-US&oi=ao)  
+**2024.11-Present**: _Max Planck Institute for Security and Privacy (MPI-SP), Germany_: Postdoctoral Researcher. Adviser: [Meeyoung Cha](https://scholar.google.com/citations?user=iFlnVCoAAAAJ&hl=en-US&oi=ao) 
+**2021.10-2024.9**: _Data Science Group, Institute for Basic Science (IBS), South Korea_: Senior Researcher. Adviser: [Meeyoung Cha](https://scholar.google.com/citations?user=iFlnVCoAAAAJ&hl=en-US&oi=ao)  
 **2021.3-2021.9**: _Mechanical Engineering Research Institute, KAIST, South Korea_: Postdoctoral Researcher. Adviser: Dongsoo Har
 
 ### Education
