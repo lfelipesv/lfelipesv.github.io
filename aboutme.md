@@ -35,7 +35,7 @@ My personal interests include traveling, sports (football, kickboxing, skate, sn
 
 ### Positions
 
-**2024.11-Present**: _Max Planck Institute for Security and Privacy (MPI-SP), Germany_: Postdoctoral Researcher. Adviser: [Meeyoung Cha](https://scholar.google.com/citations?user=iFlnVCoAAAAJ&hl=en-US&oi=ao) 
+**2024.11-Present**: _Max Planck Institute for Security and Privacy (MPI-SP), Germany_: Postdoctoral Researcher. Adviser: [Meeyoung Cha](https://scholar.google.com/citations?user=iFlnVCoAAAAJ&hl=en-US&oi=ao)  
 **2021.10-2024.9**: _Data Science Group, Institute for Basic Science (IBS), South Korea_: Senior Researcher. Adviser: [Meeyoung Cha](https://scholar.google.com/citations?user=iFlnVCoAAAAJ&hl=en-US&oi=ao)  
 **2021.3-2021.9**: _Mechanical Engineering Research Institute, KAIST, South Korea_: Postdoctoral Researcher. Adviser: Dongsoo Har
 
