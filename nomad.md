@@ -500,7 +500,37 @@ That's what we are made of"
 "I've been told if you want to make it in this game  
 You got to have the luck  
 You got to have the look"  
-(The Man Who Would Be King - The Libertines)
+(The Man Who Would Be King - The Libertines)  
+
+### Zurich - Switzerland
+
+![Zurich](/img/nomad/zurich-2024.jpg)
+
+"Ele falou  
+Com a longa voz da experiência  
+Para vencer  
+Não é preciso violência  
+Basta bem pensar"  
+(Basta bem pensar - Di Melo)  
+
+### Kandersteg - Switzerland
+
+![Kandersteg](/img/nomad/kandersteg-2024.jpg)
+
+"Nothing is real  
+Nothing can hurt us  
+Nothing is full of suspense
+Nothing reveals"  
+(Nothing is perfect - Metric)  
+
+### Oslo - Norway
+
+![Oslo](/img/nomad/vienna-2024.jpg)
+
+"Why you keep pretending that you wanna let go?  
+Do you wanna let go?  
+Loud volume turn so low, low, low"  
+(Entertainment - Phoenix)  
 
 ### Formiga - Minas Gerais - Brazil
 
