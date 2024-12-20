@@ -525,7 +525,7 @@ Nothing reveals"
 
 ### Oslo - Norway
 
-![Oslo](/img/nomad/vienna-2024.jpg)
+![Oslo](/img/nomad/oslo-2024.jpg)
 
 "Why you keep pretending that you wanna let go?  
 Do you wanna let go?  
