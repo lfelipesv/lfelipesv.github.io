@@ -4,6 +4,12 @@ title: News
 subtitle: 
 ---
 
+* **[2025-03]** Our work *"Overabundance of abelisaurid teeth in the Acu Formation (Albian-Cenomanian), Potiguar Basin, Northeastern Brazil: morphometric, cladistic and machine learning approaches"* has been accept for publication in the Journal of Vertebrate Paleontology.
+* **[2025-03]** Our work *"Exploring persona-dependent LLM alignment for the moral machine experiment"* has been accept to ICLR 2025 BiAlign Workshop.
+* **[2025-03]** Attended WSDM 2025 in Hannover, Germany.
+* **[2024-12]** I presented the talk *"Integrating Data Science and AI methods in multidisciplinary research to make discoveries with social impact"* at the WebImmunization Seminar at the University of Oslo, Norway.
+* **[2024-11]** I presented the talk *"Robust Optimization in Protein Fitness Landscapes Using Reinforcement Learning in Latent Space"* at Cradle Bio in Zurich, Switzerland.
+* **[2024-11]** I have moved to a Postdoctoral position at the Max Planck Institute for Security and Privacy (MPI-SP) in Bochum, Germany.
 * **[2024-07]** Attended ICML 2024 in Vienna, Austria.
 * **[2024-05]** Our work *"Robust Optimization in Protein Fitness Landscapes Using Reinforcement Learning in Latent Space"* has been accept to ICML 2024 as a *Spotlight*!
 * **[2024-04]** Attended the Machine+Behavior conference at the Harnack Haus in Berlin, Germany, and presented our work *"The impacts and risks of Generative AI in Robotics Scenarios"*.

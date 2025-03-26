@@ -11,15 +11,15 @@ subtitle:
 
 I am currently a **Postdoctoral Researcher** at the **Max Planck Institute for Security and Privacy (MPI-SP), Bochum, Germany**.  
 
-My research aims to develop **Generative AI** methods for **basic science** applications, especially drug discovery (protein and antibody design) and climate change. For this, I am particularly interested in developing novel **reinforcement learning** (RL) algorithms, **graph neural networks** (GNNs), and **diffusion-based** models. Currently, I am working towards **Generative AI for protein and antibody design** applied to drug discovery in the following topics:
+My research aims to develop **Generative AI** methods for **basic science** applications, especially drug discovery (protein and antibody design) and demographic research. For this, I am particularly interested in developing novel **reinforcement learning** (RL) algorithms, **graph neural networks** (GNNs), and **diffusion-based** models. Currently, I am working towards **Generative AI for protein and antibody design** applied to drug discovery in the following topics:
 
 - **Generative AI for Protein/Antibody Design**: protein sequence design via RL, antigen-conditioned antibody design using geometric deep learning, graph neural networks and diffusion models.
-- **Protein Foundation Models that uses both 1D sequence and 3D structure information**: development algorithms and training protein foundation models that incorporate 1D and 3D (multimodal) information.
 - **AI-based methods for Protein/Antibody Design**: training of antibody-specific models for structure prediction, inverse folding, and error prediction.
 
-My general interests include artificial intelligence, deep reinforcement learning, and applied deep learning. From these, I am particularly interested in:
+My general interests include artificial intelligence, deep reinforcement learning, robotics, and applied deep learning. From these, I am particularly interested in:
 
 - **Deep Reinforcement Learning**: improving sampling efficiency and performance by developing new credit assignment and exploration methods, goal-conditioned RL, graph structure refinement via RL. 
+- **Large Language Models applied to Robotics**: investigation of the potential and risks of LLMs and foundation models for robotics.
 - **Graph Neural Networks**: development of novel algorithms to be applied to target-conditioned protein design, applying GNNs to error prediction.
 - **Diffusion Models**: application of diffusion-based models for 3D structure generation, development of diffusion algorithms for 3D full atom protein structure generation.  
 
@@ -30,6 +30,7 @@ My personal interests include traveling, sports (football, kickboxing, skate, sn
 ### Research Interests  
 
 * Generative AI for Basic Science *(Protein and Antibody Design, Drug Discovery, Climate Change)*
+* Large Language Models applied for Robotics *(Robotics Foundation Models, End-to-End Control, Jailbreaking)*
 * Deep Reinforcement Learning *(Credit Assignment, Exploration, Multi-agent Systems, Goal-conditioned RL)*
 * Graph Neural Networks *(Generative Models, Equivariance, Graph Structure Optimization)*  
 
@@ -124,29 +125,35 @@ My personal interests include traveling, sports (football, kickboxing, skate, sn
 
 **Journals**: IEEE Transactions on Cybernetics, IEEE Transactions on Games, IEEE Sensors, Frontiers in Robotics and AI  
 
-**Conferences**: AAAI ICWSM 2022, NeurIPS 2024  
+**Conferences**: AAAI ICWSM 2022, NeurIPS 2024, ACM WSDM 2025, ICLR 2025, AISTATS 2025, ICML 2025  
 
-**Workshops**: ICML LatinX Workshop 2021, ICLR Reincarnating RL Workshop 2023, NeurIPS Machine Learning in Structural Biology (MLSB) Workshop 2023, ICML ML4LMS Workshop 2024  
+**Workshops**: ICML LatinX 021, ICLR Reincarnating RL 2023, NeurIPS MLSB 2023, ICML ML4LMS 2024, NeurIPS MLSB 2024  
 
 ### Invited Talks  
 
-**[I1]: Developing and applying deep learning methods for protein design**  
+**[I1]: Integrating Data Science and AI methods in multidisciplinary research to make discoveries with social impact**  
+WebImmunization Seminar, University of Oslo, Norway, December 2024.  
+
+**[I2]: Robust Optimization in Protein Fitness Landscapes Using Reinforcement Learning in Latent Space**  
+Cradle Bio, Zurich, Switzerland, November 2024.  
+
+**[I3]: Developing and applying deep learning methods for protein design**  
 Graduate School of AI, Gwangju Institute of Science and Technology (GIST), July 2023.  
 
-**[I2]: Developing and applying deep learning methods to facilitate new scientific discoveries**  
+**[I4]: Developing and applying deep learning methods to facilitate new scientific discoveries**  
 Max Planck Institute for Security and Privacy (MPI-SP), May 2023.  
 
-**[I3]: Target-conditioned Protein and Antibody Design for Drug Discovery**  
+**[I5]: Target-conditioned Protein and Antibody Design for Drug Discovery**  
 IBS Winter School on AI-Boosted Basic Science, Institute for Basic Science, Dec 2022.  
 *Co-delivered with Prof. Ho Min Kim (KAIST)*
 
-**[I4]: Identifying the key actions that lead an agent to accomplish a task in model-based reinforcement learning**  
+**[I6]: Identifying the key actions that lead an agent to accomplish a task in model-based reinforcement learning**  
 School of AI Convergence, Chonnam National University, Nov 2021.
 
-**[I5]: Performance enhancement in multigoal model-based deep reinforcement learning**  
+**[I7]: Performance enhancement in multigoal model-based deep reinforcement learning**  
 Cho Chun Shik Graduate School of Mobility, KAIST, Oct 2021.
 
-**[I6]: Identifying the key actions that lead an agent to accomplish a task in model-based reinforcement learning**  
+**[I8]: Identifying the key actions that lead an agent to accomplish a task in model-based reinforcement learning**  
 Data Science Group, Institute for Basic Science, Apr 2021.
 
 ### Mentored Students  

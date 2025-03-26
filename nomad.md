@@ -532,6 +532,16 @@ Do you wanna let go?
 Loud volume turn so low, low, low"  
 (Entertainment - Phoenix)  
 
+### Hannover - Germany
+
+![Hannover](/img/nomad/hannover-2025.jpg)
+
+"I've got the spirit  
+But lose the feeling  
+I've got the spirit  
+But lose the feeling"  
+(Disorder - Joy Division)  
+
 ### Formiga - Minas Gerais - Brazil
 
 ![Minas Gerais](/img/nomad/vidasimples.jpg)
