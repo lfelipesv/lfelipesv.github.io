@@ -542,6 +542,14 @@ I've got the spirit
 But lose the feeling"  
 (Disorder - Joy Division)  
 
+### Hannover - Germany
+
+![Copenhagen](/img/nomad/copenhagen-2025.jpg)
+
+"Ehi, ho bisogno almeno di un motivo che mi faccia stare bene  
+Sono stufo dei drammi in tele, delle lamentele, delle star in depre"  
+(Ti fa stare bene - Caparezza)  
+
 ### Formiga - Minas Gerais - Brazil
 
 ![Minas Gerais](/img/nomad/vidasimples.jpg)

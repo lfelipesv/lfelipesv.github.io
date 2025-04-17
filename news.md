@@ -4,6 +4,7 @@ title: News
 subtitle: 
 ---
 
+* **[2025-04]** Attended SaTML 2025 in Copenhagen, Denmark.
 * **[2025-03]** Our work *"Overabundance of abelisaurid teeth in the Acu Formation (Albian-Cenomanian), Potiguar Basin, Northeastern Brazil: morphometric, cladistic and machine learning approaches"* has been accept for publication in the Journal of Vertebrate Paleontology.
 * **[2025-03]** Our work *"Exploring persona-dependent LLM alignment for the moral machine experiment"* has been accept to ICLR 2025 BiAlign Workshop.
 * **[2025-03]** Attended WSDM 2025 in Hannover, Germany.
