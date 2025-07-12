@@ -53,7 +53,7 @@ My personal interests include traveling, sports (football, kickboxing, skate, sn
 
 ### Current Projects
 
-**Security and Privacy Risks of LLMs/VLAs in Robotics**: Research on the behavior or robots empowered by LLMs/VLAs.
+**Security and Privacy Risks of LLMs/VLAs in Robotics**: Research on the behavior of robots empowered by LLMs/VLAs.
 
 **Development of AI-based methods for drug discovery**: Research on Protein/Antibody design methods using Deep Learning for the development of new therapeutics/vaccines.
 
@@ -79,7 +79,7 @@ My personal interests include traveling, sports (football, kickboxing, skate, sn
 
 **[P1]**: **Vecchietti, Luiz Felipe** & Lee, Minji, et al (2024). Robust Optimization in Protein Fitness Landscapes Using Reinforcement Learning in Latent Space. International Conference on Machine Learning (ICML) 2024.
 
-**[P2]**: Ribeiro, Theo Baptista & **Vecchietti, Luiz Felipe** et al. Overabundance of abelisaurid teeth in the Açu Formation (Albian-Cenomanian), Potiguar Basin, Northeastern Brazil: morphometric, cladistic and machine learning approaches. Journal of Vertebrate Paleontology, 2025.
+**[P2]**: Ribeiro, Theo Baptista & **Vecchietti, Luiz Felipe** et al (2025). Overabundance of abelisaurid teeth in the Açu Formation (Albian-Cenomanian), Potiguar Basin, Northeastern Brazil: morphometric, cladistic and machine learning approaches. Journal of Vertebrate Paleontology.
 
 **[P3]**: Seo<sup>†</sup>, Minah & **Vecchietti, Luiz Felipe** & Lee, Sangkeum & Har, Dongsoo. (2019). Rewards Prediction Based Credit Assignment for Reinforcement Learning with Sparse Binary Rewards. IEEE Access. PP. 1-1. 10.1109/ACCESS.2019.2936863.  
 *Selected as a featured research for the KAIST Breakthroughs Magazine in 2020*   
@@ -147,7 +147,7 @@ My personal interests include traveling, sports (football, kickboxing, skate, sn
 ### Invited Talks  
 
 **[I1]: LLMs outside Natural Language Processing Applications**  
-Ruhr University Bochum, Germany, July 2025.  
+Ruhr University Bochum (RUB), Germany, July 2025.  
 
 **[I2]: Integrating Data Science and AI methods in multidisciplinary research to make discoveries with social impact**  
 WebImmunization Seminar, University of Oslo, Norway, December 2024.  
@@ -156,23 +156,23 @@ WebImmunization Seminar, University of Oslo, Norway, December 2024.
 Cradle Bio, Zurich, Switzerland, November 2024.  
 
 **[I4]: Developing and applying deep learning methods for protein design**  
-Graduate School of AI, Gwangju Institute of Science and Technology (GIST), July 2023.  
+Graduate School of AI, Gwangju Institute of Science and Technology (GIST), Gwangju, South Korea, July 2023.  
 
 **[I5]: Developing and applying deep learning methods to facilitate new scientific discoveries**  
-Max Planck Institute for Security and Privacy (MPI-SP), May 2023.  
+Max Planck Institute for Security and Privacy (MPI-SP), Bochum, Germany, May 2023.  
 
 **[I6]: Target-conditioned Protein and Antibody Design for Drug Discovery**  
-IBS Winter School on AI-Boosted Basic Science, Institute for Basic Science, Dec 2022.  
+IBS Winter School on AI-Boosted Basic Science, Institute for Basic Science, Daejeon, South Korea, Dec 2022.  
 *Co-delivered with Prof. Ho Min Kim (KAIST)*
 
 **[I7]: Identifying the key actions that lead an agent to accomplish a task in model-based reinforcement learning**  
-School of AI Convergence, Chonnam National University, Nov 2021.
+School of AI Convergence, Chonnam National University, Gwangju, South Korea, Nov 2021.
 
 **[I8]: Performance enhancement in multigoal model-based deep reinforcement learning**  
-Cho Chun Shik Graduate School of Mobility, KAIST, Oct 2021.
+Cho Chun Shik Graduate School of Mobility, KAIST, Daejeon, South Korea, Oct 2021.
 
 **[I9]: Identifying the key actions that lead an agent to accomplish a task in model-based reinforcement learning**  
-Data Science Group, Institute for Basic Science, Apr 2021.
+Data Science Group, Institute for Basic Science, Daejeon, South Korea, Apr 2021.
 
 ### Mentored Students  
 
@@ -194,7 +194,7 @@ Chemical Engineering / CS Undergraduate at KAIST
 
 - **Jiseon Kim**, 2024-Now  
 PhD Candidate at KAIST  
-**Topic:** Human-AI Alignment
+**Topic:** Human-AI Alignment  
 *Presented a first-author paper on AI Alignment at the ICLR BiAlign Workshop 2025.*  
 
 #### Alumni  
@@ -230,7 +230,7 @@ Computer Engineering Undergraduate at Federal University of Rio de Janeiro (UFRJ
 - **Matheus Tymburiba Elian**, 2021-2022  *(now Faculty at the Federal University of Minas Gerais)*  
 Industrial Design PhD Candidate at University of Tsukuba    
 **Topic:** Gender-Ambiguous Voice Agents for Voice User Interfaces  
-*Submitted a first-author paper on gender-ambiguous voice agents to CHI 2023.*  
+*Published a first-author paper on gender-ambiguous voice agents to Estudos em Design 2025.*  
 
 - **Kien Hoang**, 2021-2022  *(now MsC Candidate at EPFL)*  
 Mathematics Undergraduate at KAIST    
