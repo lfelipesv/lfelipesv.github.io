@@ -7,6 +7,7 @@ subtitle:
 * **[2025-07]** Our work *"Artificial intelligence-driven computational methods for antibody design and optimization"* has been accept for publication in mAbs.
 * **[2025-07]** Attended and helped organizing the "MPI-SP Symposium on Challenges in a Digitalised Society" in Bochum, Germany.
 * **[2025-07]** I presented the lecture "LLMs outside NLP Application" at Ruhr University Bochum, Germany.
+* **[2025-06]** Our preprint *"Predicting Individual Life Trajectories: Addressing Uncertainty in Social Employment Transitions"* is now in SocArXiv.
 * **[2025-04]** Attended SaTML 2025 in Copenhagen, Denmark.
 * **[2025-03]** Our work *"Overabundance of abelisaurid teeth in the Acu Formation (Albian-Cenomanian), Potiguar Basin, Northeastern Brazil: morphometric, cladistic and machine learning approaches"* has been accept for publication in the Journal of Vertebrate Paleontology.
 * **[2025-03]** Our work *"Exploring persona-dependent LLM alignment for the moral machine experiment"* has been accept to ICLR 2025 BiAlign Workshop.
