@@ -542,7 +542,7 @@ I've got the spirit
 But lose the feeling"  
 (Disorder - Joy Division)  
 
-### Hannover - Germany
+### Copenhagen - Denmark
 
 ![Copenhagen](/img/nomad/copenhagen-2025.jpg)
 

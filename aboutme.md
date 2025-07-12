@@ -52,7 +52,9 @@ My personal interests include traveling, sports (football, kickboxing, skate, sn
 **Summer 2013**: _Hyundai Motor Company, Namyang Research and Development Center_: Eco Vehicle Control System Development Team  
 
 ### Current Projects
- 
+
+**Security and Privacy Risks of LLMs/VLAs in Robotics**: Research on the behavior or robots empowered by LLMs/VLAs.
+
 **Development of AI-based methods for drug discovery**: Research on Protein/Antibody design methods using Deep Learning for the development of new therapeutics/vaccines.
 
 ### Past Projects
@@ -76,21 +78,21 @@ My personal interests include traveling, sports (football, kickboxing, skate, sn
 #### Peer-Reviewed International Conferences and Journals
 
 **[P1]**: **Vecchietti, Luiz Felipe** & Lee, Minji, et al (2024). Robust Optimization in Protein Fitness Landscapes Using Reinforcement Learning in Latent Space. International Conference on Machine Learning (ICML) 2024.
- 
-**[P2]**: Seo<sup>†</sup>, Minah & **Vecchietti, Luiz Felipe** & Lee, Sangkeum & Har, Dongsoo. (2019). Rewards Prediction Based Credit Assignment for Reinforcement Learning with Sparse Binary Rewards. IEEE Access. PP. 1-1. 10.1109/ACCESS.2019.2936863.  
+
+**[P2]**: Ribeiro, Theo Baptista & **Vecchietti, Luiz Felipe** et al. Overabundance of abelisaurid teeth in the Açu Formation (Albian-Cenomanian), Potiguar Basin, Northeastern Brazil: morphometric, cladistic and machine learning approaches. Journal of Vertebrate Paleontology, 2025.
+
+**[P3]**: Seo<sup>†</sup>, Minah & **Vecchietti, Luiz Felipe** & Lee, Sangkeum & Har, Dongsoo. (2019). Rewards Prediction Based Credit Assignment for Reinforcement Learning with Sparse Binary Rewards. IEEE Access. PP. 1-1. 10.1109/ACCESS.2019.2936863.  
 *Selected as a featured research for the KAIST Breakthroughs Magazine in 2020*   
 
-**[P3]**: **Vecchietti, Luiz Felipe** & Seo, Minah & Har, Dongsoo. (2020). Sampling Rate Decay in Hindsight Experience Replay for Robot Control. IEEE Transactions on Cybernetics.  
+**[P4]**: **Vecchietti, Luiz Felipe** & Seo, Minah & Har, Dongsoo. (2020). Sampling Rate Decay in Hindsight Experience Replay for Robot Control. IEEE Transactions on Cybernetics.  
 
-**[P4]**: **Vecchietti, Luiz Felipe**, et al. "Batch Prioritization in Multigoal Reinforcement Learning." IEEE Access 8 (2020): 137449-137461.
+**[P5]**: **Vecchietti, Luiz Felipe**, et al. "Batch Prioritization in Multigoal Reinforcement Learning." IEEE Access 8 (2020): 137449-137461.
 
-**[P5]**: Lee, Sangkeum & **Vecchietti, Luiz Felipe** et al. (2020). Power Management by LSTM Network for Nanogrids. IEEE Access.
+**[P6]**: Lee, Sangkeum & **Vecchietti, Luiz Felipe** et al. (2020). Power Management by LSTM Network for Nanogrids. IEEE Access.
 
-**[P6]**: Lee, Sangkeum & Jin, Hojun & **Vecchietti, Luiz Felipe** et al. Short-term predictive power management of PV-powered nanogrids. IEEE Access, v. 8, p. 147839-147857, 2020.
+**[P7]**: Lee, Sangkeum & Jin, Hojun & **Vecchietti, Luiz Felipe** et al. Short-term predictive power management of PV-powered nanogrids. IEEE Access, v. 8, p. 147839-147857, 2020.
 
-**[P7]**: Kim<sup>†</sup>, Taeyoung & **Vecchietti, Luiz Felipe** et al. "Machine Learning for Advanced Wireless Sensor Networks: A Review." IEEE Sensors Journal (2020).
-
-**[P8]**: Lee, Sangkeum & Jin, Hojun & **Vecchietti, Luiz Felipe** et al. "Power Management of Nanogrid Cluster with P2P Electricity Trading Based on Future Trends of Load Demand and PV Power Production." arXiv preprint arXiv:2009.00863 (2020).
+**[P8]**: Kim<sup>†</sup>, Taeyoung & **Vecchietti, Luiz Felipe** et al. "Machine Learning for Advanced Wireless Sensor Networks: A Review." IEEE Sensors Journal (2020).
 
 **[P9]**: Kim, Sungkwan & Kim, Inhwan & **Vecchietti, Luiz Felipe** et al. "Pose Estimation Utilizing a Gated Recurrent Unit Network for Visual Localization." Applied Sciences 10.24 (2020): 8876.
 
@@ -103,21 +105,34 @@ My personal interests include traveling, sports (football, kickboxing, skate, sn
 **[P13]**: Lee, Sangkeum & Jin, Hojun & **Vecchietti, Luiz Felipe** et al. "Cooperative decentralized peer-to-peer electricity trading of nanogrid clusters based on predictions of load demand and PV power generation using a gated recurrent unit model." IET Renewable Power Generation, vol. 15, pp. 3505-3523 (2021).
 
 **[P14]**: Mishra, Sumit, & Rajeendran, Praveen Kumar & **Vecchietti, Luiz Felipe** et al. "Sensing accident-prone features in urban scenes for proactive driving and accident prevention", IEEE Transactions on Intelligence Transportation Systems (2023).
+*Selected as a featured research for the KAIST Breakthroughs Magazine in 2023*
 
 #### Workshops, Domestic Conferences, Posters, and Extended Abstracts
 
-**[W1]**: Wijaya<sup>†</sup>, Bryan Nathanael & **Vecchietti, Luiz Felipe** et al. "Evaluation of Antibody Structure Reconstruction with an SE(3)-Equivariant Graph Neural Network." presented at the Korea Software Congress (KSC), Busan, South Korea (2023).
+**[W1]**: Kim<sup>†</sup>, Jiseon & Kwon, Jea & **Vecchietti, Luiz Felipe** et al. "Exploring persona-dependent llm alignment for the moral machine experiment." presented at the ICLR BiAlign Workshop, Singapore (2025).
 
-**[W2]**: Jung<sup>†</sup>, Hyunkyu & **Vecchietti, Luiz Felipe** et al. "Protein Structure Tokenizer for Efficient Learning." presented as a poster in Peptalk, San Diego, USA (2023).
+**[W2]**: Wijaya<sup>†</sup>, Bryan Nathanael & **Vecchietti, Luiz Felipe** et al. "Evaluation of Antibody Structure Reconstruction with an SE(3)-Equivariant Graph Neural Network." presented at the Korea Software Congress (KSC), Busan, South Korea (2023).
 
-**[W3]**: Hangeldiyev<sup>†</sup>, Begench & Rzayev, Anar & Armanuly, Azamat & Jung, Hyunkyu & **Vecchietti, Luiz Felipe** et al. "Antibody Sequence Design With Graph-Based Deep Learning Methods." presented at the Korea Software Congress (KSC), (2022).
+**[W3]**: Jung<sup>†</sup>, Hyunkyu & **Vecchietti, Luiz Felipe** et al. "Protein Structure Tokenizer for Efficient Learning." presented as a poster in Peptalk, San Diego, USA (2023).
 
-**[W4]**: Lee<sup>1</sup><sup>†</sup>, Minji & **Vecchietti<sup>1</sup>, Luiz Felipe** et al. "Protein Sequence Design in a Latent Space via Model-based Reinforcement Learning." presented at the NeurIPS Machine Learning in Structural Biology (MLSB) Workshop, (2022).  
+**[W4]**: Hangeldiyev<sup>†</sup>, Begench & Rzayev, Anar & Armanuly, Azamat & Jung, Hyunkyu & **Vecchietti, Luiz Felipe** et al. "Antibody Sequence Design With Graph-Based Deep Learning Methods." presented at the Korea Software Congress (KSC), (2022).
+
+**[W5]**: Lee<sup>1</sup><sup>†</sup>, Minji & **Vecchietti<sup>1</sup>, Luiz Felipe** et al. "Protein Sequence Design in a Latent Space via Model-based Reinforcement Learning." presented at the NeurIPS Machine Learning in Structural Biology (MLSB) Workshop, (2022).  
 *<sup>1</sup> denotes co-first authors.*
 
-**[W5]**: Lee<sup>†</sup>, Minji & Rzayev, Anar & Jung, Hyunkyu & **Vecchietti, Luiz Felipe** et al. "Structure-based representation for protein functionality prediction using machine learning." presented at the Korea Computer Congress (KCC), (2022).
+**[W6]**: Lee<sup>†</sup>, Minji & Rzayev, Anar & Jung, Hyunkyu & **Vecchietti, Luiz Felipe** et al. "Structure-based representation for protein functionality prediction using machine learning." presented at the Korea Computer Congress (KCC), (2022).
 
-**[W6]**: Rajendran<sup>†</sup>, Praveen Kumar & Mishra, Sumit & **Vecchietti, Luiz Felipe** et al. "RelMobNet: End-to-end relative camera pose estimation using a robust two-stage training." presented at the ECCV IWDSC Workshop, (2022).
+**[W7]**: Rajendran<sup>†</sup>, Praveen Kumar & Mishra, Sumit & **Vecchietti, Luiz Felipe** et al. "RelMobNet: End-to-end relative camera pose estimation using a robust two-stage training." presented at the ECCV IWDSC Workshop, (2022).
+
+#### Preprints
+
+**[R1]**: Vecgaile, Linda & Spata, Alessandro & **Vecchietti, Luiz Felipe** & Zagheni, Emilio. "Predicting Individual Life Trajectories: Addressing Uncertainty in Social Employment Transitions." SocArXiv, (2025).
+
+**[R2]**: Yun, Jeongwon & Yang, Seungju & Kwon, Jea Hyuk & **Vecchietti, Luiz Felipe** et al. "Enhancing the protein fitness of interferon-lambda through computational design and glyco-engineering for prophylactic nasal drugs against respiratory viruses." bioRXiv, (2025).
+
+**[R3]**: **Vecchietti, Luiz Felipe** et al. "Recent advances in interpretable machine learning using structure-based protein representations." arXiv, (2024).
+
+**[R4]**: Lee, Sangkeum & Jin, Hojun & **Vecchietti, Luiz Felipe** et al. "Power Management of Nanogrid Cluster with P2P Electricity Trading Based on Future Trends of Load Demand and PV Power Production." arXiv preprint arXiv:2009.00863 (2020).
 
 ### Academic Services  
 
@@ -125,35 +140,38 @@ My personal interests include traveling, sports (football, kickboxing, skate, sn
 
 **Journals**: IEEE Transactions on Cybernetics, IEEE Transactions on Games, IEEE Sensors, Frontiers in Robotics and AI  
 
-**Conferences**: AAAI ICWSM 2022, NeurIPS 2024, ACM WSDM 2025, ICLR 2025, AISTATS 2025, ICML 2025  
+**Conferences**: AAAI ICWSM 2022, NeurIPS 2024, ACM WSDM 2025, ICLR 2025, AISTATS 2025, ICML 2025, NeurIPS 2025  
 
 **Workshops**: ICML LatinX 021, ICLR Reincarnating RL 2023, NeurIPS MLSB 2023, ICML ML4LMS 2024, NeurIPS MLSB 2024  
 
 ### Invited Talks  
 
-**[I1]: Integrating Data Science and AI methods in multidisciplinary research to make discoveries with social impact**  
+**[I1]: LLMs outside Natural Language Processing Applications**  
+Ruhr University Bochum, Germany, July 2025.  
+
+**[I2]: Integrating Data Science and AI methods in multidisciplinary research to make discoveries with social impact**  
 WebImmunization Seminar, University of Oslo, Norway, December 2024.  
 
-**[I2]: Robust Optimization in Protein Fitness Landscapes Using Reinforcement Learning in Latent Space**  
+**[I3]: Robust Optimization in Protein Fitness Landscapes Using Reinforcement Learning in Latent Space**  
 Cradle Bio, Zurich, Switzerland, November 2024.  
 
-**[I3]: Developing and applying deep learning methods for protein design**  
+**[I4]: Developing and applying deep learning methods for protein design**  
 Graduate School of AI, Gwangju Institute of Science and Technology (GIST), July 2023.  
 
-**[I4]: Developing and applying deep learning methods to facilitate new scientific discoveries**  
+**[I5]: Developing and applying deep learning methods to facilitate new scientific discoveries**  
 Max Planck Institute for Security and Privacy (MPI-SP), May 2023.  
 
-**[I5]: Target-conditioned Protein and Antibody Design for Drug Discovery**  
+**[I6]: Target-conditioned Protein and Antibody Design for Drug Discovery**  
 IBS Winter School on AI-Boosted Basic Science, Institute for Basic Science, Dec 2022.  
 *Co-delivered with Prof. Ho Min Kim (KAIST)*
 
-**[I6]: Identifying the key actions that lead an agent to accomplish a task in model-based reinforcement learning**  
+**[I7]: Identifying the key actions that lead an agent to accomplish a task in model-based reinforcement learning**  
 School of AI Convergence, Chonnam National University, Nov 2021.
 
-**[I7]: Performance enhancement in multigoal model-based deep reinforcement learning**  
+**[I8]: Performance enhancement in multigoal model-based deep reinforcement learning**  
 Cho Chun Shik Graduate School of Mobility, KAIST, Oct 2021.
 
-**[I8]: Identifying the key actions that lead an agent to accomplish a task in model-based reinforcement learning**  
+**[I9]: Identifying the key actions that lead an agent to accomplish a task in model-based reinforcement learning**  
 Data Science Group, Institute for Basic Science, Apr 2021.
 
 ### Mentored Students  
@@ -166,25 +184,30 @@ I am very thankful for the support and trust given from my advisors throughout m
 
 - **Bryan Nathanael Wijaya**, 2023-Now  
 MsC Candidate at KAIST  
-**Topic:** Protein Sidechain Reconstruction using Deep Learning, Antigen-conditioned Antibody Design   
+**Topic:** Antigen-conditioned Antibody Design   
+*Published a first-author paper in mABS.*
 
 - **Begench Hangeldiyev**, 2022-Now  
 Chemical Engineering / CS Undergraduate at KAIST    
 **Topic:** Antibody Sequence Design with Graph-Based Methods  
 *Published his first paper on antibody design with deep learning at KSC 2023.*  
 
-- **Hyunkyu Jung**, 2021-Now  
+- **Jiseon Kim**, 2024-Now  
 PhD Candidate at KAIST  
-**Topic:** Protein-Protein Interactions using Equivariant Point Cloud Transformers
-*Submitted a first-author paper on protein-protein interactions using deep learning to ICCV 2023.*  
-
-- **Anar Rzayev**, 2022-Now  
-CS Undergraduate at KAIST  
-**Topic:** Antibody Structure Representation Learning  
+**Topic:** Human-AI Alignment
+*Presented a first-author paper on AI Alignment at the ICLR BiAlign Workshop 2025.*  
 
 #### Alumni  
 
-- **Sangmin Lee**, 2023 
+- **Hyunkyu Jung**, 2021-2025  *(now PhD Candidate at KAIST)*    
+PhD Candidate at KAIST  
+**Topic:** Protein-Protein Interactions using Equivariant Point Cloud Transformers 
+
+- **Anar Rzayev**, 2022-2025  *(now Intern at ISTA)*  
+CS Undergraduate at KAIST  
+**Topic:** Antibody Structure Representation Learning  
+
+- **Sangmin Lee**, 2023   
 CS Undergraduate at KAIST  
 **Topic:** AI-based methods for design thermostable proteins  
 
@@ -193,7 +216,7 @@ Mechanical Engineering Master's Candidate at Karlsruhe Institute of Technology a
 **Topic:** Recommendation Systems applied to Logistics Applications  
 *Worked and successfully defended his master's thesis on recommendations systems at KIT and KAIST.*  
 
-- **Minji Lee**, 2022  
+- **Minji Lee**, 2022  *(now PhD Candidate at Columbia University)*      
 CS Undergraduate at KAIST  
 **Topic:** Protein Optimization using Deep Reinforcement Learning  
 *Submitted a first-author paper on protein engineering to ICML 2024. Published two first-author papers on protein functionality prediction and protein engineering using deep learning at KCC and NeurIPS MLSB Workshop 2022.*   
