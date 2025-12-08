@@ -11,28 +11,30 @@ subtitle:
 
 I am currently a **Postdoctoral Researcher** at the **Max Planck Institute for Security and Privacy (MPI-SP), Bochum, Germany**.  
 
-My research aims to develop **Generative AI** methods for **basic science** applications, especially drug discovery (protein and antibody design) and demographic research. For this, I am particularly interested in developing novel **reinforcement learning** (RL) algorithms, **graph neural networks** (GNNs), and **diffusion-based** models. Currently, I am working towards **Generative AI for protein and antibody design** applied to drug discovery in the following topics:
+My research aims to develop flexible **artificial intelligence** algorithms that can be applied with different data modalities in multi-agent scenarios. These inclu3e novel **reinforcement learning** (RL) algorithms, **graph neural networks** (GNNs), and **diffusion-based** models. My general interests include artificial intelligence, deep reinforcement learning, robotics, and applied deep learning. From these, I am particularly interested in:
+
+- **Multi-Agent Systems**: development of multi-agent RL algorithms in collaborative and collaborative-competitive environments, modeling of multi-agent RL in a continual learning setting. 
+- **Deep Reinforcement Learning**: improving sampling efficiency and performance by developing new credit assignment and exploration methods, goal-conditioned RL, graph structure refinement via RL. 
+- **Large Language Models applied to Robotics**: investigation of the potential and risks of LLMs and foundation models for robotics.
+- **Graph Neural Networks**: development of novel algorithms to be applied to target-conditioned generation, applying GNNs to error prediction.
+- **Diffusion Models**: application of diffusion-based models for 3D structure generation, development of diffusion-based and flow matching-based algorithms for 3D structure prediction. 
+
+Currently, I am also working towards **Generative AI for protein and antibody design** applied to drug discovery in the following topics:
 
 - **Generative AI for Protein/Antibody Design**: protein sequence design via RL, antigen-conditioned antibody design using geometric deep learning, graph neural networks and diffusion models.
 - **AI-based methods for Protein/Antibody Design**: training of antibody-specific models for structure prediction, inverse folding, and error prediction.
 
-My general interests include artificial intelligence, deep reinforcement learning, robotics, and applied deep learning. From these, I am particularly interested in:
-
-- **Deep Reinforcement Learning**: improving sampling efficiency and performance by developing new credit assignment and exploration methods, goal-conditioned RL, graph structure refinement via RL. 
-- **Large Language Models applied to Robotics**: investigation of the potential and risks of LLMs and foundation models for robotics.
-- **Graph Neural Networks**: development of novel algorithms to be applied to target-conditioned protein design, applying GNNs to error prediction.
-- **Diffusion Models**: application of diffusion-based models for 3D structure generation, development of diffusion algorithms for 3D full atom protein structure generation.  
-
-I have previous research experiences in Deep Reinforcement Learning applied to **Robotics** (continuous control, development of simulated environments, multi-agent systems), **Speech Synthesis** (corpus building and segmentation, statistical parametric speech synthesis), and **Natural Language Processing** (using sequence-to-sequence models combined with LSTMs and Transformers).  
+My previous research has been applied to diverse domains such as **Robotics** (continuous control, development of simulated environments, multi-agent systems), **Speech Synthesis** (corpus building and segmentation, statistical parametric speech synthesis), and **Natural Language Processing** (using sequence-to-sequence models combined with LSTMs and Transformers).  
 
 My personal interests include traveling, sports (football, kickboxing, skate, snowboard, surf, surfskate), music (classical guitar, cavaquinho) and reading (fantasy, science fiction, mountaineering).
 
 ### Research Interests  
 
-* Generative AI for Basic Science *(Protein and Antibody Design, Drug Discovery, Climate Change)*
-* Large Language Models applied for Robotics *(Robotics Foundation Models, End-to-End Control, Jailbreaking)*
+* Multi-Agent Systems *(Collaborative, Collaborative-Competitive, Credit Assignment)*
 * Deep Reinforcement Learning *(Credit Assignment, Exploration, Multi-agent Systems, Goal-conditioned RL)*
-* Graph Neural Networks *(Generative Models, Equivariance, Graph Structure Optimization)*  
+* Large Language Models applied for Robotics *(Robotics Foundation Models, End-to-End Control, Jailbreaking)*
+* Graph Neural Networks *(Generative Models, Equivariance, Graph Structure Optimization)*
+* Generative AI for Basic Science *(Protein and Antibody Design, Drug Discovery, Climate Change)*  
 
 ### Positions
 
@@ -52,6 +54,8 @@ My personal interests include traveling, sports (football, kickboxing, skate, sn
 **Summer 2013**: _Hyundai Motor Company, Namyang Research and Development Center_: Eco Vehicle Control System Development Team  
 
 ### Current Projects
+
+**Continual Multi-Agent RL**: Development of algorithms for continual multi-agent RL frameworks.
 
 **Security and Privacy Risks of LLMs/VLAs in Robotics**: Research on the behavior of robots empowered by LLMs/VLAs.
 
@@ -77,34 +81,40 @@ My personal interests include traveling, sports (football, kickboxing, skate, sn
 
 #### Peer-Reviewed International Conferences and Journals
 
-**[P1]**: **Vecchietti, Luiz Felipe** & Lee, Minji, et al (2024). Robust Optimization in Protein Fitness Landscapes Using Reinforcement Learning in Latent Space. International Conference on Machine Learning (ICML) 2024.
+**[P1]**: Kwon, Jea & **Vecchietti, Luiz Felipe** al (2026). Dropouts in Confidence: Moral Uncertainty in Human-LLM Alignment. AAAI, AI Alignment Track.
 
-**[P2]**: Ribeiro, Theo Baptista & **Vecchietti, Luiz Felipe** et al (2025). Overabundance of abelisaurid teeth in the Açu Formation (Albian-Cenomanian), Potiguar Basin, Northeastern Brazil: morphometric, cladistic and machine learning approaches. Journal of Vertebrate Paleontology.
+**[P2]**: **Vecchietti, Luiz Felipe** & Wijaya, Bryan Nathanael, et al (2025). Artificial intelligence-driven computational methods for antibody design and optimization. mAbs, doi: 10.1080/19420862.2025.2528902.
 
-**[P3]**: Seo<sup>†</sup>, Minah & **Vecchietti, Luiz Felipe** & Lee, Sangkeum & Har, Dongsoo. (2019). Rewards Prediction Based Credit Assignment for Reinforcement Learning with Sparse Binary Rewards. IEEE Access. PP. 1-1. 10.1109/ACCESS.2019.2936863.  
+**[P3]**: Yun, Jeongwon & Yang, S. & Kwon, J. H. & **Vecchietti, Luiz Felipe** & Lee, Minji, et al (2025). Computational Design and Glycoengineering of Interferon-Lambda for Nasal Prophylaxis against Respiratory Viruses. Advanced Science.
+
+**[P4]**: **Vecchietti, Luiz Felipe** & Lee, Minji, et al (2024). Robust Optimization in Protein Fitness Landscapes Using Reinforcement Learning in Latent Space. International Conference on Machine Learning (ICML), *Spotlight Poster*.
+
+**[P5]**: Ribeiro, Theo Baptista & **Vecchietti, Luiz Felipe** et al (2025). Overabundance of abelisaurid teeth in the Açu Formation (Albian-Cenomanian), Potiguar Basin, Northeastern Brazil: morphometric, cladistic and machine learning approaches. Journal of Vertebrate Paleontology.
+
+**[P6]**: Seo<sup>†</sup>, Minah & **Vecchietti, Luiz Felipe** & Lee, Sangkeum & Har, Dongsoo. (2019). Rewards Prediction Based Credit Assignment for Reinforcement Learning with Sparse Binary Rewards. IEEE Access. PP. 1-1. 10.1109/ACCESS.2019.2936863.  
 *Selected as a featured research for the KAIST Breakthroughs Magazine in 2020*   
 
-**[P4]**: **Vecchietti, Luiz Felipe** & Seo, Minah & Har, Dongsoo. (2020). Sampling Rate Decay in Hindsight Experience Replay for Robot Control. IEEE Transactions on Cybernetics.  
+**[P7]**: **Vecchietti, Luiz Felipe** & Seo, Minah & Har, Dongsoo. (2020). Sampling Rate Decay in Hindsight Experience Replay for Robot Control. IEEE Transactions on Cybernetics.  
 
-**[P5]**: **Vecchietti, Luiz Felipe**, et al. "Batch Prioritization in Multigoal Reinforcement Learning." IEEE Access 8 (2020): 137449-137461.
+**[P8]**: **Vecchietti, Luiz Felipe**, et al. "Batch Prioritization in Multigoal Reinforcement Learning." IEEE Access 8 (2020): 137449-137461.
 
-**[P6]**: Lee, Sangkeum & **Vecchietti, Luiz Felipe** et al. (2020). Power Management by LSTM Network for Nanogrids. IEEE Access.
+**[P9]**: Lee, Sangkeum & **Vecchietti, Luiz Felipe** et al. (2020). Power Management by LSTM Network for Nanogrids. IEEE Access.
 
-**[P7]**: Lee, Sangkeum & Jin, Hojun & **Vecchietti, Luiz Felipe** et al. Short-term predictive power management of PV-powered nanogrids. IEEE Access, v. 8, p. 147839-147857, 2020.
+**[P10]**: Lee, Sangkeum & Jin, Hojun & **Vecchietti, Luiz Felipe** et al. Short-term predictive power management of PV-powered nanogrids. IEEE Access, v. 8, p. 147839-147857, 2020.
 
-**[P8]**: Kim<sup>†</sup>, Taeyoung & **Vecchietti, Luiz Felipe** et al. "Machine Learning for Advanced Wireless Sensor Networks: A Review." IEEE Sensors Journal (2020).
+**[P11]**: Kim<sup>†</sup>, Taeyoung & **Vecchietti, Luiz Felipe** et al. "Machine Learning for Advanced Wireless Sensor Networks: A Review." IEEE Sensors Journal (2020).
 
-**[P9]**: Kim, Sungkwan & Kim, Inhwan & **Vecchietti, Luiz Felipe** et al. "Pose Estimation Utilizing a Gated Recurrent Unit Network for Visual Localization." Applied Sciences 10.24 (2020): 8876.
+**[P12]**: Kim, Sungkwan & Kim, Inhwan & **Vecchietti, Luiz Felipe** et al. "Pose Estimation Utilizing a Gated Recurrent Unit Network for Visual Localization." Applied Sciences 10.24 (2020): 8876.
 
-**[P10]**: Lee, Sangkeum & Har, Dongsoo & **Vecchietti, Luiz Felipe** et al. "Optimal Link Scheduling Based on Attributes of Nodes in 6TiSCH Wireless Networks." 한국정보기술학회논문지 18.1 (2020): 77-92.
+**[P13]**: Lee, Sangkeum & Har, Dongsoo & **Vecchietti, Luiz Felipe** et al. "Optimal Link Scheduling Based on Attributes of Nodes in 6TiSCH Wireless Networks." 한국정보기술학회논문지 18.1 (2020): 77-92.
 
-**[P11]**: Hong, Chansol & Jeong, Inbae & **Vecchietti, Luiz Felipe** et al. "AI World Cup: Robot Soccer-Based Competitions." IEEE Transactions on Games (2021).
+**[P14]**: Hong, Chansol & Jeong, Inbae & **Vecchietti, Luiz Felipe** et al. "AI World Cup: Robot Soccer-Based Competitions." IEEE Transactions on Games (2021).
 
-**[P12]**: Kim<sup>†</sup>, Taeyoung & **Vecchietti, Luiz Felipe** et al. "Two-stage training algorithm for AI robot soccer." PeerJ Computer Science (2021).
+**[P15]**: Kim<sup>†</sup>, Taeyoung & **Vecchietti, Luiz Felipe** et al. "Two-stage training algorithm for AI robot soccer." PeerJ Computer Science (2021).
 
-**[P13]**: Lee, Sangkeum & Jin, Hojun & **Vecchietti, Luiz Felipe** et al. "Cooperative decentralized peer-to-peer electricity trading of nanogrid clusters based on predictions of load demand and PV power generation using a gated recurrent unit model." IET Renewable Power Generation, vol. 15, pp. 3505-3523 (2021).
+**[P16]**: Lee, Sangkeum & Jin, Hojun & **Vecchietti, Luiz Felipe** et al. "Cooperative decentralized peer-to-peer electricity trading of nanogrid clusters based on predictions of load demand and PV power generation using a gated recurrent unit model." IET Renewable Power Generation, vol. 15, pp. 3505-3523 (2021).
 
-**[P14]**: Mishra, Sumit, & Rajeendran, Praveen Kumar & **Vecchietti, Luiz Felipe** et al. "Sensing accident-prone features in urban scenes for proactive driving and accident prevention", IEEE Transactions on Intelligence Transportation Systems (2023).
+**[P17]**: Mishra, Sumit, & Rajeendran, Praveen Kumar & **Vecchietti, Luiz Felipe** et al. "Sensing accident-prone features in urban scenes for proactive driving and accident prevention", IEEE Transactions on Intelligence Transportation Systems (2023).
 *Selected as a featured research for the KAIST Breakthroughs Magazine in 2023*
 
 #### Workshops, Domestic Conferences, Posters, and Extended Abstracts
@@ -128,11 +138,9 @@ My personal interests include traveling, sports (football, kickboxing, skate, sn
 
 **[R1]**: Vecgaile, Linda & Spata, Alessandro & **Vecchietti, Luiz Felipe** & Zagheni, Emilio. "Predicting Individual Life Trajectories: Addressing Uncertainty in Social Employment Transitions." SocArXiv, (2025).
 
-**[R2]**: Yun, Jeongwon & Yang, Seungju & Kwon, Jea Hyuk & **Vecchietti, Luiz Felipe** et al. "Enhancing the protein fitness of interferon-lambda through computational design and glyco-engineering for prophylactic nasal drugs against respiratory viruses." bioRXiv, (2025).
+**[R2]**: **Vecchietti, Luiz Felipe** et al. "Recent advances in interpretable machine learning using structure-based protein representations." arXiv, (2024).
 
-**[R3]**: **Vecchietti, Luiz Felipe** et al. "Recent advances in interpretable machine learning using structure-based protein representations." arXiv, (2024).
-
-**[R4]**: Lee, Sangkeum & Jin, Hojun & **Vecchietti, Luiz Felipe** et al. "Power Management of Nanogrid Cluster with P2P Electricity Trading Based on Future Trends of Load Demand and PV Power Production." arXiv preprint arXiv:2009.00863 (2020).
+**[R3]**: Lee, Sangkeum & Jin, Hojun & **Vecchietti, Luiz Felipe** et al. "Power Management of Nanogrid Cluster with P2P Electricity Trading Based on Future Trends of Load Demand and PV Power Production." arXiv preprint arXiv:2009.00863 (2020).
 
 ### Academic Services  
 
@@ -140,38 +148,41 @@ My personal interests include traveling, sports (football, kickboxing, skate, sn
 
 **Journals**: IEEE Transactions on Cybernetics, IEEE Transactions on Games, IEEE Sensors, Frontiers in Robotics and AI  
 
-**Conferences**: AAAI ICWSM 2022, NeurIPS 2024, ACM WSDM 2025, ICLR 2025, AISTATS 2025, ICML 2025, NeurIPS 2025  
+**Conferences**: AAAI ICWSM 2022, NeurIPS 2024, ACM WSDM 2025, ICLR 2025, AISTATS 2025, ICML 2025, NeurIPS 2025, AAAI 2026, ICLR 2026  
 
-**Workshops**: ICML LatinX 021, ICLR Reincarnating RL 2023, NeurIPS MLSB 2023, ICML ML4LMS 2024, NeurIPS MLSB 2024  
+**Workshops**: ICML LatinX 021, ICLR Reincarnating RL 2023, NeurIPS MLSB 2023, ICML ML4LMS 2024, NeurIPS MLSB 2024, NeurIPS MLSB 2025  
 
 ### Invited Talks  
 
-**[I1]: LLMs outside Natural Language Processing Applications**  
+**[I1]: From self-organized networks to deep reinforcement learning: perspectives on AI research**  
+Center for Neuroscience-inspired AI, KAIST, South Korea, October 2025.  
+
+**[I2]: LLMs outside Natural Language Processing Applications**  
 Ruhr University Bochum (RUB), Germany, July 2025.  
 
-**[I2]: Integrating Data Science and AI methods in multidisciplinary research to make discoveries with social impact**  
+**[I3]: Integrating Data Science and AI methods in multidisciplinary research to make discoveries with social impact**  
 WebImmunization Seminar, University of Oslo, Norway, December 2024.  
 
-**[I3]: Robust Optimization in Protein Fitness Landscapes Using Reinforcement Learning in Latent Space**  
+**[I4]: Robust Optimization in Protein Fitness Landscapes Using Reinforcement Learning in Latent Space**  
 Cradle Bio, Zurich, Switzerland, November 2024.  
 
-**[I4]: Developing and applying deep learning methods for protein design**  
+**[I5]: Developing and applying deep learning methods for protein design**  
 Graduate School of AI, Gwangju Institute of Science and Technology (GIST), Gwangju, South Korea, July 2023.  
 
-**[I5]: Developing and applying deep learning methods to facilitate new scientific discoveries**  
+**[I6]: Developing and applying deep learning methods to facilitate new scientific discoveries**  
 Max Planck Institute for Security and Privacy (MPI-SP), Bochum, Germany, May 2023.  
 
-**[I6]: Target-conditioned Protein and Antibody Design for Drug Discovery**  
+**[I7]: Target-conditioned Protein and Antibody Design for Drug Discovery**  
 IBS Winter School on AI-Boosted Basic Science, Institute for Basic Science, Daejeon, South Korea, Dec 2022.  
 *Co-delivered with Prof. Ho Min Kim (KAIST)*
 
-**[I7]: Identifying the key actions that lead an agent to accomplish a task in model-based reinforcement learning**  
+**[I8]: Identifying the key actions that lead an agent to accomplish a task in model-based reinforcement learning**  
 School of AI Convergence, Chonnam National University, Gwangju, South Korea, Nov 2021.
 
-**[I8]: Performance enhancement in multigoal model-based deep reinforcement learning**  
+**[I9]: Performance enhancement in multigoal model-based deep reinforcement learning**  
 Cho Chun Shik Graduate School of Mobility, KAIST, Daejeon, South Korea, Oct 2021.
 
-**[I9]: Identifying the key actions that lead an agent to accomplish a task in model-based reinforcement learning**  
+**[I10]: Identifying the key actions that lead an agent to accomplish a task in model-based reinforcement learning**  
 Data Science Group, Institute for Basic Science, Daejeon, South Korea, Apr 2021.
 
 ### Mentored Students  
@@ -188,7 +199,7 @@ MsC Candidate at KAIST
 *Published a first-author paper in mABS.*
 
 - **Begench Hangeldiyev**, 2022-Now  
-Chemical Engineering / CS Undergraduate at KAIST    
+MsC Candidate at KAIST  
 **Topic:** Antibody Sequence Design with Graph-Based Methods  
 *Published his first paper on antibody design with deep learning at KSC 2023.*  
 

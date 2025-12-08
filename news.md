@@ -3,7 +3,8 @@ layout: page
 title: News
 subtitle: 
 ---
-
+* **[2025-11]** Our work *"Dropouts in Confidence: Moral Uncertainty in Human-LLM Alignment"* has been accept as a poster in the AAAI 2025 AI Alignment track.
+* **[2025-11]** Our work *"Computational Design and Glycoengineering of Interferon-Lambda for Nasal Prophylaxis against Respiratory Viruses"* has been accept for publication in Advanced Science.
 * **[2025-07]** Our work *"Artificial intelligence-driven computational methods for antibody design and optimization"* has been accept for publication in mAbs.
 * **[2025-07]** Attended and helped organizing the "MPI-SP Symposium on Challenges in a Digitalised Society" in Bochum, Germany.
 * **[2025-07]** I presented the lecture "LLMs outside NLP Application" at Ruhr University Bochum, Germany.
