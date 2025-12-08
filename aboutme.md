@@ -11,11 +11,11 @@ subtitle:
 
 I am currently a **Postdoctoral Researcher** at the **Max Planck Institute for Security and Privacy (MPI-SP), Bochum, Germany**.  
 
-My research aims to develop flexible **artificial intelligence** algorithms that can be applied with different data modalities in multi-agent scenarios. These inclu3e novel **reinforcement learning** (RL) algorithms, **graph neural networks** (GNNs), and **diffusion-based** models. My general interests include artificial intelligence, deep reinforcement learning, robotics, and applied deep learning. From these, I am particularly interested in:
+My research aims to develop flexible **artificial intelligence** algorithms that can be applied with different data modalities in multi-agent scenarios. These include novel **reinforcement learning** (RL) algorithms, **graph neural networks** (GNNs), and **diffusion-based** models. My general interests include artificial intelligence, deep reinforcement learning, robotics, and applied deep learning. From these, I am particularly interested in:
 
 - **Multi-Agent Systems**: development of multi-agent RL algorithms in collaborative and collaborative-competitive environments, modeling of multi-agent RL in a continual learning setting. 
 - **Deep Reinforcement Learning**: improving sampling efficiency and performance by developing new credit assignment and exploration methods, goal-conditioned RL, graph structure refinement via RL. 
-- **Large Language Models applied to Robotics**: investigation of the potential and risks of LLMs and foundation models for robotics.
+- **Foundation Models applied to Robotics**: investigation of the potential and risks of LLMs and foundation models for robotics.
 - **Graph Neural Networks**: development of novel algorithms to be applied to target-conditioned generation, applying GNNs to error prediction.
 - **Diffusion Models**: application of diffusion-based models for 3D structure generation, development of diffusion-based and flow matching-based algorithms for 3D structure prediction. 
 
@@ -32,7 +32,7 @@ My personal interests include traveling, sports (football, kickboxing, skate, sn
 
 * Multi-Agent Systems *(Collaborative, Collaborative-Competitive, Credit Assignment)*
 * Deep Reinforcement Learning *(Credit Assignment, Exploration, Multi-agent Systems, Goal-conditioned RL)*
-* Large Language Models applied for Robotics *(Robotics Foundation Models, End-to-End Control, Jailbreaking)*
+* Foundation Models applied for Robotics *(Robotics Foundation Models, End-to-End Control, Jailbreaking)*
 * Graph Neural Networks *(Generative Models, Equivariance, Graph Structure Optimization)*
 * Generative AI for Basic Science *(Protein and Antibody Design, Drug Discovery, Climate Change)*  
 
