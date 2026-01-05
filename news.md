@@ -3,6 +3,7 @@ layout: page
 title: News
 subtitle: 
 ---
+* **[2025-12]** Our work *"Longitudinal Identification of Critical Factors in Nurse Turnover for Supporting Workforce Well-Being"* has been accept for oral presentation at HCI Korea 2026.
 * **[2025-11]** Our work *"Dropouts in Confidence: Moral Uncertainty in Human-LLM Alignment"* has been accept as a poster in the AAAI 2025 AI Alignment track.
 * **[2025-11]** Our work *"Computational Design and Glycoengineering of Interferon-Lambda for Nasal Prophylaxis against Respiratory Viruses"* has been accept for publication in Advanced Science.
 * **[2025-10]** I presented the lecture "From self-organized networks to deep reinforcement learning: perspectives on AI research" at the Center for Neuroscience-inpired AI, KAIST, South Korea.
