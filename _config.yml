@@ -40,13 +40,13 @@ avatar: "/img/site-image-2.png"
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#1A1A2E"
+navbar-col: "#1D3557"
 navbar-text-col: "#E8E8E8"
-navbar-children-col: "#252545"
+navbar-children-col: "#253E6B"
 page-col: "#FAFAF8"
 link-col: "#2563EB"
 hover-col: "#1D4ED8"
-footer-col: "#1A1A2E"
+footer-col: "#1D3557"
 footer-text-col: "#C8C8D8"
 footer-link-col: "#93C5FD"
 
@@ -257,6 +257,7 @@ scholar:
   order: descending
   source: ./_bibliography
   bibliography: references.bib
+  bibliography_template: bib
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
