@@ -1,4 +1,3 @@
 ---
 ---
-{{ reference }}
-{% if entry.url %}<a href="{{ entry.url }}" class="btn-paper" target="_blank" rel="noopener">paper</a>{% endif %}
+{{ reference }}{% if entry.paperurl %} <a href="{{ entry.paperurl }}" class="btn-paper" target="_blank" rel="noopener">paper</a>{% endif %}{% if entry.codeurl %} <a href="{{ entry.codeurl }}" class="btn-code" target="_blank" rel="noopener">code</a>{% endif %}
