@@ -1,0 +1,33 @@
+# News items — add new entries at the TOP of this list.
+# The about page shows the 10 most recent (first 10 entries here).
+# Format: date (YYYY-MM), text (Markdown supported).
+
+- date: "2025-12"
+  text: "Our work *\"Longitudinal Identification of Critical Factors in Nurse Turnover for Supporting Workforce Well-Being\"* has been accepted for oral presentation at HCI Korea 2026."
+
+- date: "2025-11"
+  text: "Our work *\"Dropouts in Confidence: Moral Uncertainty in Human-LLM Alignment\"* has been accepted as a poster at the AAAI 2025 AI Alignment track."
+
+- date: "2025-11"
+  text: "Our work *\"Computational Design and Glycoengineering of Interferon-Lambda for Nasal Prophylaxis against Respiratory Viruses\"* has been accepted for publication in Advanced Science."
+
+- date: "2025-10"
+  text: "I presented the lecture *\"From self-organized networks to deep reinforcement learning: perspectives on AI research\"* at the Center for Neuroscience-inspired AI, KAIST, South Korea."
+
+- date: "2025-07"
+  text: "Our work *\"Artificial intelligence-driven computational methods for antibody design and optimization\"* has been accepted for publication in mAbs."
+
+- date: "2025-07"
+  text: "Attended and helped organizing the *MPI-SP Symposium on Challenges in a Digitalised Society* in Bochum, Germany."
+
+- date: "2025-07"
+  text: "I presented the lecture *\"LLMs outside NLP Applications\"* at Ruhr University Bochum, Germany."
+
+- date: "2025-06"
+  text: "Our preprint *\"Predicting Individual Life Trajectories: Addressing Uncertainty in Social Employment Transitions\"* is now in SocArXiv."
+
+- date: "2025-04"
+  text: "Attended SaTML 2025 in Copenhagen, Denmark."
+
+- date: "2025-03"
+  text: "Our work *\"Overabundance of abelisaurid teeth in the Açu Formation (Albian-Cenomanian), Potiguar Basin, Northeastern Brazil: morphometric, cladistic and machine learning approaches\"* has been accepted for publication in the Journal of Vertebrate Paleontology."

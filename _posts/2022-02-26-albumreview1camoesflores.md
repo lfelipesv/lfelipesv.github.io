@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Álbum review 1 - Camões - Flôres  
+title: Álbum review 1 - Camões - Flôres
+published: false
 ---
 
 Iniciando um projeto que parecia que nunca iria sair do papel. Nessa série farei reviews de álbums que me trazem algum sentimento, alguma coisa diferente que me faz querer sentar, escrever, dividir... Nesse primeiro review, vou interiorizar o álbum Flôres de 2018 do artista brasileiro Camões.

@@ -1,0 +1,315 @@
+/* =======================================================================
+   custom.css  —  Personal website redesign
+   Loads after main.css; rules here take precedence via cascade.
+   ======================================================================= */
+
+/* -----------------------------------------------------------------------
+   GLOBAL
+   ----------------------------------------------------------------------- */
+
+body {
+  font-size: 16px;
+}
+
+/* -----------------------------------------------------------------------
+   NAVBAR  — override Beautiful Jekyll defaults (uppercase, small text)
+   ----------------------------------------------------------------------- */
+
+.navbar-custom {
+  border-bottom: none;
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.25);
+}
+
+/* Remove uppercase + letter-spacing from main.css lines 120-124 */
+.navbar-custom .nav li a {
+  text-transform: none;
+  font-size: 0.95rem;
+  letter-spacing: 0;
+}
+
+/* On dark navy bg the main.css hover-col (#1D4ED8) is invisible — override */
+.navbar-custom .navbar-brand:hover,
+.navbar-custom .navbar-brand:focus,
+.navbar-custom .nav li a:hover,
+.navbar-custom .nav li a:focus {
+  color: #93C5FD !important;
+}
+
+/* Hide the circular avatar in the navbar — shown as large sidebar photo instead */
+.navbar-custom .avatar-container {
+  display: none !important;
+}
+
+/* -----------------------------------------------------------------------
+   PAGE HEADER BANNER  (intro-header used by page.html layout)
+   ----------------------------------------------------------------------- */
+
+.intro-header.no-img {
+  background-color: #1A1A2E;
+  padding: 30px 0 25px;
+  margin-bottom: 30px;
+}
+
+.intro-header .page-heading h1,
+.intro-header .post-heading h1 {
+  color: #ffffff;
+  font-size: 2rem;
+}
+
+.intro-header .page-heading .page-subheading,
+.intro-header .post-heading .post-subheading {
+  color: #93C5FD;
+}
+
+.intro-header .post-heading .post-meta {
+  color: #C8C8D8;
+}
+
+.intro-header hr.small {
+  border-color: rgba(147, 197, 253, 0.4);
+}
+
+/* Remove default top margin (clearance handled by .main-content padding) */
+.intro-header {
+  margin-top: 0;
+}
+
+/* -----------------------------------------------------------------------
+   CONTENT AREA — h2/h3 section headings
+   ----------------------------------------------------------------------- */
+
+/* Left-border accent on all h2 inside the main content area */
+.container[role="main"] h2 {
+  font-size: 1.05rem;
+  font-weight: 700;
+  text-transform: none;
+  color: #1A1A2E;
+  border-left: 4px solid #2563EB;
+  padding-left: 0.75rem;
+  margin-top: 2rem;
+  margin-bottom: 0.8rem;
+  letter-spacing: 0;
+}
+
+/* Post subtitle h2 in header should not get the left border */
+.intro-header h2 {
+  border-left: none;
+  padding-left: 0;
+  color: inherit;
+}
+
+/* -----------------------------------------------------------------------
+   FOOTER  — dark navy to match navbar (bookend effect)
+   ----------------------------------------------------------------------- */
+
+footer {
+  border-top: none;
+}
+
+/* -----------------------------------------------------------------------
+   TWO-COLUMN ABOUT PAGE
+   ----------------------------------------------------------------------- */
+
+.about-grid {
+  display: flex;
+  gap: 2.75rem;
+  align-items: flex-start;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+
+.about-sidebar {
+  flex: 0 0 230px;
+  text-align: center;
+  position: sticky;
+  top: 90px;  /* clears the fixed navbar */
+}
+
+.about-photo {
+  width: 100%;
+  border-radius: 8px;
+  box-shadow: 0 4px 18px rgba(0, 0, 0, 0.14);
+  display: block;
+  margin-bottom: 1rem;
+}
+
+.about-name {
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 1rem;
+  font-weight: 800;
+  margin: 0 0 0.3rem;
+  color: #1A1A2E;
+}
+
+.about-position {
+  font-size: 0.8rem;
+  color: #555;
+  line-height: 1.5;
+  margin: 0;
+}
+
+.social-strip {
+  margin-top: 1.1rem;
+  display: flex;
+  justify-content: center;
+  gap: 0.65rem;
+  flex-wrap: wrap;
+}
+
+.social-strip a {
+  font-size: 1.3rem;
+  color: #444;
+  transition: color 0.15s;
+  text-decoration: none;
+}
+
+.social-strip a:hover {
+  color: #2563EB;
+  text-decoration: none;
+}
+
+/* About main content column */
+.about-main {
+  flex: 1;
+  min-width: 0;
+}
+
+.about-main h2 {
+  font-size: 0.9rem;
+  font-weight: 700;
+  text-transform: lowercase;
+  color: #1A1A2E;
+  border-left: 4px solid #2563EB;
+  padding-left: 0.75rem;
+  margin-top: 1.75rem;
+  margin-bottom: 0.55rem;
+  letter-spacing: 0.03em;
+}
+
+.about-main p {
+  font-size: 0.92rem;
+  line-height: 1.72;
+  margin: 0.55rem 0;
+}
+
+.about-main ul {
+  padding-left: 1.2rem;
+  margin: 0.4rem 0 0.75rem;
+}
+
+.about-main li {
+  font-size: 0.92rem;
+  line-height: 1.68;
+  margin-bottom: 0.3rem;
+}
+
+/* News list */
+.news-list {
+  list-style: none;
+  padding: 0;
+  margin: 0.5rem 0 0;
+}
+
+.news-list li {
+  padding: 0.5rem 0;
+  border-bottom: 1px solid #eee;
+  font-size: 0.88rem;
+  line-height: 1.55;
+}
+
+.news-list li:last-child {
+  border-bottom: none;
+}
+
+.news-date {
+  font-weight: 700;
+  color: #2563EB;
+  margin-right: 0.35rem;
+  font-family: 'Open Sans', sans-serif;
+}
+
+/* Selected publications list (about page) */
+.pub-list {
+  list-style: none;
+  padding: 0;
+  margin: 0.5rem 0 0;
+}
+
+.pub-list li {
+  padding: 0.55rem 0;
+  border-bottom: 1px solid #eee;
+  font-size: 0.88rem;
+  line-height: 1.58;
+  counter-increment: pub-counter;
+}
+
+.pub-list li::before {
+  content: "[" counter(pub-counter) "] ";
+  font-weight: 700;
+  color: #2563EB;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.pub-list {
+  counter-reset: pub-counter;
+}
+
+.pub-list li:last-child {
+  border-bottom: none;
+}
+
+/* Responsive: stack sidebar below on small screens */
+@media (max-width: 767px) {
+  .about-grid {
+    flex-direction: column;
+    gap: 1.25rem;
+    padding-top: 1.25rem;
+  }
+
+  .about-sidebar {
+    flex: none;
+    width: 100%;
+    max-width: 200px;
+    margin: 0 auto;
+    position: static;
+  }
+}
+
+/* -----------------------------------------------------------------------
+   CV PAGE
+   ----------------------------------------------------------------------- */
+
+.cv-section {
+  margin-bottom: 1.5rem;
+}
+
+/* jekyll-scholar renders <ol class="bibliography"> */
+.bibliography {
+  padding-left: 0;
+}
+
+.bibliography li {
+  list-style: none;
+  padding: 0.5rem 0;
+  border-bottom: 1px solid #eee;
+  font-size: 0.88rem;
+  line-height: 1.58;
+}
+
+.bibliography li:last-child {
+  border-bottom: none;
+}
+
+/* -----------------------------------------------------------------------
+   BLOG PAGE
+   ----------------------------------------------------------------------- */
+
+.post-preview .post-title {
+  font-size: 1.5rem;
+}
+
+@media only screen and (min-width: 768px) {
+  .post-preview .post-title {
+    font-size: 1.8rem;
+  }
+}

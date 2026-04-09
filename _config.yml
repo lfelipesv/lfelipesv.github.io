@@ -23,26 +23,10 @@ description:
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
-  Blog: "https://lfelipesv.github.io"
-  # My Resources:
-  #   - Data Analysis Insights: "https://lfelipesv.github.io/felipeinsights/"
-  #   - Football Tactical Analysis: "tacticalanalysis"
-    # - Natural Language Processing: "nlp"
-    # - Reinforcement Learning: "reinforcementlearning"
-    # - Speech Synthesis: "speechsynthesis"
-    # - Computer Architecture Series: "computerarchitecture"
-    # - Deep Learning: "deeplearning"
-  Projects:
-    # - Sertanejator: "http://www.sertanejator.com.br/"
-    - AI World Cup: "http://github.com/aiwc/test_world"
-    - AI Soccer: "https://github.com/aisoccer/aisoccer-3d/releases"
-    - EBS ESOF: "https://www.ebssw.kr/coding/aiSoccerView.do"
-    # - Daejeon FC Brasil: "https://twitter.com/DaejeonFCBR"
-    # - Libertadores da K League Podcast: "https://open.spotify.com/show/1iq6f7KRUHPQCyKLiCIYs4"
-  Nomad: "nomad"
-  News: "news"
-  # Useful Links: "usefullinks"
+  about me: "aboutme"
+  blog: "blog"
+  cv: "cv"
+  nomad: "nomad"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -56,15 +40,15 @@ avatar: "/img/site-image-2.png"
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#F5F5F5"
-navbar-text-col: "#404040"
-navbar-children-col: "#F5F5F5"
-page-col: "#FFFFFF"
-link-col: "#008AFF"
-hover-col: "#0085A1"
-footer-col: "#F5F5F5"
-footer-text-col: "#777777"
-footer-link-col: "#404040"
+navbar-col: "#1A1A2E"
+navbar-text-col: "#E8E8E8"
+navbar-children-col: "#252545"
+page-col: "#FAFAF8"
+link-col: "#2563EB"
+hover-col: "#1D4ED8"
+footer-col: "#1A1A2E"
+footer-text-col: "#C8C8D8"
+footer-link-col: "#93C5FD"
 
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
@@ -85,14 +69,10 @@ author:
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-#  rss: true
   email: "lfelipesv@gmail.com"
-#  facebook: daattali
   github: lfelipesv
-#  twitter: daattali
-#  reddit: yourname
-#  google-plus: +DeanAttali
   linkedin: luiz-felipe-vecchietti-807b0114
+  scholar: xPV0ONYAAAAJ
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78

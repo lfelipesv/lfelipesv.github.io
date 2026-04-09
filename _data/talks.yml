@@ -1,0 +1,54 @@
+# Invited talks — add new entries at the TOP of this list.
+# The about page shows all entries.
+# Format: key, title, venue, date, note (optional).
+
+- key: "I1"
+  title: "From self-organized networks to deep reinforcement learning: perspectives on AI research"
+  venue: "Center for Neuroscience-inspired AI, KAIST, South Korea"
+  date: "October 2025"
+
+- key: "I2"
+  title: "LLMs outside Natural Language Processing Applications"
+  venue: "Ruhr University Bochum (RUB), Germany"
+  date: "July 2025"
+
+- key: "I3"
+  title: "Integrating Data Science and AI methods in multidisciplinary research to make discoveries with social impact"
+  venue: "WebImmunization Seminar, University of Oslo, Norway"
+  date: "December 2024"
+
+- key: "I4"
+  title: "Robust Optimization in Protein Fitness Landscapes Using Reinforcement Learning in Latent Space"
+  venue: "Cradle Bio, Zurich, Switzerland"
+  date: "November 2024"
+
+- key: "I5"
+  title: "Developing and applying deep learning methods for protein design"
+  venue: "Graduate School of AI, Gwangju Institute of Science and Technology (GIST), Gwangju, South Korea"
+  date: "July 2023"
+
+- key: "I6"
+  title: "Developing and applying deep learning methods to facilitate new scientific discoveries"
+  venue: "Max Planck Institute for Security and Privacy (MPI-SP), Bochum, Germany"
+  date: "May 2023"
+
+- key: "I7"
+  title: "Target-conditioned Protein and Antibody Design for Drug Discovery"
+  venue: "IBS Winter School on AI-Boosted Basic Science, Institute for Basic Science, Daejeon, South Korea"
+  date: "December 2022"
+  note: "Co-delivered with Prof. Ho Min Kim (KAIST)"
+
+- key: "I8"
+  title: "Identifying the key actions that lead an agent to accomplish a task in model-based reinforcement learning"
+  venue: "School of AI Convergence, Chonnam National University, Gwangju, South Korea"
+  date: "November 2021"
+
+- key: "I9"
+  title: "Performance enhancement in multigoal model-based deep reinforcement learning"
+  venue: "Cho Chun Shik Graduate School of Mobility, KAIST, Daejeon, South Korea"
+  date: "October 2021"
+
+- key: "I10"
+  title: "Identifying the key actions that lead an agent to accomplish a task in model-based reinforcement learning"
+  venue: "Data Science Group, Institute for Basic Science, Daejeon, South Korea"
+  date: "April 2021"
