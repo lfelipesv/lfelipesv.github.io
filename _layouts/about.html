@@ -4,7 +4,10 @@ layout: base
 <div class="main-content">
   <div class="container" role="main">
     <div class="about-grid">
-      {{ content }}
+      {% include about-sidebar.html %}
+      <div class="about-main">
+        {{ content }}
+      </div>
     </div>
   </div>
 </div>
