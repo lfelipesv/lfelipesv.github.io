@@ -4,8 +4,6 @@ title: Nomad
 subtitle: 
 ---
 
-#### Nomad
-
 In this page, my plan is to share some pictures I took while traveling and were lost in my external hard drive. 
 
 They contain beautiful sceneries and bring me good memories and thoughts that I want to share with each picture.
@@ -549,6 +547,16 @@ But lose the feeling"
 "Ehi, ho bisogno almeno di un motivo che mi faccia stare bene  
 Sono stufo dei drammi in tele, delle lamentele, delle star in depre"  
 (Ti fa stare bene - Caparezza)  
+
+### Barcelona - Spain
+
+![Barcelona](/img/nomad/barcelona-2026.jpg)
+
+"Drão  
+O amor da gente é como um grão  
+Uma semente de ilusão  
+Tem que morrer pra germinar"  
+(Drão - Gilberto Gil)  
 
 ### Formiga - Minas Gerais - Brazil
 
