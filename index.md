@@ -3,7 +3,7 @@ layout: about
 title: Luiz Felipe Vecchietti
 ---
 
-I am currently a **Postdoctoral Researcher** at the **Max Planck Institute for Security and Privacy (MPI-SP), Germany** with Director [Meeyoung Cha](https://scholar.google.com/citations?user=iFlnVCoAAAAJ&hl=en). Previously, I was a Postdoctoral Researcher at the Institute for Basic Science, South Korea. I received my Bachelor's and Master's degrees at the Federal University of Rio de Janeiro.
+I am currently a **Postdoctoral Researcher** at the **Max Planck Institute for Security and Privacy (MPI-SP), Germany** with Director [Meeyoung Cha](https://scholar.google.com/citations?user=iFlnVCoAAAAJ&hl=en). Previously, I was a Postdoctoral Researcher at the Institute for Basic Science, South Korea. I received my PhD from KAIST and my Bachelor's and Master's degrees from the Federal University of Rio de Janeiro.
 
 ## Research Interests
 
