@@ -1,3 +1,13 @@
 ---
 ---
-{{ reference }}{% if entry.paperurl %} <a href="{{ entry.paperurl }}" class="btn-paper" target="_blank" rel="noopener">paper</a>{% endif %}{% if entry.codeurl %} <a href="{{ entry.codeurl }}" class="btn-code" target="_blank" rel="noopener">code</a>{% endif %}
+<div class="pub-entry">
+  <div class="pub-title">{{ entry.title }}</div>
+  <div class="pub-authors">{{ entry.author | replace: "Vecchietti, Luiz Felipe", "<strong>Vecchietti, Luiz Felipe</strong>" | replace: " and others", " et al." | replace: " and ", ", " }}</div>
+  <div class="pub-venue">
+    {%- if entry.journal -%}{{ entry.journal }}{%- elsif entry.booktitle -%}{{ entry.booktitle }}{%- elsif entry.howpublished -%}{{ entry.howpublished }}{%- endif -%}{% if entry.year %}, {{ entry.year }}{% endif %}{% if entry.note %} <span class="pub-note">— {{ entry.note }}</span>{% endif %}
+  </div>
+  <div class="pub-links">
+    {%- if entry.paperurl -%}<a href="{{ entry.paperurl }}" class="btn-paper" target="_blank" rel="noopener">paper</a>{%- endif -%}
+    {%- if entry.codeurl -%}&nbsp;<a href="{{ entry.codeurl }}" class="btn-code" target="_blank" rel="noopener">code</a>{%- endif -%}
+  </div>
+</div>

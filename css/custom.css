@@ -178,6 +178,41 @@ body {
   border-bottom: none;
 }
 
+/* Publication entry — structured multi-line format */
+.pub-entry {
+  line-height: 1.5;
+}
+
+.pub-title {
+  font-size: 1rem;
+  font-weight: 700;
+  color: #111111;
+  margin-bottom: 0.18rem;
+}
+
+.pub-authors {
+  font-size: 0.95rem;
+  color: #444444;
+  margin-bottom: 0.1rem;
+}
+
+.pub-venue {
+  font-size: 0.9rem;
+  color: #666666;
+  font-style: italic;
+  margin-bottom: 0.3rem;
+}
+
+.pub-note {
+  font-style: normal;
+  font-weight: 600;
+  color: #1A7F64;
+}
+
+.pub-links {
+  margin-top: 0.25rem;
+}
+
 /* paper button */
 .btn-paper {
   display: inline-block;
@@ -351,7 +386,6 @@ footer {
   font-weight: 700;
   color: #1A7F64;
   margin-right: 0.35rem;
-  font-family: 'Open Sans', sans-serif;
 }
 
 /* Talks list */
