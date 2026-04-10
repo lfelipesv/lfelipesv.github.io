@@ -51,8 +51,6 @@ Eco Vehicle Control System Development Team
 
 ## Publications
 
-*The <sup>†</sup> symbol denotes a mentored student.*
-
 ### International Conferences
 
 {% bibliography --query @inproceedings[venue_type=conference] %}
