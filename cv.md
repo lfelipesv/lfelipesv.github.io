@@ -21,32 +21,32 @@ I am currently a **Postdoctoral Researcher** at the **Max Planck Institute for S
 
 ## Positions
 
-**2024.11–Present** — *Max Planck Institute for Security and Privacy (MPI-SP), Germany*
+**2024.11–Present** — *Max Planck Institute for Security and Privacy (MPI-SP), Germany*  
 Postdoctoral Researcher. Advisor: [Meeyoung Cha](https://scholar.google.com/citations?user=iFlnVCoAAAAJ&hl=en)
 
-**2021.10–2024.9** — *Data Science Group, Institute for Basic Science (IBS), South Korea*
+**2021.10–2024.9** — *Data Science Group, Institute for Basic Science (IBS), South Korea*  
 Senior Researcher. Advisor: [Meeyoung Cha](https://scholar.google.com/citations?user=iFlnVCoAAAAJ&hl=en)
 
-**2021.3–2021.9** — *Mechanical Engineering Research Institute, KAIST, South Korea*
+**2021.3–2021.9** — *Mechanical Engineering Research Institute, KAIST, South Korea*  
 Postdoctoral Researcher. Advisor: Dongsoo Har
 
 ## Education
 
-**2017–2021** — *Korea Advanced Institute of Science and Technology (KAIST)*
-PhD in Green Transportation. Thesis: *Performance Enhancement in Multigoal Reinforcement Learning using Hindsight Experience Replay*. Advisor: Dongsoo Har
+**2017–2021** — *Korea Advanced Institute of Science and Technology (KAIST)*  
+PhD in Green Transportation. Thesis: *Performance Enhancement in Multigoal Reinforcement Learning using Hindsight Experience Replay*  Advisor: Dongsoo Har
 
-**2015–2017** — *Federal University of Rio de Janeiro (UFRJ)*
-Master's Degree in Electrical Engineering. Dissertation: *Comparison between rule-based and data-driven NLP algorithms for Brazilian Portuguese speech synthesis*. Advisor: [Fernando Gil Vianna Resende Junior](http://pee.ufrj.br/prof/?ID=gil)
+**2015–2017** — *Federal University of Rio de Janeiro (UFRJ)*  
+Master's Degree in Electrical Engineering. Dissertation: *Comparison between rule-based and data-driven NLP algorithms for Brazilian Portuguese speech synthesis*  Advisor: [Fernando Gil Vianna Resende Junior](http://pee.ufrj.br/prof/?ID=gil)
 
-**2013** — *Korea Advanced Institute of Science and Technology (KAIST)*
+**2013** — *Korea Advanced Institute of Science and Technology (KAIST)*  
 Exchange Student, Electrical Engineering Department
 
-**2009–2015** — *Federal University of Rio de Janeiro (UFRJ)*
+**2009–2015** — *Federal University of Rio de Janeiro (UFRJ)*  
 Bachelor's Degree in Electronic and Computer Engineering
 
 ## Internships
 
-**Summer 2013** — *Hyundai Motor Company, Namyang R&D Center*
+**Summer 2013** — *Hyundai Motor Company, Namyang R&D Center*  
 Eco Vehicle Control System Development Team
 
 ## Publications
@@ -93,55 +93,55 @@ I am very thankful for the support and trust given from my advisors throughout m
 
 ### Current
 
-**Bryan Nathanael Wijaya** (2023–present) — PhD Candidate, MPI-SP.
+**Bryan Nathanael Wijaya** (2023–present) — PhD Candidate, MPI-SP.  
 Topic: Applied AI for Longitudinal Data, Generative AI, AI for Science. *Published a first-author paper in mAbs.*
 
-**Begench Hangeldiyev** (2022–present) — MsC Candidate, KAIST.
+**Begench Hangeldiyev** (2022–present) — MSc Candidate, KAIST.  
 Topic: Antibody Sequence Design with Graph-Based Methods. *Published first paper on antibody design at KSC 2023.*
 
-**Niklas Koeppe** (2025–present) — PhD Candidate, KAIST.
+**Niklas Koeppe** (2025–present) — PhD Candidate, KAIST.  
 Topic: Continual Learning. *Submitted first author paper to ICML 2026.*
 
 ### Alumni
 
-**Jiseon Kim** (2024–2025) — PhD Candidate, KAIST. Topic: Human-AI Alignment.
-*Published first-author paper at ACL Findings.*
+**Jiseon Kim** (2024–2025) — PhD Candidate, KAIST.   
+Topic: Human-AI Alignment. *Published first-author paper at ACL Findings.*
 
-**Hyunkyu Jung** (2021–2025, now PhD Candidate at KAIST) — PhD Candidate, KAIST.
-Topic: Protein-Protein Interactions using Equivariant Point Cloud Transformers.
+**Hyunkyu Jung** (2021–2025, now PhD Candidate at KAIST) — PhD Candidate, KAIST.  
+Topic: Protein-Protein Interactions using Equivariant Point Cloud Transformers. *Co-authored two journals and one ICML paper.*
 
-**Anar Rzayev** (2022–2025, now Intern at ISTA) — CS Undergraduate, KAIST.
-Topic: Antibody Structure Representation Learning.
+**Anar Rzayev** (2022–2025, now Intern at ISTA) — CS Undergraduate, KAIST.  
+Topic: Antibody Structure Representation Learning. *Co-authored two domestic conferences papers.*
 
-**Sangmin Lee** (2023) — CS Undergraduate, KAIST.
+**Sangmin Lee** (2023) — CS Undergraduate, KAIST.  
 Topic: AI-based methods for thermostable protein design.
 
-**Maxim Krassimirov Mintchev** (2022, now Research Associate at TU Berlin) — ME Master's Candidate, KIT/KAIST (Double Degree).
+**Maxim Krassimirov Mintchev** (2022, now Research Associate at TU Berlin) — ME MSc Candidate, KIT/KAIST (Double Degree).
 Topic: Recommendation Systems for Logistics. *Successfully defended master's thesis.*
 
-**Minji Lee** (2022, now PhD Candidate at Columbia University) — CS Undergraduate, KAIST.
+**Minji Lee** (2022, now PhD Candidate at Columbia University) — CS Undergraduate, KAIST.  
 Topic: Protein Optimization using Deep RL. *First-author paper at ICML 2024 (Spotlight). Papers at KCC and NeurIPS MLSB Workshop 2022.*
 
-**Lucas Santiago Peixoto** (2022) — Computer Engineering Undergraduate, UFRJ.
+**Lucas Santiago Peixoto** (2022) — Computer Engineering Undergraduate, UFRJ.  
 Topic: Sentence-level Text Analysis using Transformers. *Successfully defended undergraduate thesis.*
 
-**Matheus Tymburiba Elian** (2021–2022, now Faculty at UFMG) — Industrial Design PhD Candidate, University of Tsukuba.
+**Matheus Tymburiba Elian** (2021–2022, now Faculty at UFMG) — Industrial Design PhD Candidate, University of Tsukuba.  
 Topic: Gender-Ambiguous Voice Agents. *Published first-author paper in Estudos em Design 2025.*
 
-**Kien Hoang** (2021–2022, now MsC Candidate at EPFL) — Mathematics Undergraduate, KAIST.
+**Kien Hoang** (2021–2022, now MsC Candidate at EPFL) — Mathematics Undergraduate, KAIST.  
 Topic: Graph structure optimization with Deep RL.
 
-**Sumit Mishra** (2020–2022, now PhD Candidate at KAIST) — Robotics Master's Candidate, KAIST.
+**Sumit Mishra** (2020–2022, now PhD Candidate at KAIST) — Robotics MSc Candidate, KAIST.  
 Topic: Intelligent Transportation Systems. *First-author paper in IEEE Transactions on ITS.*
 
-**Praveen Kumar Rajendran** (2020–2022, now CV Engineer at Neubility) — Future Vehicle Master's Candidate, KAIST.
+**Praveen Kumar Rajendran** (2020–2022, now CV Engineer at Neubility) — Future Vehicle MSc Candidate, KAIST.  
 Topic: Camera Pose Estimation. *First-author paper at ECCV IWDSC Workshop 2022.*
 
-**Taeyoung Kim** (2019–2021, now PhD Candidate at KAIST) — Green Transportation Master's Candidate, KAIST.
+**Taeyoung Kim** (2019–2021, now PhD Candidate at KAIST) — Green Transportation MSc Candidate, KAIST.  
 Topic: Deep RL, Cooperative-Competitive Multi-agent Systems. *First-author review paper in IEEE Sensors Journal; first-author paper in PeerJ Computer Science.*
 
-**Kyujin Choi** (2019–2020, now ML Engineer at KT) — Green Transportation Master's Candidate, KAIST.
-Topic: Deep RL, Cooperative-Competitive Multi-agent Systems.
+**Kyujin Choi** (2019–2020, now ML Engineer at KT) — Green Transportation MSc Candidate, KAIST.  
+Topic: Deep RL, Cooperative-Competitive Multi-agent Systems. *Co-authored two journal papers.*
 
-**Minah Seo** (2018–2019, now ML Engineer at KT) — Green Transportation Master's Candidate, KAIST.
+**Minah Seo** (2018–2019, now ML Engineer at KT) — Green Transportation MSc Candidate, KAIST.  
 Topic: Credit Assignment in Deep RL. *First-author paper in IEEE Access.*
