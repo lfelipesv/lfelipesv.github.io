@@ -14,7 +14,7 @@ My general research interests include Reinforcement Learning, Multi-Agent System
 - **Robotics**: end-to-end control, foundation models for robotics, safety and risks of robotic systems.
 - **AI for Science**: generative AI for protein and antibody design, flexible AI architectures (graph neural networks, diffusion models).
 
-My research vision is to develop algorithms that advance our knowledge on **how humans learn, interact, and collaborate**.
+My research vision is to develop algorithms that advance our knowledge on **how humans and machines learn, interact, and collaborate**.
 
 ## News
 
