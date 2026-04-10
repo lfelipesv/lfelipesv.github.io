@@ -93,8 +93,8 @@ I am very thankful for the support and trust given from my advisors throughout m
 
 ### Current
 
-**Bryan Nathanael Wijaya** (2023–present) — MsC Candidate, KAIST.
-Topic: Antigen-conditioned Antibody Design. *Published a first-author paper in mAbs.*
+**Bryan Nathanael Wijaya** (2023–present) — PhD Candidate, MPI-SP.
+Topic: Applied AI for Longitudinal Data, Generative AI, AI for Science. *Published a first-author paper in mAbs.*
 
 **Begench Hangeldiyev** (2022–present) — MsC Candidate, KAIST.
 Topic: Antibody Sequence Design with Graph-Based Methods. *Published first paper on antibody design at KSC 2023.*
