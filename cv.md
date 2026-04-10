@@ -53,13 +53,17 @@ Eco Vehicle Control System Development Team
 
 *The <sup>†</sup> symbol denotes a mentored student.*
 
-### Peer-Reviewed Journals
+### International Conferences
+
+{% bibliography --query @inproceedings[venue_type=conference] %}
+
+### Journals
 
 {% bibliography --query @article %}
 
-### Peer-Reviewed Conferences
+### Domestic Conferences and Workshops
 
-{% bibliography --query @inproceedings %}
+{% bibliography --query @inproceedings[venue_type=workshop] %}
 
 ### Preprints
 
