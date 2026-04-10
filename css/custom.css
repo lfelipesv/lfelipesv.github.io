@@ -1,30 +1,32 @@
 /* =======================================================================
    custom.css  —  Personal website redesign
    Design tokens:
-     Charcoal (structural):  #1A1A1A
-     Teal (accent):          #1A7F64
-     Teal hover:             #155E4A
-     Light teal tint:        #F0FAF7
+     Near-black (text/nav):   #111111
+     Charcoal (structural):   #1A1A1A
+     Teal (accent):           #1A7F64
+     Teal hover:              #155E4A
+     Light gray separator:    #EEEEEE
    ======================================================================= */
 
 /* -----------------------------------------------------------------------
-   GLOBAL — consistent base everywhere
+   GLOBAL
    ----------------------------------------------------------------------- */
 
 body {
   font-size: 16px;
   background-color: #FFFFFF;
+  color: #222222;
 }
 
 /* -----------------------------------------------------------------------
    TYPOGRAPHY SCALE  (applied to all content pages via .col-lg-8)
-   --- */
+   ----------------------------------------------------------------------- */
 
 .col-lg-8 h2 {
   font-size: 1.35rem;
   font-weight: 700;
-  color: #1A1A1A;
-  border-left: 4px solid #1A7F64;
+  color: #111111;
+  border-left: 3px solid #1A7F64;
   padding-left: 0.85rem;
   margin-top: 2.25rem;
   margin-bottom: 0.9rem;
@@ -45,17 +47,32 @@ body {
 .post-preview h2 {
   border-left: none !important;
   padding-left: 0 !important;
-  color: #404040;
+  color: #111111;
   margin-top: 0;
 }
 
 /* -----------------------------------------------------------------------
-   NAVBAR
+   PAGE TITLE  (inline title replacing the dark banner)
+   ----------------------------------------------------------------------- */
+
+.page-title {
+  font-size: 2rem;
+  font-weight: 800;
+  color: #111111;
+  margin-top: 0;
+  margin-bottom: 1.75rem;
+  padding-bottom: 0.65rem;
+  border-bottom: 2px solid #1A7F64;
+  letter-spacing: -0.01em;
+}
+
+/* -----------------------------------------------------------------------
+   NAVBAR  —  white bar, dark text, teal hover
    ----------------------------------------------------------------------- */
 
 .navbar-custom {
-  border-bottom: none;
-  box-shadow: 0 1px 8px rgba(0, 0, 0, 0.25);
+  border-bottom: 1px solid #EEEEEE;
+  box-shadow: 0 1px 6px rgba(0, 0, 0, 0.06);
 }
 
 .navbar-custom .nav li a {
@@ -63,13 +80,31 @@ body {
   font-size: 14px;
   font-weight: 600;
   letter-spacing: 0;
+  color: #333333;
+}
+
+.navbar-custom .navbar-brand {
+  color: #111111;
+  font-weight: 800;
 }
 
 .navbar-custom .navbar-brand:hover,
 .navbar-custom .navbar-brand:focus,
 .navbar-custom .nav li a:hover,
 .navbar-custom .nav li a:focus {
-  color: #7DD3B8 !important;
+  color: #1A7F64 !important;
+}
+
+/* Mobile hamburger button — dark on white navbar */
+.navbar-custom .navbar-toggle {
+  border-color: #DDDDDD;
+}
+.navbar-custom .navbar-toggle .icon-bar {
+  background-color: #444444;
+}
+.navbar-custom .navbar-toggle:hover,
+.navbar-custom .navbar-toggle:focus {
+  background-color: #F5F5F5;
 }
 
 /* Hide circular navbar avatar — replaced by sidebar photo on about page */
@@ -78,13 +113,17 @@ body {
 }
 
 /* -----------------------------------------------------------------------
-   PAGE HEADER BANNER
+   PAGE BANNER  —  hidden for page layout (inline title used instead)
    ----------------------------------------------------------------------- */
 
 .intro-header.no-img {
-  background-color: #1A1A1A;
-  padding: 32px 0 28px;
-  margin-bottom: 36px;
+  display: none;
+}
+
+/* Post banners (blog posts) stay visible but use the charcoal palette */
+.intro-header.has-img,
+.post-header {
+  margin-top: 0;
 }
 
 .intro-header .page-heading h1,
@@ -110,7 +149,7 @@ body {
   margin-top: 0;
 }
 
-/* Ensure h2 inside the header banner never gets the left border */
+/* Ensure h2 inside any remaining header banner never gets the left border */
 .intro-header h2 {
   border-left: none !important;
   padding-left: 0 !important;
@@ -129,7 +168,7 @@ body {
 
 .bibliography li {
   padding: 0.85rem 0;
-  border-bottom: 1px solid #E8E8E8;
+  border-bottom: 1px solid #EEEEEE;
   font-size: 1rem;
   line-height: 1.7;
   color: #222222;
@@ -154,7 +193,7 @@ body {
   text-transform: lowercase;
   margin-left: 7px;
   vertical-align: middle;
-  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.18);
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.15);
   transition: background-color 0.15s, box-shadow 0.15s;
 }
 
@@ -162,10 +201,10 @@ body {
   background-color: #155E4A;
   color: #ffffff !important;
   text-decoration: none !important;
-  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.22);
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
 }
 
-/* code button — distinct warm amber */
+/* code button — distinct rust color */
 .btn-code {
   display: inline-block;
   padding: 3px 10px;
@@ -180,7 +219,7 @@ body {
   text-transform: lowercase;
   margin-left: 5px;
   vertical-align: middle;
-  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.18);
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.15);
   transition: background-color 0.15s, box-shadow 0.15s;
 }
 
@@ -188,15 +227,16 @@ body {
   background-color: #8C2E00;
   color: #ffffff !important;
   text-decoration: none !important;
-  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.22);
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
 }
 
 /* -----------------------------------------------------------------------
-   FOOTER
+   FOOTER  —  white, thin top border, dark icons
    ----------------------------------------------------------------------- */
 
 footer {
-  border-top: none;
+  border-top: 1px solid #EEEEEE;
+  margin-top: 3rem;
 }
 
 /* -----------------------------------------------------------------------
@@ -211,19 +251,19 @@ footer {
   padding-bottom: 2.5rem;
 }
 
-/* Sidebar — card style with light teal tint */
+/* Sidebar — clean white card with shadow */
 .about-sidebar {
   flex: 0 0 195px;
   text-align: center;
   position: sticky;
   top: 85px;
-  background: #F0FAF7;
-  border-radius: 14px;
+  background: #FFFFFF;
+  border-radius: 12px;
   padding: 1.75rem 1.25rem 1.5rem;
-  border: 1px solid #C8EDE4;
+  box-shadow: 0 2px 16px rgba(0, 0, 0, 0.08);
 }
 
-/* Circular photo — matches original circular format */
+/* Circular photo */
 .about-photo {
   width: 145px;
   height: 145px;
@@ -231,7 +271,7 @@ footer {
   object-fit: cover;
   display: block;
   margin: 0 auto 1.1rem;
-  box-shadow: 0 3px 16px rgba(0, 0, 0, 0.14);
+  box-shadow: 0 3px 12px rgba(0, 0, 0, 0.12);
 }
 
 .about-name {
@@ -239,7 +279,7 @@ footer {
   font-size: 0.92rem;
   font-weight: 800;
   margin: 0 0 0.35rem;
-  color: #1A1A1A;
+  color: #111111;
   line-height: 1.3;
 }
 
@@ -270,7 +310,7 @@ footer {
   text-decoration: none;
 }
 
-/* Main content — consistent with rest of site */
+/* Main content */
 .about-main {
   flex: 1;
   min-width: 0;
@@ -280,16 +320,14 @@ footer {
 .about-main h2 {
   font-size: 1.35rem;
   font-weight: 700;
-  color: #1A1A1A;
-  border-left: 4px solid #1A7F64;
+  color: #111111;
+  border-left: 3px solid #1A7F64;
   padding-left: 0.85rem;
   margin-top: 2rem;
   margin-bottom: 0.9rem;
   text-transform: none;
   letter-spacing: 0;
 }
-
-/* Body text inherits 16px from body — no override needed */
 
 /* News list */
 .news-list {
@@ -300,7 +338,7 @@ footer {
 
 .news-list li {
   padding: 0.6rem 0;
-  border-bottom: 1px solid #E8E8E8;
+  border-bottom: 1px solid #EEEEEE;
   font-size: 1rem;
   line-height: 1.6;
 }
@@ -319,7 +357,7 @@ footer {
 /* Talks list */
 .talk-entry {
   padding: 0.55rem 0;
-  border-bottom: 1px solid #E8E8E8;
+  border-bottom: 1px solid #EEEEEE;
   font-size: 1rem;
   line-height: 1.6;
 }
@@ -355,5 +393,9 @@ footer {
   .intro-header .page-heading h1,
   .intro-header .post-heading h1 {
     font-size: 1.5rem;
+  }
+
+  .page-title {
+    font-size: 1.6rem;
   }
 }
