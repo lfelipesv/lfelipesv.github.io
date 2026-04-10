@@ -3,7 +3,7 @@ layout: about
 title: Luiz Felipe Vecchietti
 ---
 
-I am currently a **Postdoctoral Researcher** at the **Max Planck Institute for Security and Privacy (MPI-SP), Germany**, with Director [Meeyoung Cha](https://scholar.google.com/citations?user=iFlnVCoAAAAJ&hl=en). Previously, I was a Postdoctoral Researcher at the Institute for Basic Science, South Korea. I received my Bachelor's and Master's degrees at the Federal University of Rio de Janeiro.
+I am currently a **Postdoctoral Researcher** at the **Max Planck Institute for Security and Privacy (MPI-SP), Germany** with Director [Meeyoung Cha](https://scholar.google.com/citations?user=iFlnVCoAAAAJ&hl=en). Previously, I was a Postdoctoral Researcher at the Institute for Basic Science, South Korea. I received my Bachelor's and Master's degrees at the Federal University of Rio de Janeiro.
 
 ## Research Interests
 
@@ -14,7 +14,7 @@ My general research interests include Reinforcement Learning, Multi-Agent System
 - **Robotics**: foundation models for robotics, safety and risks of robotic systems.
 - **AI for Science**: generative AI for protein and antibody design, flexible AI architectures (graph neural networks, diffusion models).
 
-My research vision is to develop algorithms that advance our knowledge on how humans learn, interact, and collaborate.
+My research vision is to develop algorithms that advance our knowledge on **how humans learn, interact, and collaborate**.
 
 ## News
 
@@ -38,7 +38,7 @@ My research vision is to develop algorithms that advance our knowledge on how hu
 
 ## Diversity Statement
 
-I am committed to increasing diversity in AI research. If you are from an underrepresented group and need research mentoring and guidance, feel free to contact me.
+I am committed to increasing diversity in AI research. If you are from an underrepresented group and need research mentoring and guidance, feel free to contact me for a mentoring session.
 
 ## Personal Interests
 

@@ -2,6 +2,12 @@
 # The about page shows the 10 most recent (first 10 entries here).
 # Format: date (YYYY-MM), text (Markdown supported).
 
+- date: "2026-04"
+  text: "Our work *\"Exploring LLM Behavior in Relational Moral Dilemmas: Moral Rightness, Predicted Human Behavior, and Model Decisions\"* has been accepted at ACL Findings 2026."
+
+- date: "2026-01"
+  text: "Our work *\"Interpretable Machine Learning for Protein Science: Structure, Function, and Interactions\"* has been accepted for publication in ACM Computing Surveys."
+
 - date: "2025-12"
   text: "Our work *\"Longitudinal Identification of Critical Factors in Nurse Turnover for Supporting Workforce Well-Being\"* has been accepted for oral presentation at HCI Korea 2026."
 

@@ -8,17 +8,17 @@
   date: "October 2025"
 
 - key: "I2"
-  title: "LLMs outside Natural Language Processing Applications"
+  title: "LLMs outside Natural Language Processing applications"
   venue: "Ruhr University Bochum (RUB), Germany"
   date: "July 2025"
 
 - key: "I3"
-  title: "Integrating Data Science and AI methods in multidisciplinary research to make discoveries with social impact"
+  title: "Integrating data science and AI methods in multidisciplinary research to make discoveries with social impact"
   venue: "WebImmunization Seminar, University of Oslo, Norway"
   date: "December 2024"
 
 - key: "I4"
-  title: "Robust Optimization in Protein Fitness Landscapes Using Reinforcement Learning in Latent Space"
+  title: "Robust optimization in protein fitness landscapes using reinforcement learning in latent space"
   venue: "Cradle Bio, Zurich, Switzerland"
   date: "November 2024"
 
@@ -33,7 +33,7 @@
   date: "May 2023"
 
 - key: "I7"
-  title: "Target-conditioned Protein and Antibody Design for Drug Discovery"
+  title: "Target-conditioned protein and antibody design for drug discovery"
   venue: "IBS Winter School on AI-Boosted Basic Science, Institute for Basic Science, Daejeon, South Korea"
   date: "December 2022"
   note: "Co-delivered with Prof. Ho Min Kim (KAIST)"
