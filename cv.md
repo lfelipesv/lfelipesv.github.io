@@ -71,7 +71,7 @@ Eco Vehicle Control System Development Team
 
 **Reviewer — Journals:** IEEE Transactions on Cybernetics, IEEE Transactions on Games, IEEE Sensors, Frontiers in Robotics and AI
 
-**Program Committee — Conferences:** AAAI ICWSM 2022, NeurIPS 2024, ACM WSDM 2025, ICLR 2025, AISTATS 2025, ICML 2025, NeurIPS 2025, AAAI 2026, ICLR 2026, ICML 2026
+**Program Committee — Conferences:** AAAI ICWSM 2022, NeurIPS 2024, ACM WSDM 2025, ICLR 2025, AISTATS 2025, ICML 2025, NeurIPS 2025, AAAI 2026, ICLR 2026, Machine Behavior (Ma+Be) 2026, ICML 2026
 
 **Program Committee — Workshops:** ICML LatinX 2021, ICLR Reincarnating RL 2023, NeurIPS MLSB 2023, ICML ML4LMS 2024, NeurIPS MLSB 2024, NeurIPS MLSB 2025, ICLR MALGAI 2026
 
