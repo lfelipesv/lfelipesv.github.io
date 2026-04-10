@@ -8,7 +8,7 @@ In this page, my plan is to share some pictures I took while traveling and were 
 
 They contain beautiful sceneries and bring me good memories and thoughts that I want to share with each picture.
 
-### Rio de Janeiro - Brazil
+**Rio de Janeiro - Brazil**
 
 ![Praia do Flamengo](/img/nomad/rio-1.jpg)
 
@@ -21,7 +21,7 @@ They contain beautiful sceneries and bring me good memories and thoughts that I 
 Do leme ao pontal, nao ha nada igual no mundo."  
 (Do leme ao pontal - Tim Maia)
 
-### Sao Joao del Rey - Brazil
+**Sao Joao del Rey - Brazil**
 
 ![Sao Joao del Rey](/img/nomad/sao-joao-del-rey.jpg)
 
@@ -30,7 +30,7 @@ estender o sol na varanda ate queimar... so pra nao ter mais nada a perder
 pra perder o medo, mudar de ceu, mudar de ar, clarear de vez, Lumiar..."  
 (Lumiar - Beto Guedes)
 
-### Mount Snow - Vermont - USA
+**Mount Snow - Vermont - USA**
 
 ![Mount Snow Ski Resort](/img/nomad/mountsnow.jpg)
 
@@ -38,7 +38,7 @@ pra perder o medo, mudar de ceu, mudar de ar, clarear de vez, Lumiar..."
 We made it even though we had our backs up against the wall"  
 (We made it - Busta Rhymes ft. Linkin Park)
 
-### New York - USA
+**New York - USA**
 
 ![Times Square](/img/nomad/newyork.jpg)
 
@@ -47,7 +47,7 @@ Help me to decide, help me make the most of freedom and of pleasure
 Nothing ever lasts forever, everybody wants to rule the world"    
 (Everybody wants to rule the world - Tears for Fears)
 
-### Brasilia - Brazil
+**Brasilia - Brazil**
 
 ![Brasilia](/img/nomad/brasilia.jpg)
 
@@ -57,7 +57,7 @@ The deeper you get, the sweeter the pain
 Don't give up the game until your heart stops beating"    
 (Shellshock - New Order)
 
-### Macchu Picchu - Peru
+**Macchu Picchu - Peru**
 
 ![Macchu Picchu - 1](/img/nomad/macchupicchu-4.jpg)
 
@@ -74,7 +74,7 @@ Each another's audience
 Outside the gilded cage"    
 (Limelight - Rush)
 
-### Salvador - Brazil
+**Salvador - Brazil**
 
 ![Salvador](/img/nomad/salvador-1.jpg)
 
@@ -84,7 +84,7 @@ Fogo eterno pra consumir
 O inferno, fora daqui"    
 (Palco - Gilberto Gil)
 
-### Maracana - Rio de Janeiro - Brazil
+**Maracana - Rio de Janeiro - Brazil**
 
 ![Maranaca Stadium](/img/nomad/maracana.jpg)
 
@@ -94,7 +94,7 @@ Vou levar foguetes e bandeiras
 Nao vai ser de brincadeira, ele vai ser campeao"    
 (O campeao - Neguinho da Beija Flor)
 
-### Singapore
+**Singapore**
 
 ![Marina Bay](/img/nomad/singapore.JPG)
 
@@ -108,7 +108,7 @@ I will never let you go"
 "I don't wanna say goodbye"    
 (Mr Taxi - Girls Generation (Steve Aoki Remix))
 
-### KAIST - Daejeon South Korea
+**KAIST - Daejeon South Korea**
 
 ![KAIST](/img/nomad/kaist.jpg)
 
@@ -116,7 +116,7 @@ I will never let you go"
 Respeite quem pode chegar onde a gente chegou"    
 (Moleque Atrevido - Jorge Aragao)
 
-### Daecheon Beach - South Korea
+**Daecheon Beach - South Korea**
 
 ![Daecheon Beach](/img/nomad/daecheon.jpg)
 
@@ -126,7 +126,7 @@ I know you stole the sun
 But i hope you came to show"  
 (Miss Evening - Manana)
 
-### Beijing - China
+**Beijing - China**
 
 ![Forbidden City](/img/nomad/forbiddencity.jpg)
 
@@ -143,7 +143,7 @@ Se existe desespero e contra a calma
 E sem ter calma nada voce vai encontrar"    
 (A vida em seus metodos diz calma - Di Melo)
 
-### Kyoto - Japan
+**Kyoto - Japan**
 
 ![Kinkaku-ji](/img/nomad/kinkakuji.jpg)
 
@@ -158,7 +158,7 @@ It plagues my mind
 and it keeps us right here"  
 (Science of Fear - The Temper Trap)
 
-### Tokyo - Japan
+**Tokyo - Japan**
 
 ![Tokyo](/img/nomad/tokyo.jpg)
 
@@ -166,7 +166,7 @@ and it keeps us right here"
 how they live in Tokyo..."  
 (Tokyo Drift - Teriyaki Boyz)
 
-### Vladivostok - Russia
+**Vladivostok - Russia**
 
 ![Trans-Siberian Railway](/img/nomad/transiberian.jpg)
 
@@ -178,7 +178,7 @@ To change my life today"
   
 (Falling - Zapflap)
 
-### Mokpo - South Korea
+**Mokpo - South Korea**
 
 ![Formula 1 Korean GP](/img/nomad/f1-korea.jpg)
 
@@ -187,7 +187,7 @@ Tonight is the night, we'll fight till it's over
 So we put our hands up like the ceiling can't hold us"  
 (Can't Hold Us - Macklemore)
 
-### Hong Kong
+**Hong Kong**
 
 ![Hong Kong](/img/nomad/hongkong.jpg)
 
@@ -195,7 +195,7 @@ So we put our hands up like the ceiling can't hold us"
 Nao tire lagrimas de um homem"  
 (Love Song (A maior dor de um homem) - Sabotage)
 
-### Gyeongju - South Korea
+**Gyeongju - South Korea**
 
 ![Anapji Pond](/img/nomad/gyeongju.jpg)
 
@@ -205,7 +205,7 @@ E no que a escuridao tentar te dominar
 Sempre uma luz ira surgir"  
 (Sol de Paz - Strike)
 
-### Kathmandu - Nepal
+**Kathmandu - Nepal**
 
 ![Kathmandu](/img/nomad/kathmandu.jpg)
 
@@ -223,7 +223,7 @@ I get this feeling I'm in motion
 A sudden sense of liberty"  
 (True Faith - New Order)
 
-### Santiago - Chile
+**Santiago - Chile**
 
 ![Gran Torre Santiago](/img/nomad/santiago-chile.jpg)
 
@@ -242,7 +242,7 @@ Abre tu corazon,
 la vida se hizo para sembrar amor"  
 (Arriba la vida - Cronik)
 
-### London - UK
+**London - UK**
 
 ![London](/img/nomad/london.jpg)
 
@@ -264,7 +264,7 @@ Let it die
 because we are finally free tonight"  
 (The Great Escape - Boys like girls)
 
-### Ireland
+**Ireland**
 
 ![Kilkenny Castle](/img/nomad/ireland-1.jpg)
 
@@ -285,7 +285,7 @@ things that you can't say tomorrow day"
 De-fragmenting the attic fate"  
 (Anna Molly - Incubus)
 
-### Northern Ireland
+**Northern Ireland**
 
 ![Northern Irish border](/img/nomad/northern-ireland-1.jpg)
 
@@ -299,7 +299,7 @@ Electric feel now"
 Break those chains that bind you"  
 (Separate Ways - Journey)
 
-### Seoul - South Korea
+**Seoul - South Korea**
 
 ![Jamsil Tower](/img/nomad/jamsil-tower.jpg)
 
@@ -312,7 +312,7 @@ Cause I'll be right beside you"
   
 (Samba pro Rapha - Yamandu Costa)
 
-### Thailand
+**Thailand**
 
 ![Thailand](/img/nomad/thailand-2.jpeg)
 
@@ -321,7 +321,7 @@ Mas que preguica boa
 Me deixa aqui a toa..."  
 (Ceu Azul - Charlie Brown Jr)
 
-### San Francisco - USA
+**San Francisco - USA**
 
 ![Golden Gate](/img/nomad/sanfrancisco-goldengate.jpg)
 
@@ -329,7 +329,7 @@ Me deixa aqui a toa..."
 Take me to New York, I'd love to see LA"  
 (American Boy - Estelle ft Kanye West)
 
-### Busan - Korea
+**Busan - Korea**
 
 ![Busan](/img/nomad/busan.jpg)
 
@@ -339,7 +339,7 @@ O mundo tinha menos luz
 antes de conhece-la"  
 (Perigo - Medulla)
 
-### Xi'An - China
+**Xi'An - China**
 
 ![Xi'An](/img/nomad/xian-pagoda.jpg)
 
@@ -348,7 +348,7 @@ Stands before us now
 Beyond the game"  
 (Beyond the Game - WCG (Steve Aoki Remix))
 
-### Pohang - South Korea
+**Pohang - South Korea**
 
 ![Pohang](/img/nomad/pohang.jpg)
 
@@ -357,7 +357,7 @@ Non ce la faccio, ma per davvero
 Adesso mollo e faccio il matto, sai"    
 (Un'altra ancora - Fast Animals and Slow Kids)
 
-### Leblon - Rio de Janeiro - Brazil
+**Leblon - Rio de Janeiro - Brazil**
 
 ![Leblon](/img/nomad/leblon-riodejaneiro.jpg)
 
@@ -365,7 +365,7 @@ Adesso mollo e faccio il matto, sai"
 Mesmo que isso nao va mudar..."    
 (Bom te ver - Medulla)
 
-### Jukdo Beach - South Korea
+**Jukdo Beach - South Korea**
 
 ![Jukdo](/img/nomad/jukdobeach.jpg)
 
@@ -375,7 +375,7 @@ Close your eyes, lay down
 'Cos there goes the fear"    
 (There goes the fear - Doves)
 
-### Kyoto - Japan
+**Kyoto - Japan**
 
 ![Kyoto-2022](/img/nomad/kyoto-2022.jpg)
 
@@ -385,7 +385,7 @@ And every time we kiss
 I reach for the sky"    
 (Everytime we touch - Cascada)
 
-### Lisbon - Portugal
+**Lisbon - Portugal**
 
 ![Lisbon](/img/nomad/lisbon-portugal.jpg)
 
@@ -394,7 +394,7 @@ Só sei que esqueci tudo o que sei
 Deixei à porta, olhei à volta e voou"    
 (Passo a Passo - Nena)
 
-### Guimaraes - Portugal
+**Guimaraes - Portugal**
 
 ![Guimaraes](/img/nomad/guimaraes-portugal.jpg)
 
@@ -403,7 +403,7 @@ Isso mesmo até quando?
 Fé cega, radicalismo, sério?"    
 (Distopia - Planet Hemp)
 
-### Paris - France
+**Paris - France**
 
 ![Paris](/img/nomad/paris-france.jpg)
 
@@ -412,7 +412,7 @@ And stick to what we know
 I think the air is finally safe to breath again"    
 (Dreaming - Smallpools)
 
-### New Orleans - USA
+**New Orleans - USA**
 
 ![New Orleans](/img/nomad/neworleans.jpg)
 
@@ -421,7 +421,7 @@ Hold on to that feeling
 Streetlights, people"    
 (Don't Stop Believing - Journey)
 
-### Amsterdam - Netherlands
+**Amsterdam - Netherlands**
 
 ![Amsterdam](/img/nomad/amsterdam-2023.jpg)
 
@@ -429,7 +429,7 @@ Streetlights, people"
 I'll pull out my heart and I'll feed it to anyone"  
 (Disintegration - The Cure)
 
-### Utrecht - Netherlands
+**Utrecht - Netherlands**
 
 ![Utrecht](/img/nomad/utrecht-2023.jpg)
 
@@ -440,7 +440,7 @@ Shout at the crowd
 Wake them up"    
 (Ring the bells - James)
 
-### Rostock - Germany
+**Rostock - Germany**
 
 ![Rostock](/img/nomad/rostock-2023.jpg)
 
@@ -448,7 +448,7 @@ Wake them up"
 Here it comes, up in smoke and gone"    
 (Catch the sun - Doves)
 
-### Berlin - Germany
+**Berlin - Germany**
 
 ![Berlin](/img/nomad/berlin-2023.jpg)
 
@@ -457,7 +457,7 @@ No one needs to know we're feeling
 Higher and higher and higher"  
 (Little Secrets - Passion Pit)
 
-### Hamburg - Germany
+**Hamburg - Germany**
 
 ![Hamburg](/img/nomad/hamburg-2023.jpg)
 
@@ -466,7 +466,7 @@ Abro a mente para poder te encontrar
 A sua brisa vindo me faz viajar por lindos lugares"  
 (Samba - Rancore)
 
-### Koln - Germany
+**Koln - Germany**
 
 ![Koln](/img/nomad/koln-2024.jpg)
 
@@ -474,7 +474,7 @@ A sua brisa vindo me faz viajar por lindos lugares"
 Because you have to make this life livable"  
 (Strangelove - Depeche Mode)
 
-### Bochum - Germany
+**Bochum - Germany**
 
 ![Hamburg](/img/nomad/bochum-2024.jpg)
 
@@ -482,7 +482,7 @@ Because you have to make this life livable"
 The future still remains unknown, what we are shown"  
 (Somewhere in Time - 3rd Secret)
 
-### Tokyo - Japan
+**Tokyo - Japan**
 
 ![Tokyo](/img/nomad/tokyo-2023.jpg)
 
@@ -491,7 +491,7 @@ This is free love
 That's what we are made of"  
 (Reload - Sebastian Ingrosso)
 
-### Vienna - Austria
+**Vienna - Austria**
 
 ![Vienna](/img/nomad/vienna-2024.jpg)
 
@@ -500,7 +500,7 @@ You got to have the luck
 You got to have the look"  
 (The Man Who Would Be King - The Libertines)  
 
-### Zurich - Switzerland
+**Zurich - Switzerland**
 
 ![Zurich](/img/nomad/zurich-2024.jpg)
 
@@ -511,7 +511,7 @@ Não é preciso violência
 Basta bem pensar"  
 (Basta bem pensar - Di Melo)  
 
-### Kandersteg - Switzerland
+**Kandersteg - Switzerland**
 
 ![Kandersteg](/img/nomad/kandersteg-2024.jpg)
 
@@ -521,7 +521,7 @@ Nothing is full of suspense
 Nothing reveals"  
 (Nothing is perfect - Metric)  
 
-### Oslo - Norway
+**Oslo - Norway**
 
 ![Oslo](/img/nomad/oslo-2024.jpg)
 
@@ -530,7 +530,7 @@ Do you wanna let go?
 Loud volume turn so low, low, low"  
 (Entertainment - Phoenix)  
 
-### Hannover - Germany
+**Hannover - Germany**
 
 ![Hannover](/img/nomad/hannover-2025.jpg)
 
@@ -540,7 +540,7 @@ I've got the spirit
 But lose the feeling"  
 (Disorder - Joy Division)  
 
-### Copenhagen - Denmark
+**Copenhagen - Denmark**
 
 ![Copenhagen](/img/nomad/copenhagen-2025.jpg)
 
@@ -548,7 +548,7 @@ But lose the feeling"
 Sono stufo dei drammi in tele, delle lamentele, delle star in depre"  
 (Ti fa stare bene - Caparezza)  
 
-### Barcelona - Spain
+**Barcelona - Spain**
 
 ![Barcelona](/img/nomad/barcelona-2026.jpg)
 
@@ -558,7 +558,7 @@ Uma semente de ilusão
 Tem que morrer pra germinar"  
 (Drão - Gilberto Gil)  
 
-### Formiga - Minas Gerais - Brazil
+**Formiga - Minas Gerais - Brazil**
 
 ![Minas Gerais](/img/nomad/vidasimples.jpg)
 
