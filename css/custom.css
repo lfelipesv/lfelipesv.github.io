@@ -67,6 +67,41 @@ body {
 }
 
 /* -----------------------------------------------------------------------
+   POST HEADING  (inline title/date replacing the dark banner)
+   ----------------------------------------------------------------------- */
+
+.post-heading-inline {
+  margin-bottom: 2rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid #EEEEEE;
+}
+
+.post-title-inline {
+  font-size: 2rem;
+  font-weight: 800;
+  color: #111111;
+  margin-top: 0;
+  margin-bottom: 0.4rem;
+  letter-spacing: -0.01em;
+  line-height: 1.25;
+}
+
+.post-subtitle-inline {
+  font-size: 1.2rem;
+  color: #555555;
+  margin-top: 0.4rem;
+  margin-bottom: 0.5rem;
+  font-weight: 400;
+}
+
+.post-meta-inline {
+  font-size: 0.9rem;
+  color: #888888;
+  font-family: 'Open Sans', sans-serif;
+  margin: 0;
+}
+
+/* -----------------------------------------------------------------------
    NAVBAR  —  white bar, dark text, teal hover
    ----------------------------------------------------------------------- */
 
