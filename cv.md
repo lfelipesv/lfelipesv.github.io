@@ -3,8 +3,8 @@ layout: page
 title: cv
 ---
 
-**[Download CV (PDF)](https://lfelipesv.github.io/assets/CV_Luiz_Felipe_Vecchietti.pdf)**
-*Contact: felipe.vecchietti at mpi-sp.org*
+**[Download CV (PDF)](https://lfelipesv.github.io/assets/CV_Luiz_Felipe_Vecchietti.pdf)**  
+*felipe.vecchietti at mpi-sp.org*
 
 ---
 
@@ -14,29 +14,29 @@ I am currently a **Postdoctoral Researcher** at the **Max Planck Institute for S
 
 ## Research Interests
 
-- Reinforcement Learning *(Credit Assignment, Exploration, Goal-conditioned RL, Continual Learning)*
-- Multi-Agent Systems *(Collaborative, Collaborative-Competitive)*
-- Robotics *(Foundation Models, End-to-End Control, Safety and Risks)*
-- AI for Science *(Generative AI, Protein and Antibody Design, Drug Discovery, Graph Neural Networks, Diffusion Models)*
+- **Reinforcement Learning** *(Credit Assignment, Exploration, Goal-conditioned RL, Continual Learning)*
+- **Multi-Agent Systems** *(Collaborative, Collaborative-Competitive)*
+- **Robotics** *(Foundation Models, End-to-End Control, Safety and Risks)*
+- **AI for Science** *(Generative AI, Protein and Antibody Design, Drug Discovery, Graph Neural Networks, Diffusion Models)*
 
 ## Positions
 
 **2024.11–Present** — *Max Planck Institute for Security and Privacy (MPI-SP), Germany*
-Postdoctoral Researcher. Adviser: [Meeyoung Cha](https://scholar.google.com/citations?user=iFlnVCoAAAAJ&hl=en)
+Postdoctoral Researcher. Advisor: [Meeyoung Cha](https://scholar.google.com/citations?user=iFlnVCoAAAAJ&hl=en)
 
 **2021.10–2024.9** — *Data Science Group, Institute for Basic Science (IBS), South Korea*
-Senior Researcher. Adviser: [Meeyoung Cha](https://scholar.google.com/citations?user=iFlnVCoAAAAJ&hl=en)
+Senior Researcher. Advisor: [Meeyoung Cha](https://scholar.google.com/citations?user=iFlnVCoAAAAJ&hl=en)
 
 **2021.3–2021.9** — *Mechanical Engineering Research Institute, KAIST, South Korea*
-Postdoctoral Researcher. Adviser: Dongsoo Har
+Postdoctoral Researcher. Advisor: Dongsoo Har
 
 ## Education
 
 **2017–2021** — *Korea Advanced Institute of Science and Technology (KAIST)*
-PhD in Green Transportation. Thesis: *Performance Enhancement in Multigoal Reinforcement Learning using Hindsight Experience Replay*. Adviser: Dongsoo Har
+PhD in Green Transportation. Thesis: *Performance Enhancement in Multigoal Reinforcement Learning using Hindsight Experience Replay*. Advisor: Dongsoo Har
 
 **2015–2017** — *Federal University of Rio de Janeiro (UFRJ)*
-Master's Degree in Electrical Engineering. Dissertation: *Comparison between rule-based and data-driven NLP algorithms for Brazilian Portuguese speech synthesis*. Adviser: [Fernando Gil Vianna Resende Junior](http://pee.ufrj.br/prof/?ID=gil)
+Master's Degree in Electrical Engineering. Dissertation: *Comparison between rule-based and data-driven NLP algorithms for Brazilian Portuguese speech synthesis*. Advisor: [Fernando Gil Vianna Resende Junior](http://pee.ufrj.br/prof/?ID=gil)
 
 **2013** — *Korea Advanced Institute of Science and Technology (KAIST)*
 Exchange Student, Electrical Engineering Department
@@ -69,9 +69,11 @@ Eco Vehicle Control System Development Team
 
 **Reviewer — Journals:** IEEE Transactions on Cybernetics, IEEE Transactions on Games, IEEE Sensors, Frontiers in Robotics and AI
 
-**Reviewer — Conferences:** AAAI ICWSM 2022, NeurIPS 2024, ACM WSDM 2025, ICLR 2025, AISTATS 2025, ICML 2025, NeurIPS 2025, AAAI 2026, ICLR 2026
+**Program Committee — Conferences:** AAAI ICWSM 2022, NeurIPS 2024, ACM WSDM 2025, ICLR 2025, AISTATS 2025, ICML 2025, NeurIPS 2025, AAAI 2026, ICLR 2026, ICML 2026
 
-**Reviewer — Workshops:** ICML LatinX 2021, ICLR Reincarnating RL 2023, NeurIPS MLSB 2023, ICML ML4LMS 2024, NeurIPS MLSB 2024, NeurIPS MLSB 2025
+**Program Committee — Workshops:** ICML LatinX 2021, ICLR Reincarnating RL 2023, NeurIPS MLSB 2023, ICML ML4LMS 2024, NeurIPS MLSB 2024, NeurIPS MLSB 2025, ICLR MALGAI 2026
+
+**Board Member:** Diversity Board Member at the Max Planck Institute for Security and Privacy (MPI-SP)
 
 ## Invited Talks
 
@@ -89,16 +91,19 @@ I am very thankful for the support and trust given from my advisors throughout m
 
 ### Current
 
-**Bryan Nathanael Wijaya** (2023–present) — MsC Candidate, KAIST
+**Bryan Nathanael Wijaya** (2023–present) — MsC Candidate, KAIST.
 Topic: Antigen-conditioned Antibody Design. *Published a first-author paper in mAbs.*
 
-**Begench Hangeldiyev** (2022–present) — MsC Candidate, KAIST
+**Begench Hangeldiyev** (2022–present) — MsC Candidate, KAIST.
 Topic: Antibody Sequence Design with Graph-Based Methods. *Published first paper on antibody design at KSC 2023.*
+
+**Niklas Koeppe** (2025–present) — PhD Candidate, KAIST.
+Topic: Continual Learning. *Submitted first author paper to ICML 2026.*
 
 ### Alumni
 
 **Jiseon Kim** (2024–2025) — PhD Candidate, KAIST. Topic: Human-AI Alignment.
-*Presented a first-author paper at ACL Findings and the ICLR BiAlign Workshop 2025.*
+*Published first-author paper at ACL Findings.*
 
 **Hyunkyu Jung** (2021–2025, now PhD Candidate at KAIST) — PhD Candidate, KAIST.
 Topic: Protein-Protein Interactions using Equivariant Point Cloud Transformers.
