@@ -23,8 +23,9 @@ body {
    ----------------------------------------------------------------------- */
 
 .col-lg-8 h2 {
-  font-size: 1.35rem;
+  font-size: 1.6rem;
   font-weight: 700;
+  font-family: 'Lora', 'Times New Roman', serif;
   color: #111111;
   border-left: 3px solid #1A7F64;
   padding-left: 0.85rem;
@@ -35,8 +36,9 @@ body {
 }
 
 .col-lg-8 h3 {
-  font-size: 1.05rem;
+  font-size: 1.25rem;
   font-weight: 700;
+  font-family: 'Lora', 'Times New Roman', serif;
   color: #333333;
   margin-top: 1.5rem;
   margin-bottom: 0.5rem;
@@ -78,7 +80,8 @@ body {
 
 .post-title-inline {
   font-size: 2rem;
-  font-weight: 800;
+  font-weight: 700;
+  font-family: 'Lora', 'Times New Roman', serif;
   color: #111111;
   margin-top: 0;
   margin-bottom: 0.4rem;
@@ -391,8 +394,9 @@ footer {
 
 /* h2 headings in about-main match the site-wide scale */
 .about-main h2 {
-  font-size: 1.35rem;
+  font-size: 1.6rem;
   font-weight: 700;
+  font-family: 'Lora', 'Times New Roman', serif;
   color: #111111;
   border-left: 3px solid #1A7F64;
   padding-left: 0.85rem;
@@ -461,7 +465,11 @@ footer {
 
   .about-main h2,
   .col-lg-8 h2 {
-    font-size: 1.2rem;
+    font-size: 1.35rem;
+  }
+
+  .col-lg-8 h3 {
+    font-size: 1.1rem;
   }
 
   .intro-header .page-heading h1,
