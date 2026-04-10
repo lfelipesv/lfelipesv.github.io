@@ -31,9 +31,10 @@ My research vision is to develop algorithms that advance our knowledge on **how 
 ## Invited Talks
 
 {% for talk in site.data.talks %}
-**[{{ talk.key }}]** *{{ talk.title }}*  
-{{ talk.venue }}, {{ talk.date }}.{% if talk.note %} *{{ talk.note }}*{% endif %}
-
+<div class="talk-entry">
+<strong>[{{ talk.key }}]</strong> <em>{{ talk.title }}</em><br>
+{{ talk.venue }}, {{ talk.date }}.{% if talk.note %} <em>{{ talk.note }}</em>{% endif %}
+</div>
 {% endfor %}
 
 ## Diversity Statement

@@ -36,11 +36,11 @@ body {
 }
 
 .col-lg-8 h3 {
-  font-size: 1.25rem;
+  font-size: 1.45rem;
   font-weight: 700;
   font-family: 'Lora', 'Times New Roman', serif;
   color: #333333;
-  margin-top: 1.5rem;
+  margin-top: 1.75rem;
   margin-bottom: 0.5rem;
   letter-spacing: 0;
 }
@@ -62,10 +62,18 @@ body {
   font-weight: 800;
   color: #111111;
   margin-top: 0;
-  margin-bottom: 1.75rem;
+  margin-bottom: 0.4rem;
   padding-bottom: 0.65rem;
   border-bottom: 2px solid #1A7F64;
   letter-spacing: -0.01em;
+}
+
+.page-subtitle {
+  font-size: 1.05rem;
+  color: #666666;
+  font-style: italic;
+  margin: 0 0 1.75rem 0;
+  font-family: 'Lora', 'Times New Roman', serif;
 }
 
 /* -----------------------------------------------------------------------
@@ -390,6 +398,17 @@ footer {
 .about-main {
   flex: 1;
   min-width: 0;
+}
+
+/* Tighten paragraph margins inside about-main (main.css sets 30px globally) */
+.about-main p {
+  margin: 0.6rem 0;
+}
+
+/* Talks — tighter spacing between entries */
+.about-main .talk-entry,
+.about-main p + p {
+  margin-top: 0.5rem;
 }
 
 /* h2 headings in about-main match the site-wide scale */
