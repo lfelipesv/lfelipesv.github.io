@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Nomad
+title: nomad
 subtitle: 
 ---
 
