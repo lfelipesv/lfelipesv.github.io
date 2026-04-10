@@ -11,7 +11,7 @@ My general research interests include Reinforcement Learning, Multi-Agent System
 
 - **Reinforcement Learning**: improving sampling efficiency and performance by developing novel credit assignment and exploration methods, goal-conditioned RL, and continual learning.
 - **Multi-Agent Systems**: development of multi-agent RL algorithms in collaborative and collaborative-competitive environments, modeling of continual multi-agent frameworks.
-- **Robotics**: foundation models for robotics, safety and risks of robotic systems.
+- **Robotics**: end-to-end control, foundation models for robotics, safety and risks of robotic systems.
 - **AI for Science**: generative AI for protein and antibody design, flexible AI architectures (graph neural networks, diffusion models).
 
 My research vision is to develop algorithms that advance our knowledge on **how humans learn, interact, and collaborate**.
