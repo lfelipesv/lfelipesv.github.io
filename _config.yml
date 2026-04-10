@@ -69,7 +69,7 @@ author:
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  email: "lfelipesv@gmail.com"
+  email: "felipe.vecchietti@mpi-sp.org"
   github: lfelipesv
   linkedin: luiz-felipe-vecchietti-807b0114
   scholar: xPV0ONYAAAAJ
@@ -94,7 +94,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "lfelipesv.github.io/aboutme"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "lfelipesv.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
