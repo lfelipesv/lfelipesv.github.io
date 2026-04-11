@@ -16,6 +16,7 @@ My general research interests include Reinforcement Learning, Multi-Agent System
 
 My research vision is to develop algorithms that advance our knowledge on **how humans and machines learn, interact, and collaborate**.
 
+{% comment %}
 ## News
 
 <ul class="news-list">
@@ -23,6 +24,7 @@ My research vision is to develop algorithms that advance our knowledge on **how 
 <li><span class="news-date">[{{ item.date }}]</span> {{ item.text | markdownify | remove: '<p>' | remove: '</p>' | strip_newlines }}</li>
 {% endfor %}
 </ul>
+{% endcomment %}
 
 ## Selected Publications
 
