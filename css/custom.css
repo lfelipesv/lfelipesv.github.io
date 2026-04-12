@@ -469,6 +469,56 @@ footer {
 }
 
 /* -----------------------------------------------------------------------
+   CV PAGE  —  header with photo + info, and subheader styling
+   ----------------------------------------------------------------------- */
+
+.cv-header {
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+  margin-bottom: 1.75rem;
+  padding-bottom: 1.25rem;
+  border-bottom: 1px solid #EEEEEE;
+}
+
+.cv-photo {
+  width: 130px;
+  height: 130px;
+  border-radius: 50%;
+  object-fit: cover;
+  flex-shrink: 0;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+.cv-header-info {
+  flex: 1;
+}
+
+.cv-header-info a {
+  font-size: 1.05rem;
+  font-weight: 700;
+  color: #1A7F64;
+  text-decoration: none;
+}
+
+.cv-header-info a:hover {
+  color: #155E4A;
+  text-decoration: underline;
+}
+
+.cv-header-info p {
+  margin: 0.3rem 0 0;
+  font-size: 1rem;
+  color: #555555;
+}
+
+/* CV subheaders — lighter teal left border to distinguish from h2 */
+.col-lg-8 h3 {
+  border-left: 2px solid #A8D8CC;
+  padding-left: 0.75rem;
+}
+
+/* -----------------------------------------------------------------------
    MOBILE  —  stack sidebar above content
    ----------------------------------------------------------------------- */
 
@@ -489,11 +539,11 @@ footer {
 
   .about-main h2,
   .col-lg-8 h2 {
-    font-size: 1.35rem;
+    font-size: 1.5rem;
   }
 
   .col-lg-8 h3 {
-    font-size: 1.1rem;
+    font-size: 1.3rem;
   }
 
   .intro-header .page-heading h1,
@@ -503,5 +553,15 @@ footer {
 
   .page-title {
     font-size: 1.6rem;
+  }
+
+  .cv-header {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+
+  .cv-header-info {
+    text-align: center;
   }
 }
