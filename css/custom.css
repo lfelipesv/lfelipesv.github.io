@@ -476,9 +476,12 @@ footer {
   display: flex;
   align-items: center;
   gap: 2rem;
-  margin-bottom: 1.75rem;
-  padding-bottom: 1.25rem;
-  border-bottom: 1px solid #EEEEEE;
+  margin-top: 1rem;
+  margin-bottom: 2rem;
+  padding: 1.5rem 1.75rem;
+  border: 1px solid #E0E0E0;
+  border-radius: 12px;
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.06);
 }
 
 .cv-photo {
@@ -495,10 +498,11 @@ footer {
 }
 
 .cv-header-info a {
-  font-size: 1.05rem;
+  font-size: 1.15rem;
   font-weight: 700;
   color: #1A7F64;
   text-decoration: none;
+  font-family: 'Lora', 'Times New Roman', serif;
 }
 
 .cv-header-info a:hover {
@@ -507,9 +511,10 @@ footer {
 }
 
 .cv-header-info p {
-  margin: 0.3rem 0 0;
-  font-size: 1rem;
+  margin: 0.5rem 0 0;
+  font-size: 1.1rem;
   color: #555555;
+  font-family: 'Lora', 'Times New Roman', serif;
 }
 
 /* CV subheaders — lighter teal left border to distinguish from h2 */
