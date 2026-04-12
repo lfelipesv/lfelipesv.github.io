@@ -478,9 +478,13 @@ footer {
   gap: 2rem;
   margin-top: 1rem;
   margin-bottom: 2rem;
-  padding: 1.5rem 1.75rem;
+}
+
+.cv-photo-box {
+  flex-shrink: 0;
   border: 1px solid #E0E0E0;
   border-radius: 12px;
+  padding: 0.75rem;
   box-shadow: 0 2px 12px rgba(0, 0, 0, 0.06);
 }
 
@@ -489,8 +493,7 @@ footer {
   height: 130px;
   border-radius: 50%;
   object-fit: cover;
-  flex-shrink: 0;
-  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  display: block;
 }
 
 .cv-header-info {
@@ -498,7 +501,7 @@ footer {
 }
 
 .cv-header-info a {
-  font-size: 1.15rem;
+  font-size: 17px !important;
   font-weight: 700;
   color: #1A7F64;
   text-decoration: none;
@@ -512,7 +515,7 @@ footer {
 
 .cv-header-info p {
   margin: 0.5rem 0 0;
-  font-size: 1.1rem;
+  font-size: 17px !important;
   color: #555555;
   font-family: 'Lora', 'Times New Roman', serif;
 }
@@ -563,7 +566,6 @@ footer {
   .cv-header {
     flex-direction: column;
     align-items: center;
-    text-align: center;
   }
 
   .cv-header-info {

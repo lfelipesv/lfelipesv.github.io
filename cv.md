@@ -4,7 +4,9 @@ title: cv
 ---
 
 <div class="cv-header">
-  <img src="/img/site-image-2.png" class="cv-photo" alt="Luiz Felipe Vecchietti">
+  <div class="cv-photo-box">
+    <img src="/img/site-image-2.png" class="cv-photo" alt="Luiz Felipe Vecchietti">
+  </div>
   <div class="cv-header-info">
     <a href="https://lfelipesv.github.io/assets/CV_Luiz_Felipe_Vecchietti.pdf" target="_blank" rel="noopener">Download CV (PDF)</a>
     <p>felipe.vecchietti at mpi-sp.org</p>
