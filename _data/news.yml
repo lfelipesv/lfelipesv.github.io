@@ -2,6 +2,12 @@
 # The about page shows the 10 most recent (first 10 entries here).
 # Format: date (YYYY-MM), text (Markdown supported).
 
+- date: "2026-05"
+  text: "Our work *\"Mitigating Plasticity Loss through Architectural Design in Continual Learning\"* has been accepted at ICML 2026."
+
+- date: "2026-05"
+  text: "Our work *\"Textual Supervision Enhances Geospatial Representations in Vision-Language Models\"* has been accepted at ICML 2026."
+
 - date: "2026-04"
   text: "Our work *\"Exploring LLM Behavior in Relational Moral Dilemmas: Moral Rightness, Predicted Human Behavior, and Model Decisions\"* has been accepted at ACL Findings 2026."
 
