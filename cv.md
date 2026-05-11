@@ -99,13 +99,13 @@ I am very thankful for the support and trust given from my advisors throughout m
 ### Current
 
 **Bryan Nathanael Wijaya** (2023–present) — PhD Candidate, MPI-SP.  
-Topic: Applied AI for Longitudinal Data, Generative AI, AI for Science. *Published a first-author paper in mAbs.*
+Topic: Applied AI for Longitudinal Data, Generative AI, AI for Science. *Published a first-author paper in mAbs, co-author at ACM Computing Surveys, ICML papers.*
 
 **Begench Hangeldiyev** (2022–present) — MSc Candidate, KAIST.  
-Topic: Antibody Sequence Design with Graph-Based Methods. *Published first paper on antibody design at KSC 2023.*
+Topic: Antibody Sequence Design with Graph-Based Methods. *Published first paper on antibody design at KSC 2023, co-author at mAbs, ACM Computing Surveys papers.*
 
 **Niklas Koeppe** (2025–present) — PhD Candidate, KAIST.  
-Topic: Continual Learning. *Submitted first author paper to ICML 2026.*
+Topic: Continual Learning. *First author paper accepted to ICML.*
 
 ### Alumni
 
