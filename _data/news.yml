@@ -2,6 +2,9 @@
 # The about page shows the 10 most recent (first 10 entries here).
 # Format: date (YYYY-MM), text (Markdown supported).
 
+- date: "2026-09"
+  text: "Our work *\"Self-Evolving Agents Should Build Internal and External Models of the World\"* has been accepted at NeurIPS 2026."
+
 - date: "2026-05"
   text: "Our work *\"Mitigating Plasticity Loss through Architectural Design in Continual Learning\"* has been accepted at ICML 2026."
 

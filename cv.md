@@ -19,10 +19,10 @@ I am currently a **Postdoctoral Researcher** at the **Max Planck Institute for S
 
 ## Research Interests
 
-- **Reinforcement Learning** *(Credit Assignment, Exploration, Goal-conditioned RL, Continual Learning)*
-- **Multi-Agent Systems** *(Collaborative, Collaborative-Competitive)*
-- **Robotics** *(Foundation Models, End-to-End Control, Safety and Risks)*
-- **AI for Science** *(Generative AI, Protein and Antibody Design, Drug Discovery, Graph Neural Networks, Diffusion Models)*
+- **Reinforcement Learning** *(continual learning, multi-agent RL, improving sampling efficiency and performance by developing novel credit assignment and exploration methods, and goal-conditioned RL)*
+- **Multi-Agent Systems** *(development of multi-agent RL algorithms in collaborative and collaborative-competitive environments, modeling of continual multi-agent frameworks)*
+- **Robotics** *(end-to-end control, safety and risks of robotic systems, and hardware security)*
+- **AI for Science** *(generative AI, protein and antibody Design, drug discovery, graph neural networks, diffusion models)*
 
 ## Positions
 
@@ -106,6 +106,9 @@ Topic: Antibody Sequence Design with Graph-Based Methods. *Published first paper
 
 **Niklas Koeppe** (2025–present) — PhD Candidate, KAIST.  
 Topic: Continual Learning. *First author paper accepted to ICML.*
+
+**Nifu Dan** (2026–present) — MsC Candidate, Georgia Tech.  
+Topic: Factuality in LLMs. *Submitted first author paper to NAACL.*
 
 ### Alumni
 

@@ -7,14 +7,16 @@ I am currently a **Postdoctoral Researcher** at the **Max Planck Institute for S
 
 ## Research Interests
 
-My general research interests include Reinforcement Learning, Multi-Agent Systems, Robotics, and AI for Science. From these, I am particularly interested in:
+My research vision is to develop safe artificial intelligence algorithms for multi-agent systems that advance our knowledge on **how humans and machines learn, interact, and collaborate**.
 
-- **Reinforcement Learning**: improving sampling efficiency and performance by developing novel credit assignment and exploration methods, goal-conditioned RL, and continual learning.
+My general research interests include Reinforcement Learning, Multi-Agent Systems, and Robotics. From these, I am particularly interested in:
+
+- **Reinforcement Learning**: continual learning, multi-agent RL, improving sampling efficiency and performance by developing novel credit assignment and exploration methods, and goal-conditioned RL.
 - **Multi-Agent Systems**: development of multi-agent RL algorithms in collaborative and collaborative-competitive environments, modeling of continual multi-agent frameworks.
-- **Robotics**: end-to-end control, foundation models for robotics, safety and risks of robotic systems.
+- **Robotics**: end-to-end control, safety and risks of robotic systems, and hardware security.
+{% comment %}
 - **AI for Science**: generative AI for protein and antibody design, flexible AI architectures (graph neural networks, diffusion models).
-
-My research vision is to develop algorithms that advance our knowledge on **how humans and machines learn, interact, and collaborate**.
+{% endcomment %}
 
 {% comment %}
 ## News
@@ -30,6 +32,7 @@ My research vision is to develop algorithms that advance our knowledge on **how 
 
 {% bibliography --query @*[selected=true] %}
 
+{% comment %}
 ## Invited Talks
 
 <ul class="news-list">
@@ -38,6 +41,7 @@ My research vision is to develop algorithms that advance our knowledge on **how 
 {{ talk.venue }}, {{ talk.date }}.{% if talk.note %} <em>{{ talk.note }}</em>{% endif %}</li>
 {% endfor %}
 </ul>
+{% endcomment %}
 
 ## Diversity Statement
 

@@ -203,12 +203,12 @@ MsC Candidate at KAIST
 **Topic:** Antibody Sequence Design with Graph-Based Methods  
 *Published his first paper on antibody design with deep learning at KSC 2023.*  
 
-- **Jiseon Kim**, 2024-Now  
+#### Alumni  
+
+- **Jiseon Kim**, 2024-2025  
 PhD Candidate at KAIST  
 **Topic:** Human-AI Alignment  
-*Presented a first-author paper on AI Alignment at the ICLR BiAlign Workshop 2025.*  
-
-#### Alumni  
+*Presented a first-author paper on ACL Findings and AI Alignment at the ICLR BiAlign Workshop 2025.*  
 
 - **Hyunkyu Jung**, 2021-2025  *(now PhD Candidate at KAIST)*    
 PhD Candidate at KAIST  
